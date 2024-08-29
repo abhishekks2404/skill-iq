@@ -7,9 +7,10 @@ from dotenv import load_dotenv
 import chardet
 import re
 import json
+import collections
 
 
-from sales_iq_graph import create_advancement_chart,create_spider_chart
+from sales_iq_graph import create_advancement_chart,create_spider_chart, grade_wise_data_for_spider
 # Load the .env file
 load_dotenv()
 
@@ -35,7 +36,7 @@ if not st.session_state.panel:
 
 def generate_progress_data(json_data):
     # Define the keys we are interested in
-    keys = ['Metrics', 'Economic Buyer','Decision Criteria', 'Decision Process','Identify Pain','Champion', 'Competition']
+    keys = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']
  
     progress_data = {}
     for i, (transcript_key, transcript_values) in enumerate(json_data.items(), start=1):
@@ -416,15 +417,7 @@ if st.session_state.panel:
                 except UnicodeDecodeError:
                     st.warning(f"Skipping non-text file: {file_name}")
 
-        fields_to_average = [
-                            "Metrics",
-                            "Economic Buyer",
-                            "Decision Criteria",
-                            "Decision Process",
-                            "Identify Pain",
-                            "Champion",
-                            "Competition"
-                            ]
+        fields_to_average = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']
         
         averages = {field: 0 for field in fields_to_average}
         transcript_count = len(deal_levels)
@@ -446,6 +439,7 @@ if st.session_state.panel:
 
         spider = create_spider_chart(specific_json,"Transcript-wise Competency Performance")
         spider2 = create_spider_chart(final_averages,"Competency Performance Over Time")
+        spider_grade = create_spider_chart(grade_wise_data_for_spider(deal_levels), "Grade-wise Competency Performance")
         bar_chart = create_advancement_chart(averages)
 
         
@@ -461,6 +455,7 @@ if st.session_state.panel:
             st.plotly_chart(spider2)
         with col2:
             st.plotly_chart(bar_chart)
+            st.plotly_chart(spider_grade)
         
         # st.write(skills_metrics)
         # print(deal_levels)

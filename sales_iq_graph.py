@@ -1,8 +1,46 @@
 import plotly.graph_objects as go
 import numpy as np
 from plotly.offline import plot
+import collections
+
+def grade_wise_data_for_spider(json_data):
+    # Define the keys we are interested in
+    keys = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']
+ 
+    progress_data = {}
+    for i, (transcript_key, transcript_values) in enumerate(json_data.items(), start=1):
+        # Map the values directly from the transcript to the progress data
+        progress_data[transcript_key] = {key: int(transcript_values[key]) for key in keys}
+        progress_data[transcript_key]["stage"] = str(transcript_values["deal_stage_level"])
 
 
+
+    # Dictionary to accumulate sums and counts for each stage
+    stage_data = collections.defaultdict(lambda: {
+        'Decision Criteria': 0,
+        'Economic Buyer': 0,
+        'Metrics': 0,
+        'Competition': 0,
+        'Champion': 0,
+        'Identify Pain': 0,
+        'Decision Process': 0,
+        'count': 0
+    })
+    
+    # Accumulate the sums and counts
+    for transcript_values in progress_data.values():
+        stage = transcript_values['stage']
+        for key in ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']:
+            stage_data[stage][key] += transcript_values[key]
+        stage_data[stage]['count'] += 1
+    
+    # Calculate the averages
+    final_data = {}
+    for stage, values in stage_data.items():
+        final_data[stage] = {key: values[key] / values['count'] for key in values if key != 'count'}
+    
+    # Output the final JSON
+    return final_data
 def create_spider_chart(progress_dict,graph_title):
     categories = list(next(iter(progress_dict.values())).keys())
 
