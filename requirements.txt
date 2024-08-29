@@ -2,7 +2,6 @@ plotly
 openai==0.28
 streamlit
 pandas
-plotly
 python-dotenv
 chardet
 openpyxl

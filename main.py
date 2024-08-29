@@ -9,19 +9,41 @@ import re
 import json
 
 
-from sales_iq_graph import generate_spider_chart, create_advancement_chart
+from sales_iq_graph import create_advancement_chart,create_spider_chart
 # Load the .env file
 load_dotenv()
 
-# Get the API key from the .env file
-openai_api_key = os.getenv('OPENAI_API_KEY')
-openai.api_key =openai_api_key
+if "panel" not in st.session_state:
+    st.session_state.panel = False
 
-#def transcription_using_openai(file_path):
-    #audio_file=open(file_path,"rb")
-    #response = openai.Audio.transcribe("whisper-1",audio_file)
-    #Text1 = (response["text"])
-    #return Text1
+st.set_page_config(page_title="SalesIQ", layout='wide')
+st.markdown("<h1 style='text-align: center; color: grey;'>Sales IQ</h1>", unsafe_allow_html=True)
+
+input_key = st.text_input("Enter your OpenAI API key:", type="password")
+button = st.button("Set API Key")
+if input_key and button :
+    openai.api_key = input_key    
+    st.session_state.panel = True
+
+if not st.session_state.panel:
+    st.error("Please enter your OpenAI API key.")
+
+
+# Get the API key from the .env file
+# openai_api_key = os.getenv('OPENAI_API_KEY')
+# openai.api_key =openai_api_key
+
+def generate_progress_data(json_data):
+    # Define the keys we are interested in
+    keys = ['Metrics', 'Economic Buyer','Decision Criteria', 'Decision Process','Identify Pain','Champion', 'Competition']
+ 
+    progress_data = {}
+    for i, (transcript_key, transcript_values) in enumerate(json_data.items(), start=1):
+        progress_key = f'Transcript {i}'
+        # Map the values directly from the transcript to the progress data
+        progress_data[progress_key] = {key: int(transcript_values[key]) for key in keys}
+ 
+    return progress_data
 
 def get_folders_in_directory():
     '''
@@ -42,7 +64,6 @@ def get_files_in_directory(selected_folder):
 
 def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description,skill_levels_description):
     try:
-        print("openai key : ",openai_api_key)
         
         
         json_file = {
@@ -335,101 +356,112 @@ Skill_level_description= {
 }
 
 
-st.set_page_config(page_title="SalesIQ", layout='wide')
-st.markdown("<h1 style='text-align: center; color: grey;'>Sales Audio Call Insights</h1>", unsafe_allow_html=True)
+
 
 # names = get_folders_in_directory()
 
 # Dropdown menu to select Audio Call
 
-uploaded_files = st.file_uploader("Upload Audio Transcripts", type="txt", accept_multiple_files=True)
-
-button1 = st.button("Get Insights for transcripts")
-
-if button1:
-    # file_names_list = get_files_in_directory(Audio_call)
-    #transcription = transcribe_audio(file_path)
-
-    # st.write(file_names_list)
-    content = {}
-    deal_levels = {}
-    skills_metrics = {}
-    with st.spinner('Loading Insights...'):
-       
-        for index, uploaded_file in enumerate(uploaded_files, start=1):
-            try:
-                raw_data = uploaded_file.read()
-                result = chardet.detect(raw_data)
-                encoding = result['encoding']
-                
-                uploaded_file.seek(0)  # Reset file pointer to the beginning
-                content_name = uploaded_file.read().decode(encoding)
-
-                deal_level = AudioCall_Assessment_Deal_StageLevel(content_name,Sale_deal_stages_description,skill_levels_description) 
-                print("deal level : ",deal_level)
-                if deal_level:
-                    deal_stage_level = deal_level['deal_stage_level']
-                    skill_level = deal_level['skill_level']
-                    question_set = get_question_df_from_file(deal_stage_level,skill_level)
-                    skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name,question_set,skills_list,Skill_level_description,Deal_stage_description)
-                    # print("deal_stage_level :",deal_stage_level)
-                    # print("skill_level :",skill_level)
-                    print(skill_metrics)
-
-                key = f'transcript_{index}'
-                deal_levels[key] = deal_level 
-                skills_metrics[key] = skill_metrics
-                # transcript_Num = deal_levels[key]
-                # transcript_Num.update(skill_metrics)
-                for key in deal_levels.keys():
-                    if key in skills_metrics:
-                        deal_levels[key].update(skills_metrics[key])
-
-                # print(deal_levels)
-                content[key] = content_name
-            except UnicodeDecodeError:
-                st.warning(f"Skipping non-text file: {file_name}")
-
-    fields_to_average = [
-                        "Metrics",
-                        "Economic Buyer",
-                        "Decision Criteria",
-                        "Decision Process",
-                        "Identify Pain",
-                        "Champion",
-                        "Competition"
-                        ]
-    
-    averages = {field: 0 for field in fields_to_average}
-    transcript_count = len(deal_levels)
-
-    # Sum up the values for each field across all transcripts
-    for transcript in deal_levels.values():
-        for field in fields_to_average:
-            averages[field] += int(transcript[field])
-
-    # Calculate the average for each field
-    for field in averages:
-        averages[field] /= transcript_count
-    
-    # Average = json.loads(averages)
-
-    spider = generate_spider_chart(averages)
-    bar_chart = create_advancement_chart(averages)
-
-    
-    st.write(deal_levels)
-    st.write(averages)
-
-    col1, col2 = st.columns(2)
 
 
+if st.session_state.panel:
 
-    with col1:
-        st.plotly_chart(spider)
-    with col2:
-        st.plotly_chart(bar_chart)
-    
-    # st.write(skills_metrics)
-    # print(deal_levels)
+    st.success("Key Successfully Entered")
+   
+    uploaded_files = st.file_uploader("Upload Audio Transcripts", type="txt", accept_multiple_files=True)
+
+    button1 = st.button("Get Insights for transcripts")
+
+    if button1:
+        # file_names_list = get_files_in_directory(Audio_call)
+        #transcription = transcribe_audio(file_path)
+
+        # st.write(file_names_list)
+        content = {}
+        deal_levels = {}
+        skills_metrics = {}
+        with st.spinner('Loading Insights...'):
+        
+            for index, uploaded_file in enumerate(uploaded_files, start=1):
+                try:
+                    raw_data = uploaded_file.read()
+                    result = chardet.detect(raw_data)
+                    encoding = result['encoding']
+                    
+                    uploaded_file.seek(0)  # Reset file pointer to the beginning
+                    content_name = uploaded_file.read().decode(encoding)
+
+                    deal_level = AudioCall_Assessment_Deal_StageLevel(content_name,Sale_deal_stages_description,skill_levels_description) 
+                    print("deal level : ",deal_level)
+                    if deal_level:
+                        deal_stage_level = deal_level['deal_stage_level']
+                        skill_level = deal_level['skill_level']
+                        question_set = get_question_df_from_file(deal_stage_level,skill_level)
+                        skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name,question_set,skills_list,Skill_level_description,Deal_stage_description)
+                        # print("deal_stage_level :",deal_stage_level)
+                        # print("skill_level :",skill_level)
+                        print(skill_metrics)
+
+                    key = f'transcript_{index}'
+                    deal_levels[key] = deal_level 
+                    skills_metrics[key] = skill_metrics
+                    # transcript_Num = deal_levels[key]
+                    # transcript_Num.update(skill_metrics)
+                    for key in deal_levels.keys():
+                        if key in skills_metrics:
+                            deal_levels[key].update(skills_metrics[key])
+
+                    # print(deal_levels)
+                    content[key] = content_name
+                except UnicodeDecodeError:
+                    st.warning(f"Skipping non-text file: {file_name}")
+
+        fields_to_average = [
+                            "Metrics",
+                            "Economic Buyer",
+                            "Decision Criteria",
+                            "Decision Process",
+                            "Identify Pain",
+                            "Champion",
+                            "Competition"
+                            ]
+        
+        averages = {field: 0 for field in fields_to_average}
+        transcript_count = len(deal_levels)
+
+        # Sum up the values for each field across all transcripts
+        for transcript in deal_levels.values():
+            for field in fields_to_average:
+                averages[field] += int(transcript[field])
+
+        # Calculate the average for each field
+        for field in averages:
+            averages[field] /= transcript_count
+        
+        # Average = json.loads(averages)
+
+        specific_json = generate_progress_data(deal_levels)
+
+        final_averages = {"Transcript" : averages}
+
+        spider = create_spider_chart(specific_json,"Transcript-wise Competency Performance")
+        spider2 = create_spider_chart(final_averages,"Competency Performance Over Time")
+        bar_chart = create_advancement_chart(averages)
+
+        
+        st.write("Transcript Data : ",deal_levels)
+        st.write("Average Metrics Score : ",averages)
+
+        col1, col2 = st.columns(2)
+
+
+
+        with col1:
+            st.plotly_chart(spider)
+            st.plotly_chart(spider2)
+        with col2:
+            st.plotly_chart(bar_chart)
+        
+        # st.write(skills_metrics)
+        # print(deal_levels)
 

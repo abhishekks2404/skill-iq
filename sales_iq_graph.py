@@ -2,40 +2,44 @@ import plotly.graph_objects as go
 import numpy as np
 from plotly.offline import plot
 
-def generate_spider_chart(score_dict, file_name="competency_performance_vs_ideal.html"):
-    # Define the ideal values
-    categories = list(score_dict.keys())
-    current_values = list(score_dict.values())
-    current_values =  [x-1 for x in current_values ]
 
-    ideal_values = [3] * len(categories)
+def create_spider_chart(progress_dict,graph_title):
+    categories = list(next(iter(progress_dict.values())).keys())
 
     # Create the figure
     fig = go.Figure()
 
-    # Add ideal values trace
-    fig.add_trace(go.Scatterpolar(
-        r=ideal_values,
-        theta=categories,
-        fill='toself',
-        name='Ideal Performance',
-        line=dict(color='rgba(144, 238, 144, 0.8)'),  # Light green with some transparency
-        fillcolor='rgba(144, 238, 144, 0.3)'  # Very light green fill with more transparency
-    ))
+    # Color palette for progress traces
+    colors = ['rgba(255, 0, 0, {})', 'rgba(0, 255, 0, {})', 'rgba(0, 0, 255, {})',
+              'rgba(255, 255, 0, {})', 'rgba(255, 0, 255, {})']
 
-    # Add current values trace
-    fig.add_trace(go.Scatterpolar(
-        r=current_values,
-        theta=categories,
-        fill='toself',
-        name='Current Performance',
-        line=dict(color='rgba(100, 149, 237, 0.8)'),  # Cornflower blue with some transparency
-        fillcolor='rgba(100, 149, 237, 0.5)'  # Cornflower blue fill with more transparency
-    ))
+    # Add traces for each progress
+    for i, (progress_name, scores) in enumerate(progress_dict.items()):
+        color = colors[i % len(colors)]
+        fig.add_trace(go.Scatterpolar(
+            r=list(scores.values()),
+            theta=categories,
+            fill='toself',
+            name=progress_name,
+            line=dict(color=color.format(0.8)),
+            fillcolor=color.format(0.3)
+        ))
+
+    # Add ideal values trace if there's only one progress
+    if len(progress_dict) == 1:
+        ideal_values = [3] * len(categories)
+        fig.add_trace(go.Scatterpolar(
+            r=ideal_values,
+            theta=categories,
+            fill='toself',
+            name='Ideal Performance',
+            line=dict(color='rgba(144, 238, 144, 0.8)'),
+            fillcolor='rgba(144, 238, 144, 0.3)'
+        ))
 
     # Add inner circles
     for r in [0.5, 1, 1.5, 2, 2.5]:
-        theta = np.linspace(0, 2*np.pi, 100)
+        theta = np.linspace(0, 2 * np.pi, 100)
         x = r * np.cos(theta)
         y = r * np.sin(theta)
         fig.add_trace(go.Scatter(
@@ -48,7 +52,6 @@ def generate_spider_chart(score_dict, file_name="competency_performance_vs_ideal
 
     # Update layout
     fig.update_layout(
-        # Polar axis settings
         polar=dict(
             radialaxis=dict(
                 visible=True,
@@ -56,16 +59,15 @@ def generate_spider_chart(score_dict, file_name="competency_performance_vs_ideal
                 showline=False,
                 color='rgba(0,0,0,0.1)',
                 tickfont=dict(size=8, color='rgba(0,0,0,0.5)'),
-                tickvals=[0.5, 1, 1.5, 2, 2.5, 3]  # Show ticks for inner circles
+                tickvals=[0.5, 1, 1.5, 2, 2.5, 3]
             ),
             angularaxis=dict(
-                linecolor='rgba(0,0,0,0.5)',  # Darker color for the outer circle
-                linewidth=2,  # Make the outer circle thicker
+                linecolor='rgba(0,0,0,0.5)',
+                linewidth=2,
                 gridcolor='rgba(0,0,0,0.1)'
             ),
-            bgcolor='rgba(0,0,0,0)'  # Transparent background
+            bgcolor='rgba(0,0,0,0)'
         ),
-        # Legend settings
         showlegend=True,
         legend=dict(
             yanchor="bottom",
@@ -74,30 +76,21 @@ def generate_spider_chart(score_dict, file_name="competency_performance_vs_ideal
             x=0.5,
             orientation="h"
         ),
-        # Title settings
         title=dict(
-            text="Competency Performance vs. Ideal Navigator Level",
+            text=f"{graph_title}",
             font=dict(size=16)
         ),
-        # Background settings
-        paper_bgcolor='rgba(0,0,0,0)',  # Transparent paper background
-        plot_bgcolor='rgba(0,0,0,0)',    # Transparent plot background
-        # Ensure the aspect ratio is equal to make perfect circles
-        xaxis=dict(scaleanchor="y",visible=False),
-        yaxis=dict(scaleanchor="x",visible=False)
+        paper_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)',
+        xaxis=dict(scaleanchor="y", visible=False),
+        yaxis=dict(scaleanchor="x", visible=False)
     )
-
-    # Save the plot as an HTML file
-    fig.write_html(file_name)
-
-    # Return the path to the HTML file
+    fig.write_html("competency_performance_vs_ideal.html")
     return fig
 
-
-def create_advancement_chart(score_dict, output_file='advancement_chart.html'):
+def create_advancement_chart(adjusted_current_score, output_file='advancement_chart.html'):
     # Define the threshold scores and labels
-
-    adjusted_current_score = sum(score_dict.values()) * 4
+    adjusted_current_score = sum(adjusted_current_score.values()) * 4
     thresholds = [20, 40, 60, 80, 100, 100]
     labels = ['Rookie', 'Navigator', 'Specialist', 'Analyst', 'Innovator', 'Sales Sage']
 
@@ -186,11 +179,45 @@ def create_advancement_chart(score_dict, output_file='advancement_chart.html'):
 #     'Identify Pain': 1,
 #     'Decision Process': 0
 # }
+# progress_dict= {'Progress 1': {'Decision Criteria': 1.5,
+#   'Economic Buyer': 2,
+#   'Metrics': 3,
+#   'Competition': 2.5,
+#   'Champion': 3,
+#   'Identify Pain': 1,
+#   'Decision Process': 0},
+#  'Progress 2': {'Decision Criteria': 3,
+#   'Economic Buyer': 0,
+#   'Metrics': 3,
+#   'Competition': 2,
+#   'Champion': 2,
+#   'Identify Pain': 1,
+#   'Decision Process': 1},
+#  'Progress 3': {'Decision Criteria': 2,
+#   'Economic Buyer': 1,
+#   'Metrics': 0,
+#   'Competition': 0,
+#   'Champion': 3,
+#   'Identify Pain': 3,
+#   'Decision Process': 3},
+#  'Progress 4': {'Decision Criteria': 3,
+#   'Economic Buyer': 3,
+#   'Metrics': 1,
+#   'Competition': 1,
+#   'Champion': 2,
+#   'Identify Pain': 1,
+#   'Decision Process': 2},
+#  'Progress 5': {'Decision Criteria': 0,
+#   'Economic Buyer': 2,
+#   'Metrics': 0,
+#   'Competition': 3,
+#   'Champion': 1,
+#   'Identify Pain': 2,
+#   'Decision Process': 1}}
 
-# categories = list(score_dict.keys())
-# current_values = list(score_dict.values())
 
-# file_path = generate_spider_chart(categories, current_values)
+
+# file_path = create_spider_chart(progress_dict)
 # print(f"Chart saved to: {file_path}")
 
 ####################################################################################
