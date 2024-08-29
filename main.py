@@ -336,19 +336,16 @@ Skill_level_description= {
 st.set_page_config(page_title="SalesIQ", layout='wide')
 st.markdown("<h1 style='text-align: center; color: grey;'>Sales Audio Call Insights</h1>", unsafe_allow_html=True)
 
-names = get_folders_in_directory()
+# names = get_folders_in_directory()
 
 # Dropdown menu to select Audio Call
 
-Audio_call = st.selectbox(
-    "Select Sales Representative to get Insights and Summary",
-    names
-)
+uploaded_files = st.file_uploader("Upload Audio Transcripts", type="txt", accept_multiple_files=True)
 
-button1 = st.button("Get Insights")
+button1 = st.button("Get Insights for transcripts")
 
 if button1:
-    file_names_list = get_files_in_directory(Audio_call)
+    # file_names_list = get_files_in_directory(Audio_call)
     #transcription = transcribe_audio(file_path)
 
     # st.write(file_names_list)
@@ -357,20 +354,14 @@ if button1:
     skills_metrics = {}
     with st.spinner('Loading Insights...'):
        
-        for index, file_name in enumerate(file_names_list, start=1):
-            file_path = f'./Transcripts/{Audio_call}/{file_name}'
-
-            if not file_path.endswith(".txt"):
-                continue
-            
-            with open(file_path, 'rb') as file:
-                raw_data = file.read()
+        for index, uploaded_file in enumerate(uploaded_files, start=1):
+            try:
+                raw_data = uploaded_file.read()
                 result = chardet.detect(raw_data)
                 encoding = result['encoding']
-            
-            try:
-                with open(file_path, 'r', encoding=encoding) as file:
-                    content_name = file.read()
+                
+                uploaded_file.seek(0)  # Reset file pointer to the beginning
+                content_name = uploaded_file.read().decode(encoding)
 
                 deal_level = AudioCall_Assessment_Deal_StageLevel(content_name,Sale_deal_stages_description,skill_levels_description)    
                 if deal_level:
