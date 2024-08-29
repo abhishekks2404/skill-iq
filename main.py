@@ -42,6 +42,8 @@ def get_files_in_directory(selected_folder):
 
 def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description,skill_levels_description):
     try:
+        print("openai key : ",openai_api_key)
+        
         
         json_file = {
             'deal_stage_level': 'Sales level should be mentioned here','deal_stage_explanation' : 'Provide short explanation for the score of deal_stage_level',
