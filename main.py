@@ -363,7 +363,8 @@ if button1:
                 uploaded_file.seek(0)  # Reset file pointer to the beginning
                 content_name = uploaded_file.read().decode(encoding)
 
-                deal_level = AudioCall_Assessment_Deal_StageLevel(content_name,Sale_deal_stages_description,skill_levels_description)    
+                deal_level = AudioCall_Assessment_Deal_StageLevel(content_name,Sale_deal_stages_description,skill_levels_description) 
+                print("deal level : ",deal_level)
                 if deal_level:
                     deal_stage_level = deal_level['deal_stage_level']
                     skill_level = deal_level['skill_level']
