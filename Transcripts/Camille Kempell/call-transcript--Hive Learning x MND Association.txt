@@ -1,0 +1,219 @@
+Hive Learning x MND Association
+
+Camille Kempell with Motor Neurone Disease Association
+Recorded on Aug 21, 2024 via Microsoft Teams, 43m
+
+
+
+Participants
+
+Hive Learning
+Camille Kempell
+
+Motor Neurone Disease Association
+Nick Bird, Project Manager
+
+Other
+Phone Caller #1
+
+
+
+Transcript
+
+0:00 | Nick
+Hi Nick, how are you doing? Good morning Camille. Good morning. How are you? Yeah I'm very well thank you. Thanks for your time today. Oh no worries. 
+
+0:09 | Camille
+Yeah glad we managed to get a meeting in quite quickly. Really good to meet you. 
+
+0:14 | Nick
+Thank you yeah. So shall I give you a bit of an introduction about who I am and why I contacted you? 
+
+0:19 | Camille
+Awesome. Yeah, that'd be great. Thank you. 
+
+0:22 | Nick
+So I'm Nick, I'm a project manager at the association. I'm shepherding our organisation through a replacement of our HR systems, which is application tracking, onboarding, core HR, payroll, benefits, expenses, learning management systems. So we've identified that all of those systems are not up to scratch and they're going to need to be replaced. And we are currently looking at this from the HRIS end. We're looking at various HRS providers. Our learning and development manager has identified a short list of LMS systems that he would like to consider, you being one of them. We have a discussion to be had about integrating integrated versus separate in terms of LMS. 
+
+1:19 | Nick
+We haven't made a decision on that. I'm just being open with you. That's sort of what we're thinking about. And the reason I contacted you initially was to help steer the conversation and let people know what they are letting themselves in for if we go down one path or another. is to understand what the costs of these systems are, whether there is a big difference for separate system versus integrated system, just to prepare the ground so people go into it with their eyes open and we don't start going down a route that nobody wants to spend that sort of monies on sort of thing. 
+
+2:03 | Camille
+Yes, yeah, that makes sense. And within so it's an LMS specifically that you're looking for, is it? 
+
+2:09 | Nick
+From yourselves, yes. 
+
+2:12 | Camille
+OK, I think the first thing to point out here is we wouldn't really consider ourselves an LMS. So I just wanted to be upfront about that. Where Hive excels is sort of somewhere in the middle of an LXP and an LMS. We don't really do the job of either and we sort of sit between those platforms as more of an innovative training solution. So in terms of what you're aiming to get out of the LMS, it would be great to have a bit more clarity on the kind feature tools and things like that you need from your LMS. If you have that in. 
+
+2:45 | Nick
+Yes, so I might butcher this a little bit because I'm sort of not the learning and development manager, but at a core level there is the ability to host learning for and deliver learning to our staff and our volunteer cohorts. Volunteering, it will be our own in house created SCORM courses, compliance courses that we would want to deliver to them. staff it will be professional development training so our current provider gives us a library of sort of professional development training comms management that sort of softer skill type sort of stuff and that's what we are looking to replicate we're looking to have we're looking to at the softer end of it we're looking to have better reporting for managers and the organization on the status of their teams and the organization in terms of learning put the status in terms of compliance potentially. 
+
+4:03 | Nick
+There is a, I put a big asterisk against this one, there is a desire to have better integration with the HR IS, but I think the jury is out on that in terms of what is realistic and what is normal. Everyone I've spoken to so far, we're open to sort of talking about it and learning more, but everyone I've spoken to so far is sort of saying it's not typical to send data back to the HR IS, you typically steer people to the LMS to do LMS reporting but the eight the learning and development manager has got this idea that summary information would be in the HRIS haven't got to the bottom of why that's too important but it doesn't sound like it's normal what else. 
+
+4:50 | Camille
+Which HRIS do you use? 
+
+4:53 | Nick
+So we're replacing it all, we use cascade currently. Okay currently we communicate course passes as just a as just a historical record this course was passed on this day As a record on the students training record in the HRIS, not very much use and I don't know why we do it but that's what we currently do I think the manager has an idea of beefing that up somewhat but let me just go through some other things I think the other big bit about it is a sort of a modern welcoming interface our current a current Platform is very archaic, it's not welcoming multiple clicks to get into a course so and it's a very it's a managed Moodle platform and we don't and it's managed by the provider we don't have those sort of skills in house and so so it's very vanilla and we're looking to beef that up that's I mean there there are some other softer things that we might want to talk about like managing live events webinars and workshops gamification as an integrated element social or peer feeds I'm reading off the list here so I guess that other people can sort of are buoyed on by what other people are doing sort of thing I think that's the softer end that I guess we're looking to find out more about yeah so does that give you a bit of an idea? 
+
+6:52 | Camille
+Yes it does Nick thank you so much that's really useful and I think from what you've described that you need in an LMS I think Hive can definitely deliver I think it definitely seems like it's focusing and centering a lot more around the training and making a much more kind of vibrant and agile place where your team can learn and so I think that's definitely something that we'll be able to provide definitely some interesting points there around the kind of integrations piece and what that might look like and how we can kind of feed data from one platform to another we're focusing quite heavily on our integrations as a team at Hive so we're kind of we're looking at it in a slightly different way so we're looking at how we integrate into other LMSs like Workday or Cornerstone that sort of thing but actually beyond that sort of longer term plan is how do we do a much deeper integration where we can feed data through from one platform to another so in the example of your HRIS can we pull data from the HRIS on you know what kind of banding people are within management and then help recommend courses and things like that so longer term I think yeah that there's definitely an interesting data piece that we could look to support you with there but I think from what you've described that you need it does sound similar to the way that we've worked with some of our other partners before including other charities I've included a case study in a few slides that I put together and one of the case studies is with Shout the charity that you might be familiar with and so I can chat you through a little bit about the work that we did with them and kind of similar to the sort of thing that you're looking for one question I did have is so you mentioned that you've already got lots of training that's pre existing as SCORM files is that. 
+
+8:43 | Nick
+it not lots just four four four courses we deliver to volunteers I think we've got I think we have got a handful a smattering of other courses that we've created for staff but it's not a it's not a massive amount okay. 
+
+8:58 | Camille
+and then do you have anyone who's sort of like a learning designer who would be kind of creating any further or follow up courses or would it just be those kind of main four. 
+
+9:08 | Nick
+yeah so we have a learning and development team of two people and they do create content and I think they would like to spend more time on potentially I'm sort of making things up here but what they don't like doing is spending time managing a shit platform and that's what they that's what they don't like I think that they there is an appetite to help the business by potentially doing more custom courses in the house ourselves but they just don't have time because the platform's so hard to operate and so unwelcoming yeah okay. 
+
+9:51 | Camille
+yeah fab that's really useful context thanks Nick I'm just going to share my screen so you can see a couple of slides I've put together and feel free to stop me at any point I thought it might be useful just to give you a little bit of background about Hive and I can also show you an example of a platform and let you know a little bit about what we've been working on with AI to help us accelerate the learning offering in an exciting way so. 
+
+10:20 | Nick
+before you start and before as part of this will you be going into explaining your point at the beginning about where you fit in the marketplace and what you do and don't do and why what we are doing you think you can do and yes absolutely yeah yeah. 
+
+10:42 | Camille
+yeah no problem maybe I'll skip to that actually so I won't go into great depth you can see there's lots of text here but some of that's quite useful for you to help you understand more about who we are a bit of background we've been in the market for around 10 years or so we were founded on the theory of peer learning so a way to connect different learners from across these big organizations including volunteers at charities and give them a place where they can share their insights they can learn together and they can collaborate and yeah essentially kind of learn from one another alongside digesting important courses and programs that we develop and support our client partners in creating over the last year or so we have really leveraged generative AI technology to help us speed the learning creation and the learning design process but also to enhance the learner engagement experience so I can chat to you in a bit more detail about that but essentially we've developed a tool that helps create learning programs within the space of a few minutes so where you've got a really small team of just two in the learning and development team they would then have a tool to help them do the job of a much broader learning and development team with this tool that will help them create that content much faster than they would be able to if it was a manual process we have an AI coaching tool which will either sit alongside the programs that are created or they can act as separate examples so the way that I might see this working for your volunteer community is they might role play a conversation where they're looking for a donation from a customer or something like that so we can create really highly bespoke to coaching examples that the one that the individual can do on a one to one basis so some really exciting ways to learn we've just developed a tool called Buzz Sidekick which gives you an instant expert instant access to expert company or they're looking for information essentially the concept is you would use it like you might do Microsoft teams and you would ask it a question about what's the best what's the best package I can give to a new subscriber or something like that it would be connected and integrated with various different data points it might be your teams your SharePoint Google Drive lots of different things that would be able to integrate there so it pulls through really accurate information and then we also Insights and so the insights tool uses AI technology to take Hive's very data rich platform and then turn it into Insights and that helps you to understand the value that you're seeing from the learning programs and learning initiatives that are happening on Hive a bit of background on some of the problems that we help to solve so we find that within and again I've kind of linked this source here across L &D the cost of running non effective training programs is exponentially high and so what we try and do is we make sure that you've got training programs that are super relevant and to the job they're very bespoke and we can support you in the creation and the optimization of that we also want to make sure that the learning solutions are really effective and that they actually turn what they need into action so it's not just about the knowledge it's about how they actually action it so I mentioned the AI coaching tool is a really great way to put that learning into action straight away whilst they're still going through that learning process and this should be a much cheaper solution for you than hiring lots more people in the L &D department and it should give those two in your L &D team a bit of time back in doing the things that they want to do this is a bit more info on how our solution can help you design quicker and deliver better and then also looking at the insights and the impact that we can make so the design process for creating any new programs and content is around 10 times faster we get to around 80 percent of quality and then we advise that we kind of cross check with your subject matter experts where kind of more technical or product related skill. We're seeing really high engagement in the programmes that we create. So we have really high proportions of people who actively use the platform because it's so easy to use, because it's really straightforward and because it's a more innovative and exciting learning experience. And then we're really passionate about making sure that you're seeing return on investment as well. So we'll always look to deliver the right data that you need, exciting and interesting data that is interesting to look at for you as well. And we can do that on a weekly, monthly and quarterly basis. I've whizzed through and kind of explained our Buzz Suite already, but essentially at the heart of what we do is the platform. So it sounds like that's the kind of thing that you're looking for. You need a place where your learners go and experience their learning. And so that would sit around the platform. Unlike a lot of LMSs, we, as I said earlier, we're passionate about peer learning. So having that capacity to be able to comment and connect with your peers whilst going through the learning experience is quite different to an LMS traditional solution. Usually with an LMS, you kind of click through and you kind of do your course completions and that's it, you're sorted. This gives your community of learners an opportunity to really connect with each other, share best practice and to communicate with people who they don't necessarily wouldn't necessarily have an opportunity to do so with otherwise. And we find it's really super useful for the knowledge sharing part. And that can't happen without giving your peers a space to be able to connect in this kind of way in that learning environment. 
+
+16:51 | Nick
+Can you give a practical example of what you're talking about there, because I'm not really understanding it. 
+
+16:56 | Camille
+Yeah, of course. Yeah. So this is an example of one of our clients, Boots. And if I go into one of their main groups that they use, they have built a very vibrant learning community. So all of the learning gets deployed here. So I think they, you know, pretty much a couple of times a week, they will post new content and it will be related to product and technical specific skills. So let me just wait for this one to load. And then within that, they will have their learners who will interact with that. So this is all about a new foundation that a brand has launched. We can test for learning, find out how many shades they've got. And then you can see here, we see lots of interaction from people who are talking about how excited they are about, you know, continued expansion. Are there any plans to reintroduce men's range? You know, all these kinds of questions that help facilitate the learning further beyond just the content that's there. Does that make sense? 
+
+17:59 | Nick
+Yes, it does. I wonder whether I can see the application for a business like Boots. I'm wondering whether, I mean, I guess people like to chat more than others. I'm not a good example if somebody likes chatting, but our learning, I would have thought is a bit more personal in the sense of you want to go and do the learning and you want to get it done. And I'm not sure there's much relevance to your experience to somebody else's experience. I don't know. 
+
+18:27 | Camille
+Well, maybe that's a good time for me to just hop over to the case study that we did with Shout, just so that you've got a bit of an example as to how that might work for a volunteer community. So when we started working with Shout, what they wanted was they wanted a safe online space for their volunteers to learn together. And we kind of went a step further and gave them a space to not only learn together, but also to connect and collaborate. So we had interactive digital resources that they could access at any time, anywhere. So very scalable solution. We also had a few of their, what they would call their clinicians. So they're more senior kind of volunteers and some of their full time employees who would provide expertise and guidance and support. They might be a little bit more active in the Hive community. And then we'd then build that inclusive and supportive network of peers. Volunteers can kind of seek advice and build relationships and learn from one another. It helps them be better at their volunteering job. And so then what we were able to build, and again, it's, you know, I think it's similar in terms of these are volunteers that you're looking to train. How do we get them speaking? How do we get them excited? we saw some really exciting stats from our work with Shout and we really built a very collaborative and active community of volunteers. People would share what their thoughts are, you know, not just on the training, but they would share about different calls that they'd had, the top tips that they needed, how to tackle nerves, uplifting ways to kind of build your day when you've had a challenging call. And there's lots of different ways that we can do that. And because we've worked with many charities over the year, we've got a good idea as to the kind of content that resonates with them as well. So whilst you've already got your kind of stock training, you know, that's what they need to know. That's the essential learning. We can also help elevate. So how can we help the volunteers who are working in more of like a customer service type of role? How can we help them generate, more money Through the donations. So those kinds of almost sales type skills. For those volunteers who are on the phone line, who are offering more of a support, how can we give them training on things like empathy? So we can go beyond just the training that's there. And we can do that for you in a really agile way, thanks to AI. So then the impact that we made with Shout. So we found that volunteers who were regularly engaging on Hive took twice as many conversations and phone calls than those who didn't. We also found that volunteers who engaged on Hive during their first years of service spent 60 percent more time volunteering than those who didn't. and then volunteers with two years of experience or more who regularly engage with Hive spent around 75 percent of their time more actively volunteering than those who didn't. So there was a real yeah, there was a real link between those who were active on Hive and those who were stronger, better and more committed volunteers. So there was some exciting stats that we were able to determine with combining hive data and shouts data. 
+
+21:46 | Nick
+I can see that for volunteering that could be quite powerful. I guess the situation to be aware of is we're probably at the more practical end in terms of our current need for volunteers in that we've got to deliver these courses and they are courses to what I think you called them senior volunteers. They're people with sort of, we call them managed volunteers. They have specific roles that they deliver for the association week in week out as opposed to more casual volunteers that might be rattling a tin sort of thing. But I can see that sort of as a sort of a community and a place to sort of engage more that this might have a place. But I'm not sure we're there in terms of our thinking as an organisation at the moment. But it's worth knowing about I think, yeah. and maybe the learning development manager is there and that's why he's sort of got this. 
+
+22:51 | Camille
+For sure. And it'd be great to speak to the learning development manager if you'd be able to connect us because I think it would be interesting to see even just their feedback, whether this is the kind of solution that would be useful, that would kind of help solve some of the problems that they might be facing in the L &D space. I'm just adding an additional slide in here. Bear with me one second. And this just helps you understand kind of I suppose how we fit alongside other tools in the market. Can you see my screen again? Yes. Yeah. Awesome. So the kind of LMSs that you might be looking at and LXPs might be things like Workday, Cornerstone. You're probably not looking at things like LinkedIn Learning at this point because that's more of like a content library. And there are some other solutions that are more kind of skills academy, which kind of is similar to a content of library, but it's where people will go to upskill. And so you can see we've kind of got those separate. But the reason that Hive sits in the middle and so we don't consider ourselves as fitting in with any of those is because we not only provide that content space, and the programmes where people can go and they can learn, we can also make the learning experience much more engaging and exciting through the AI coaching. But we can also help you prove return on investment, which is traditionally quite difficult with a classic LMS. Usually it's a bit more sort of self serve. It's a lot more request. You'll get quite a lot of support from Hive on understanding the data. We'll help you interpret that. We'll make sure that that's regularly delivered for you. and we'll keep iterating to improve that experience for our learners. Does that make sense? 
+
+24:40 | Nick
+It does, yeah. And it's just a point of learning. LXP, what's LXP? 
+
+24:47 | Camille
+So that's a learning experience platform, and it tends to be slightly different to an LMS. An LMS, they're usually considered kind of spaces where you might go for more of like your compliance type training it might be kind of the big house and you know all your other bits and pieces may integrate into it but a lot of the time some of your bigger you know bigger companies and mid sized companies will have not just their LMS but they'll have a few other platforms that sit around it that solve other problems that the LMS can't so for example we have lots of clients I've mentioned yeah Cornerstone as an example they would use Cornerstone as their Maybe. LMS but what Cornerstone doesn't give them is it doesn't give them the agility in creating new programs and new content that needs to be done usually elsewhere and then we'd you know host on Cornerstone via SCORM or something like that. Cornerstone also doesn't give you that kind of collaborative space it doesn't give you that kind of peer learning capacity and Cornerstone also doesn't give you things like the interactive elements that you would get from some learning programs So where you are talking about things like AI coach, quizzes, polls etc. So it's more kind of just that main hub and you might have other things that fit within. Does that make sense? 
+
+26:07 | Nick
+Yes it does and I am talking to Cornerstone and so you've done a good job of explaining what you do differently to something like Cornerstone. What does Cornerstone do better or more of that you don't do? 
+
+26:29 | Camille
+Yeah good question. So from my understanding of, Cornerstone is quite good for things like compliance training so where you easily need to be able to see this person has completed this training and kind of getting that data in a bit more of a self serve type of way. So if that's something that was important and then I think places like Cornerstone could be quite good for that. 
+
+26:53 | Nick
+In a self serve sort of way, can you. 
+
+26:55 | Camille
+explain that? So I'm pretty sure with Cornerstone again they're quite protective so they wouldn't demo to me because you know they'd see Hive as like a you know place taking business away from them. But I think on Cornerstone if you wanted to see the number of people who had completed a certain training from a compliance perspective then you'd be able to kind of go onto the platform and you'd be able to check that yourself. what I don't think Cornerstone would do is kind of package up the data for you and send it over so that you've got the most relevant data and share that the most relevant insights. So it's less kind of they're not going to hold your hand as much and they're not going to kind of give you that extra level of support and service is my understanding of Cornerstone. 
+
+27:41 | Nick
+Okay, thanks. 
+
+27:44 | Camille
+But it'd be a great question for you to ask them and see if they know too much about Hive Learning. But yeah I think and I'll include this slide because I think it's probably useful for you as you're exploring different solutions to work out what would be best and I think it would be interesting to bring in to the conversation your learning and development manager if that if that's possible just to find out what the ideal solution might look like for them. Appreciate that you've you know you've got a little bit of research to do elsewhere and you're kind of in the early stages of finding that out. But please do let me know if they'd be open to a conversation so I can kind of show them a little bit more about the kind of tools that we have. I'm just gonna. 
+
+28:28 | Nick
+so on that point yes I do want to do some sort of due diligence first, get some understanding of cost models and things but definitely I'm not hiding him forever I just don't want to bombard him until we're ready. 
+
+28:41 | Camille
+Yeah and I get that you need to streamline what you're putting forward Tim so it's not too intense. I appreciate that. I'm just hopping back to the Buzz Suite and the tools that we've built that help to optimise learning. So because we're a bit smaller than your giants like. Cornerstone is a huge company. We can what that means is we can innovate much quicker and so we've built a really robust set of generative AI tools and solutions that help us deliver exceptional learning experiences. So Buzz Curator in the top left corner there, that's where your learning team will be able to create various different programmes, new content and roll it out that day if they want to. It's really simple, really straightforward to use. Buzz Facilitator is our AI coach so that could sit within a programmatic experience. Let's say for example you've got a training on giving constructive feedback. Within that you might have an AI coach example where you role play giving constructive feedback to a line manager or something like that. Then we've got Buzz Sidekick that integrates with various different points in your tech stack so that you can kind of use it almost chat GPT style. So you might say things like what's the latest info on our partnership with X and then it will give you all of that relevant information. It can give you all of the you know the financial details and things like that because we'll link it to the right points in your tech stack. So going beyond chat GPT it's much more well informed because it knows about your business because it's connected to the right sources. And then Buzz Insights is our way of analysing the data in a very quick and agile way. So it will turn things like completion data, registration data, insights data into insights. So it will tell us where are the gaps, what are people not quite grasping, what do people need more support with, where do we need to enhance the training so we can continue to iterate and improve the training offering that's there. that's been a real game changer because it also helps our customers communicate with their stakeholders internally. So at C suite and at board level what do they want to know about the impact of the learning programs? Well that's much easier for us to do with Buzz Insights now. Did you have any questions on Hive Learning and the tech stack and you know any of those bits from what I've just been explaining? 
+
+31:14 | Nick
+Oh I think you've done a good job at sort of opening my mind as to sort of what where you're positioned and it's sort of different concepts than when I went into the conversation. Yeah so that's good. 
+
+31:26 | Camille
+Yeah you see what I mean now in terms of we don't we're not really an LMS that hopefully that makes sense now. 
+
+31:32 | Nick
+Yes yeah it does. I think depending on your cost model and whether it's modulized or whether it's all in one, there may or may not be challenges in terms of affordability. I can see that some of these things are valuable and I can see that where we would use them but I can also see that Other providers are not going to provide these and therefore you might do yourself a disservice depending on this. So under if we can have a conversation about your cost model and of course and how it works and if you can give me a sort of a an outline sort of cost not yeah I don't really call it a proposal but I just need to I need to have something it's something in writing that sort of explains the cost model. So I've included a couple. 
+
+32:26 | Camille
+of slides that kind of give a bit of an overview. What we'd need to do is we'd need to understand a little bit more about what within it you're looking for because we do try and approach it in more of a modular way. If you say actually the only interesting tool here is Buzz Curator that's what we want of examples here. We want our learning design team to be able to just create new content programs swiftly. We don't necessarily need Buzz Sidekick things like that. That's totally fine and we can work out pricing. What I've pulled together just very quickly for you is just an idea of our three month quick start proof of concept pricing and then a rough idea on annual pricing as well. so you may have spotted that we work on a license based model i'm actually going to just check you through the annual partnership first of all because you'd be a charity partner we'll offer 30 percent off our pricing and so you can see i've kind of noted those down there we'll also for a two year partnership we'd be happy to offer you a further 10 percent saving and for a three year partnership further 20 percent so we want to make it affordable for you we appreciate the great work that you're doing and we want to make sure that you've got access to our charity partner pricing rather than standard corporate pricing so and then i think the other thing to point out is we work on a license based model so we'd need to understand how many people would need Hive access would it be everyone within the business and if so how many people is that would it be a select few would we kind of look to scale it up do you have any answers to those questions. 
+
+34:02 | Nick
+yes i think so i can give you a broad idea and answer your questions to help you give me a clearer model so so we need our start all 250 staff will need access to the well one question first in i'm guessing from what you said you don't have a library of personal development content ready to go off the shelf you have the tools to create it but it's not something that you're going to provide from the. 
+
+34:38 | Camille
+start so we do actually if that's something that you wanted to include then i'm sure we could work something out and i can throw that in for you we've got loads of content on things like leadership management diversity inclusion that's just ready to go and so we could work with your learning design team to determine which of that content would be relevant and which ones you want just kind of readily available that's no problem yeah we've got loads of. 
+
+35:05 | Nick
+so so so i appreciate that you can't be totally clear and you have to make assumptions until we've had four more detailed conversations but a library of personal development training being included in the cost model i think is useful the so it's 250 staff that need access to that are 800 volunteers they at the moment and i think we should just consider at the moment they come on once every two years to do compliance training these four SCORM courses that we've created they do it with they that we intend to spit the data out so volunteer passes and due dates are spit out to our volunteering CRM so that people who manage the volunteers can see the compliance status and of the volunteers but that's the type of use they're doing they're coming on every two years to do our own courses that we've created and that we want to host does that answer that part of the question. 
+
+36:17 | Camille
+yeah yeah so we'd be looking at around a 1,000 licenses it would be the option here on the left i think yeah i've had a few conversations recently where we've clients have wanted us to include various different off the shelf bits of content i'd be happy to include that for you within the price that you can see here so for that 70 k that you can see i'd be happy to include any relevant content i can add a little line before i send these slides over to say that will include any content from our leadership and inclusion libraries that's no problem. 
+
+36:52 | Nick
+thank you yeah but yeah i mean that get that gives get that if that gives me a flavor i guess yeah to put it to put it in perspective one we know what we currently do isn't working we know it's cheap and it's too cheap our current lms i think we've spent well i know what we spend 6,100 pounds a year on it. 
+
+37:22 | Camille
+Oh, wow, okay. Yes, that is so cheap. 
+
+37:24 | Nick
+So so our volunteers are the services provided free of charge and we pay for the staff we know we need to spend more than that but this is obviously a order of magnitude greater and but i don't have any benchmarks yet you're the first lms that i've spoken to so yeah we'll have to yeah we'll have to sort of put it into the pot and sort of sure i am yeah i wasn't expecting it to be that much but there we go so it is what it is. 
+
+37:56 | Camille
+yeah and i think you know we want to make sure that it feels like the right solution for you i'd be really interested to chat to you once you've got a few more prices from other suppliers and we can continue to have conversation around what this looks like for you so i do think that where you're onboarding a new lms you would probably want to look at more like a two or three year partnership so that's a good way to shave a good chunk off of the price that you can see there also if there's certain elements that you don't want so if you think actually buzz sidekick isn't going to be relevant for you i'll see what i can do in shaving some of the cost off there because this is looking at that kind of whole package approach. 
+
+38:38 | Nick
+okay so is it worth us just going back to that slide of the bits and then we just agree the bits that i think we should include and the bits that we could be an optional yeah. 
+
+38:47 | Camille
+so so just so that you know so so the platform would very much be kind of like that would just be at the heart of what you do we i can reduce the pricing and kick out buzz sidekick because it sounds like that would be less relevant for you buzz side buzz insights we would include anyway that's a tool that we use so we wouldn't charge you for the use of that and that's just a tool that you wouldn't have access to that we would help use to communicate the value and then buzz curator and buzz facilitator we sometimes tie in together so i think what we could do i think they would be the useful tools that we'd want to include let me see what i can do and come down on the pricing and remove buzz sidekick and then we keep the platform curator and facilitator if that makes sense. 
+
+39:35 | Nick
+yes although i suspect that i can see why they go together and i can see why they're valuable but i suspect they are costs that other value that other providers are not going to provide so if you could split it out as an optional line item it will make your it would make your proposal look better but yeah i mean it's early days it gives me an idea i was probably there's probably not worth going into the nth degree at this point but yeah yeah cool. 
+
+40:04 | Camille
+let me see what i can do and break out that pricing for you and working to a 1,000 licenses i think yeah that's no problem cool. 
+
+40:15 | Nick
+yeah well i guess if you consider volunteers a licensed user it'd be a 1,050 because we've got 250 staff and 800 volunteers. 
+
+40:25 | Camille
+yeah gap cool no problem. 
+
+40:26 | Nick
+That's fine. Brilliant. Okay. Well, thanks, Camille. Thanks. 
+
+40:30 | Camille
+Thanks very much. Any other questions before we wrap up? 
+
+40:34 | Nick
+No i'm i guess other than to not so much a question but just to sort of keep you in the loop so i'm doing some initial chats with people to sort of get an understanding of the marketplace and we need to have an internal conversation about kicking off these LMS sort of demos with the whole team and the learning development manager that hasn't happened yet so it Nothing's going to move too quickly i don't think yeah it's not like i'm going to be giving you an update every week i think it's nice it's going to be a few weeks before i have something to tell you. 
+
+41:14 | Camille
+yeah no problem and do you have a time line that you're working towards in terms of when you'd want to implement the new system. 
+
+41:21 | Nick
+second half of no sorry first half of 20 25 yes middle of the middle of the year type sort of thing. 
+
+41:31 | Camille
+yeah yeah and out of interest do you have a budget in your head that you're trying to work towards and you mentioned that. 
+
+41:38 | Nick
+you've just blown it no no we don't have a budget we ne i i'm starting to pull together the costs for all the different platforms and what's obvious is that yes what we currently have is very cheap and very nasty. 
+
+42:00 | Camille
+yeah okay well let me see what i can do on the pricing for you and i'll try and split out a few line items to see if we can reduce the cost and yeah see if we can get to a number that feels a little bit better for you i'll pop that over in an email probably at some point today if that works for you and yeah just keep me posted if you've got any questions and let me know how your conversations are going if you need any further info from Hive appreciate it's a slightly different solution to what you kind of had in mind and what i think you kind of envisage but hopefully you're starting to see the possibilities as to how we can provide a much more exciting journey and help your learners get more out of the experience rather than just the classic lms that we know isn't hugely engaging what was i going to say there's something else that's falling out my head is it worth us booking in a next touch point or should i just check in with you via email what would you prefer. 
+
+43:00 | Nick
+it's probably better by email because it's going to be a while before i have something to say. 
+
+43:05 | Camille
+yeah okay no problem and then just a really quick question so you're you inquired via our website did you mention that someone referred you to us. 
+
+43:15 | Nick
+our learning and development managers has shortlisted you as a potential of potential interest which is why i sort of approached you. 
+
+43:21 | Camille
+awesome thank you great well keep in touch let me know if i can help with anything i'll get some slides over you to over to you later today but yeah great to meet you nick thank you thank you camille and you cheers have a great day bye. 

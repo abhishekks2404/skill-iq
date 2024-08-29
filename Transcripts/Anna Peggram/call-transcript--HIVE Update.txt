@@ -1,0 +1,167 @@
+HIVE Update
+
+Anna Peggram with Regeneron
+Recorded on Aug 20, 2024 via Microsoft Teams, 29m
+
+
+
+Participants
+
+Hive Learning
+Anna Peggram
+Peter Mazzoli
+
+Regeneron
+Marnie D'Uva
+David Sotolongo, Senior Director, Global Diversity, Equity and Inclusion
+
+
+
+Transcript
+
+0:00 | David
+Fantastic. 
+
+0:02 | Marnie
+Thank you. Hey, just really quickly. So we had a kind of a reshuffle on our team and I was previously pretty exclusively supporting our commercial sales force in leadership development. Switched over recently to help lead basically our overall enterprise leadership development learning strategy. And with that, a bit of that innovation spin, sort of how are we leveraging technology both from internal capabilities as well as making sure we're frankly staying state of the art in terms of what we're bringing into Regeneron globally. So that's a bit of my remit. And the cool thing for our leadership development team is we are now coupled under SMITA, which is obviously DE &I where David sits. So always kind of had that direct line to each other. But now it's really exciting to be creating this stuff in alignment with David's team. So thanks for welcoming and it's nice to meet you both. 
+
+1:06 | Anna
+Yeah, great to meet you, Marnie. So super quick intros from our side. I'll kick us off and then hand over to Peter as well. So my name is Anna Pegram. I'm the business development director for North America here at Hive. So my role kind of encompasses two key areas. One of them is looking at where there might be alignment for future customers and understanding where our solutions could support with any potential gaps that they have in their tech stack, where we can sort of introduce our very bespoke solutions to help them with the strategic goals that they have. So that's kind of one side. The other side, which is probably less relevant to this conversation, but I also oversee a lot of our sort of strategic partnerships in the US. So looking at who are the partner organizations that we work with to ensure that our customers are getting that seamless ecosystem, either through integrations or where we have sort of complementing services with other businesses as well. We want to make sure we're not working in isolation within our customers sort of ecosystem as well. So that's kind of like me, but I'll hand over to Peter too, who I know also, I believe knows David from prior work as well. 
+
+2:05 | Peter
+Yeah, thanks Anna. Yeah, I guess to give you some background, Marnie, I used to manage Regeneron a couple of years ago. I think it was actually like last year or the year before. We ran some programs together, so did a pilot between Hive and Regeneron. So I do know David from back then, as well as Smita. I knew Smita actually before Regeneron as well. So a bit of experience there. But for my role, I'm an accounts director. So I really work alongside a customer success manager, basically managing like enterprise accounts that we have in North America primarily. And the two of us kind of are like your hand in hand from everywhere from launch to deployment to ongoing like success tracking metrics, all that sort of thing. I mainly handle things from the business side, whereas my counterpart is the one doing the day to day on the software and all that. But yeah, I look forward to talking with you both and seeing if we have any future opportunities to collaborate. 
+
+2:57 | David
+Thank you. And so yesterday, just Marnie, to give you some context as well. So yesterday, Anna and I talked briefly about making sure that we use this time as most efficiently as possible. And I asked her to come back with information that will allow you to get kind of a broad look at what's going on and where we can move forward in light of the connection Peter and I had last year during the pilot. So and I'll turn it back over to you. 
+
+3:27 | Anna
+Great. Yeah. So Marnie, what I thought I'd do is just quickly introduce you to who Hive is at quite a high level. I know we've only got 30 minutes, so I'm intentionally keeping it quite high level for now. And then Peter is going to bring it to life in some real life examples and kind of quick reminders on where we got to with the pilot. And then I think as a next step, we should look at what makes sense to go into in more detail following this, knowing that obviously 30 minutes will sort of just about scratch the surface. So I'm going to share my screen. And hopefully you can see that. I feel like I asked that question far too often. 
+
+4:02 | Anna
+Perfect. Gotcha. So Hive Learning is about focusing in on how do you help your teams? Sorry. And if it looks like I'm not looking at you, I just put your faces over on my second screen. That's all. But yes, Hive Learning is all about how do you how do you focus on helping your teams increase their productivity and efficiency at work by giving them the right skills at the right time? So for Hive Learning, this is what we really focus in on is those cultural skills that require quite a bespoke approach because they need to resonate with who you are as an organization. So when we think about DE &I, that's been our bread and butter for about 10 years or so. And it's an area that we have probably about 50 percent of our customers in North America focusing in. But Marnie, for your perspective as well, just to give you a really high level view, there are two sides to our business for you to be aware of. One of them is Hive Learning, which you just talked about. So that kind of idea of how do you get the right skills to the right people at the right time to help their productivity in a very bespoke way? And then the other side is Hive Perform, which is a newer brand for us. And this is all about applying learning in a commercial setting. So we're thinking about sales teams, your customer support teams, customer education teams where they need to be not practicing on your customers, but actually practicing those execution skills of how do I put this into practice before the conversation? For us, there's a lot of overlap in the how do I apply what I'm doing to actually behave and act differently in my execution of what that looks like. But Hive Learning is all about culture skills and Hive Perform is all about sales and commercial skills. So I just kind of wanted to give you that overview. But we are going to focus in on Hive Learning today. And that is where we've worked with Regeneron in the past. Does that make sense so far? 
+
+5:47 | Marnie
+It does. I totally hear you. Yeah, I'm good. 
+
+5:50 | Anna
+Perfect. So at a really sort of high level, I sort of mentioned our focuses on sort of skills and a lot of what we do now incorporates Gen AI. So we've been around for about 13 years. But in the last two years, we've looked at how does Gen AI help sort of augment that human involvement, not replace it? So where can we get the efficiency on the creation and delivery side by leveraging Gen AI in our own products as well? But not in a way that's going to replace the human involvement, which we know is what makes learning and training so effective. So it's about thinking where Jenny and I can help us to practice skills in a more repeatable fashion because it's creating more opportunities to do so, where it can help our analytics to help us identify more trends, get better insights from our data that we're getting. What used to take kind of six months to analyze in an Excel spreadsheet, we can now sort of do in sort of three days and also through more intelligent search functionality. So getting the information to the right people at the right time, aligning with your organization's cadences and then contextualization. So we know that one size does not fit all, especially in a cultural sense where you need to sort of adopt the way that the business is working and what's important for Regeneron. So AI can be a tool in our toolbox to help us create bespoke content in a more efficient fashion, but still with humans at the driving seat of what that looks like. And then the last part is adult learning theory tells us that way, we can actually help adults learn better together. But it's not possible to always bring us together into groups. So how can we either extend the impact of face to face or recreate some of that social accountability in a virtual environment as well? So that's a little bit of kind of our ethos and what we do. And we do this using four key sort of tools which are very modular and can be applied in different ways for different organizations. As you heard at the top of the call within my role, you know, looking at our partnership and our integrations is a key part of what I focus in on. And so our modular approach to our tools is sort of reflected in that as well. So you can sort of apply what you need based on the tech stack that you've got. The first piece is about the content itself. So our creator tool helps to create those bespoke programs. Facilitator helps us to practice key skills before you need to sort of execute them in real life. So this could be running difficult conversations or thinking about how you're interviewing. and ways to work through those, or it could be sales conversations if we're thinking how to perform. And then insights is about gathering that data and making very informed decisions on what are we seeing and hearing, where are the gaps and making recommendations on where to focus next. And sidekick is that search piece. So making available easily accessible at your fingertips. I know that is the 30 second view of quite a lot. 
+
+8:49 | Marnie
+Give me an example of what someone would type into sidekick. 
+
+8:52 | Anna
+Yeah, so a good example would be something like, what is our family leave policy? And it will be looking through where those resources might exist in your SharePoint, or it might be what is our latest pitch deck. And it's sort of surfacing them through with an element of being able to sort of, if it's like A pitch deck you can then sort of follow through and say, right, let me practice giving this to you and it will then sort of switch and facilitate mode to practice where appropriate. As I said, they are all very modular. Sidekick is predominantly used in our sales enablement use cases. It can be used and applied in other areas, but that's where we see the most adoption of it in the culture space. It's typically create a facilitator and insights as a kind of suite that follows through there. But sidekick and when we think of access to information in sales conversations, That's really where we see. 
+
+9:52 | Marnie
+Okay. I'm just thinking through internal systems we have that if someone has a question on policy, there's a way that that's brought in. Is that, and I'm not, my question is, would organizations typically take on these four modules in the absence of that? Like this is their platform to find those answers or do you pull in from a larger organization like us? you pull in that data because you're connected to where that document is housed. 
+
+10:26 | Anna
+So if we think about the sales use case, which is predominantly where that sidekick comes in, what we would be looking to do is pulling in from the, so first of all, it surfaces in your com store. So for us, that slack for our businesses that we work with, it tends to be the slack or teams. I can see we're on teams here. And I would then go to teams and say, you know, joining a call in five minutes, remind me what's our pricing. So that might pull from SharePoint if that's where you've got it stored of what is our latest pricing. But then I also want to be like, okay, I'm talking to David and Marnie at Regeneron. Let me quickly practice introducing them to our pricing and throw some common objections at me so I can just practice walking those through. So I'm doing all of that within teams. Yeah. And it can also, we're just building the integration at the moment. Like you can see we've got Gong in here on our side. It's a platform. That we use to help us take notes. So we can also plug it into platforms like that so that it can read my notes from the last conversation as well and sort of bring those together. But it is predominantly in our sales use cases that has the, that's kind of where it fits, in terms of where and how we think about it, but it does have applications in broader learning as well. So like we ran a leadership program where we were looking at how would Sidekiq help leaders access the leadership models that they're trying to introduce more easily. When they're sort of going into team conversations to introduce them to it and stuff. So there's various forms that it can be. 
+
+11:50 | Marnie
+Okay, gotcha. 
+
+11:53 | David
+And so Anna and Peter, when we think about when we did the pilot way back when and where we are now, I know that what resonated with a lot of the participants had to do with their ability to, and it's just in time, be able to share information, you know, learn from each other, have that kind of dialogue. And it was sometimes very active and, you know, et cetera. The feedback was that, you know, they were able to learn as a group, as Anna, you had mentioned that people tend to learn when there is group learning. Is that still the core of what it is now and where does AI actually fit into that as we look at it from, let's say in a D &I lens and that kind of subject matter? 
+
+12:49 | Anna
+Yeah, I wonder, Peter, I saw you come off mute. I wonder if that's a nice segue into kind of recapping on the pilot and how some of your customers are using it at the moment. 
+
+12:57 | Peter
+Yeah, absolutely. If you want to do that, we can just skip ahead and then I can cover it in my next slides. 
+
+13:03 | Anna
+Yeah, I think that you'll probably, the question will probably get answered, David, as we go and you sort of see it come to life. So maybe we look back and make sure that, we have touched on. 
+
+13:14 | Peter
+But I will say, 
+
+13:15 | David
+I don't want to derail anything, just wanted to make sure that we covered it. 
+
+13:18 | Peter
+No, you're fine. And as a quick answer, I will say, so facilitator is a way that they can practice real life scenarios. I mean, kind of think of it like a coach. So I know I was looking through some of the pilot feedback earlier today. And I know a lot of folks are like, you know, I'm just still not comfortable having these conversations. So we can create role play scenarios where it's like, you know, like, hey, you know, your colleague is having an issue with, you know, like psychological safety or like, Someone doesn't feel psychologically safe on this team. Like, you know, like how can you help them with that or get a better understanding? And you can actually like go back and forth with facilitator practicing out those scenarios. We can create scenarios on like any type of situation. So it could be like having a difficult conversation with a colleague or like friction came up around like politics, like things like that. You can model it in any sort of way you want. So I think facilitator is a key way to kind of differentiate ourselves from how we did before. And then using Curator, I know another thing folks had asked for was like off platform content and resources. And with Curator now we're able to create like discussion guides, activities, workouts. I know specifically Malin with the IOPS group last time, She did some like off platform conversations and we do now have like facilitator guides. So whether it's like a 30 minute session, an hour long session, basically like using our AI tool, it's very like plug and play now where we can kind of like describe, you know, like, all right, here's the outcome. Here's the audience you have in mind. And it will create an activity over the time you specify that can be done off platform in addition to resources themselves. So I think those are kind of like two quick wins I could see from the last time we went about it. But I can elaborate a bit more. 
+
+14:50 | Marnie
+David, who. 
+
+14:52 | David
+was the pilot with? It was with ERGs and it was mainly ERGs and it was the audience. In fact, it was Malin and IOPS that were the highest utilizers of it from last year because, you know, by virtue of the way they're organized, it would resonate most with them versus the rest of the organization. But that was the target audience. 
+
+15:18 | Marnie
+Okay. And the pilot, I get the audience. What was it for? Like, what was the pilot like this, like these four things? 
+
+15:26 | David
+Yes, I know part of it, but it was another platform to really amplify the subject matter around DEI. Okay. 
+
+15:38 | Peter
+Yeah, Anna, if you skip past, I think my next two are AT &T, but I think it might make sense to, you know, skip past these and then we'll start here. So just to give you some background. So we had done a three month at the time, like our inclusion content and platform we called Inclusion Works. Really, the goal of the pilot was to help with understanding bias and privilege, building psychological safety, sharing DEI knowledge and learnings, giving employees the confidence to bring their whole self to work, focusing on de bias feedback. And overall, just fostering a culture of inclusion and belonging. So going in line with that better workplace, better science, better world. We launched the pilot to about 112 users, and this was using our platform. So they did experience the learning going through the Hive platform. If you haven't seen the platform, it's very similar to kind of like social media ask in a way. It's really like bite sized learning. It's interactive. There's polls, videos, but really like we break it down into pathways and we expect a pathway to take 10 minutes per week. So it's not a huge time ask. It's really just hitting kind of the key details so folks can learn and then not only learn, but then apply that behavior. So we also build in tools. It's really fun to inspire action. And we did actually see a lot of good numbers around action throughout the pilot. But just to give you a kind of a general overview. So we invited 112 users. We did have 98 of them show like join the platform. So that's what we call registered. We did see 1,312 polling quiz responses. We saw around 8,000 learning actions. And a learning action is a combination of comments, reactions, action checks, polls and views. So that's kind of what's behind that number. We did see 146 comments as well as 125 reactions. And then another thing we did in the pilot working alongside David and team was we did like a pre survey and a post survey. So we looked at some of these areas to see like, you know, like where were the gaps, what were folks understanding ahead of time and then afterwards. So seeing, you know, were we able actually able to influence that behavior change and to create that better understanding. So we did see looking at the survey results, a 20 percent increase in confidence to take action against bias and micro messages. we saw 33 percent increase in users understanding of how to build psychological safety. And then 92 percent of those that we surveyed said they plan to use their learnings from the pilot to take action in the future. So overall, like these are pretty good numbers in terms of programs we run. But to what David had alluded to, we did have two groups where like if you were to break it down in a group level, like two groups, like it was like, you know, like three out of 15 or like four out of 15 in those groups. And like the comments were like five comments and one comment. So I do think we have some reasons. 
+
+18:19 | Marnie
+How many sessions did you run? I know there's 112 users of over three months. Was there? How many? 
+
+18:26 | Peter
+Yeah, so we basically I guess that's one key difference, which I highlight on my next slide as well. But like with the IOPs group, we did actually have like a kickoff webinar. We also had what we call champions. So that's where we have like people who volunteer. It could be leaders, could just be people who are super passionate. And with champions, it's up to them. They can either themselves like when we release new content, it's their job to kind of like I guess I create the first post. It's also something we do for our clients as well. So it's kind of like a ghost post where we just need someone's approval to post on their behalf. But with that group, they did have that kickoff webinar. And during the webinar, we were able to demo it to everyone, answer any questions, troubleshoot any issues. We also did an activity and that activity was on the platform. So that actually got folks right there on the call to sign up just by clicking the link. And as a part of that activity, we like we asked for them to comment. It was like, hey, like introduce yourself to others, that kind of thing. And that led to like, you know, a bunch of comments coming in immediately. We didn't do that with those other two groups. So I definitely think it may have just been a lack of, you know, kind of like understanding awareness. that being said, like it wasn't David's fault or anything like that. I think it was just kind of like the group we had selected for the pilot. But I do think, you know, if we were to plan out some sessions, even with some clients like halfway through, we do a session just to see how folks are feeling about it, if they have any feedback and things like that. And that definitely helps. But for this rollout, it basically was you either you got an email invite and then you experience like the three month program on your computer or on your mobile app. while using the platform. And then for the other group, they did have that webinar and kickoff and then the same experience where they just went through it kind of doing like 10, 10 minutes per week. 
+
+20:10 | Marnie
+And was the content curated by Hive or David, was this a way to educate building awareness to DE &I strategy at Regeneron? 
+
+20:22 | David
+It was it was content from Hive. And then we the second part is what our goal was to be able to start to really share that information throughout the organization using a different kind of platform that was more as Peter says, social media. And another reason why I worked with IOPS a little bit more was because, as you know, most of them have those three shifts and people could get on that website with hours a day. It's a different kind of mindset when it's associated. So they're used to getting on their phones then when they have their breaks and, you know, a third shift in the middle of the night, you know, for. 
+
+21:02 | Marnie
+sure. Yeah. So is it blended learning? So time where there's actually virtual facilitation and then self directed at their own time? 
+
+21:13 | Peter
+It's mainly self directed. Sorry, I didn't mean to cut you off, Anna, if you want to go ahead. 
+
+21:18 | Anna
+Yeah, I was just going to say, I think, Marnie, so Peter mentioned it's kind of about 10 minutes a week. We call it sort of sprints. So sprints will be a set time where there's an expectation of about 10 minutes a week. And depending on the topic and the way the organization works, it can be anywhere from sort of a four week sprint to a 10 week sprint. But we really do recommend sort of four to six weeks is the longest and content is released over time. So people have to come back repeatedly to engage with the entire program. They can't just come in and click through it. Sort of in a one one hit wonder, because we know that when we look at sort of what I've just put on the screen here, you need to work through the stages of sort of committing to the concept, first of all, and we want to the content is designed to help get people to commit. We then need to learn and share information about it. And then we need time to practice and reflect as well when we sort of think about how that then leads into sort of shifting behaviors. So that's the model that all of our programs typically take. We can also incorporate, you know, most businesses we work with might have a model that they're using that their content can often follow. And one of the beauties of sort of creator is we can combine the two. We can look at what we know works for social, socially engaging learning in a semi asynchronous environment. So you are engaging weekly together. so the off platform conversations will make sense with each other. You're doing the same sort of thing at around the same time with the. And I can't remember the second half of my sentence, never mind, I'll move on. 
+
+22:47 | Peter
+They're all good. 
+
+22:48 | Marnie
+I'll be done there. 
+
+22:52 | Peter
+Just just to take it back as well, like as a part of the launch planning, we basically work together and being like, all right, you know, like what are the topics you want to cover? Do you all have like source material you want us to incorporate? Do you want us to go ahead and create ourselves from scratch? And that's where something has evolved as well. Back when we were working with David, it was our team like creating content by hand. Like we did have experts in these various areas. But now, like through AI with Curator, We're able to design programs on any topic and we can like our tool does ingest documentation. So we literally like for one of my other clients, they just came out with their sustainability report and it's like 100 pages long and like, all right, no one's going to read this. So what they did was ingested that into our content creator, created a four week program. And now everyone at the company is like, all right, if you do this four week program, it's focused on like the key elements for what we want you to get out of this. And it was a way for them to distill this information without forcing folks to do that 100 page document. So we definitely, it is a process where we work together when creating that content. But it doesn't necessarily have to be us creating everything from scratch. Another thing we do too is like incorporate tone. like a lot of our clients have different cultures, you know, especially too, and thinking about like international audiences, like there are these various aspects we need to include. So we really do want the content to feel like it's coming from Regeneron so that people can resonate with it, so that it's tied to your values. So that it just reads kind of the same way as you guys all go about your day to day and interact. 
+
+24:17 | Anna
+So Marnie and David, I know we've got four minutes left of the time that we allotted today. The other piece that Peter and I wanted to show you was a little bit on how kind of one of our customers is currently using it all to help bring it to life. I feel like four minutes might be a little bit rushed to kind of dive. 
+
+24:33 | Marnie
+I know. And I have a three o 'clock. I know. in between like five, 30 minute meetings today was like not great. I'm sorry. 
+
+24:42 | Anna
+So why don't we have a look together while we're all here and find a time where we can sort of bring it to life a little bit more and show you kind of how some of our other organizations that we're working with are using the latest versions of what you've got. Because David, it is still very similar. It's just a lot more efficient and shiny than what you saw sort of 18 months ago. So Marnie, in terms of your availability, what's looking better for you either towards the end of this week or early next week? 
+
+25:11 | Marnie
+I'm running a program next week, so probably not until next Friday. But before I go there, I'm like urgency. David, just sorry to talk shop in front of folks, but the goal was to think through and kind of go back to Smith or write on kind of the tale that this would have. So I want to be mindful of responding to that at the same time. There's so much that we're working through to just right size our business unit right now that to think like 20 25 in the long term, like at this same time, we're putting pen to paper on budget. So we sort of have a couple of things going on, which is if we continue to leverage services with you in this partnership, we need to budget for that. I'm also just in this headspace. I literally have like a bunch of calls with vendors like have nothing to do with platforms, have to do with other things that we're just trying to right size budget for this year. So, David, from your perspective, if I have to find time to regroup to have us make decisions, I am not a fast decision maker when it comes to this stuff. I'm just going to be super honest. So. 
+
+26:29 | David
+Yeah, and so Anna and I had, if you notice, a similar response, Anna, that you and I had when you were asking about budgets. We thought we would do these things. So there's a lot of moving parts associated with I see the value here, especially since we did test drive it in the past. I think the best, most efficient next steps is money for you and I to regroup and talk this through. And then based on that, because I want to at least give Dana an idea of what this is all about as well. Exactly. And so there are a few other steps, Anna and Peter, we have to make sure that we align with. I would see that the most the ideal is to really look at September at this point to regroup. And between now and then, I know there's folks will be taking time off. I will as well. But in the meantime, Marnie and I and Dana could get together. Is there any way to share some of the slides that you just shared with us to use almost like a visual aid? for Dana and others to react to. 
+
+27:40 | Anna
+Yeah, I can definitely share a slide. And Peter, I wonder if you could do a putting you on the spot here, a short recording of the story that we could share over instead as well in the meantime. 
+
+27:51 | Peter
+Absolutely. Yeah, I think we put that together. And then, too, I'm wondering, Anna, we'll also see if we can give like a platform demo. I assume you haven't seen the platform, Marnie, but I think that will help like tie a lot of pieces together versus us describing it. So we'll also include some videos and resources. 
+
+28:07 | Marnie
+And I agree, like the slides you showed today and with David's experience and Peter, anything else you think will be enough for us to go to Dana and say, hey, listen, here's our recommendation, how we can leverage. That would be great. Yeah. 
+
+28:23 | Anna
+I know we're out of time. Did you want to pencil something in for September, David, or leave it for now and come back to it? 
+
+28:29 | David
+Why don't we leave it for now? Only because I think Dana's back or will be back soon, Marnie, right? Wasn't she on PTO earlier? 
+
+28:37 | Marnie
+but then I'm crossing over into a program. I don't want to do that to Anna. Let's come back to you. Yeah, that would be best. Because I don't want to then risk having to reschedule. Okay. Yeah. 
+
+28:50 | Anna
+Well, we'll follow up shortly with the information. I know you've got to drop Marnie, but great to meet you. 
+
+28:55 | Marnie
+Great to meet you, Peter. Thank you as well. I'll talk to you tomorrow. Okay, sure. Bye bye. 

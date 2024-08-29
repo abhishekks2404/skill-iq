@@ -1,0 +1,264 @@
+Hive Learning Demo <> Verra
+
+Charlie Poliseno with Verra Mobility
+Recorded on Jul 11, 2024 via Zoom, 38m
+
+
+
+Participants
+
+Hive Learning
+Charlie Poliseno
+
+Verra Mobility
+Brittany Gill, Director, Talent
+
+
+
+Transcript
+
+0:05 | Brittany
+so, she's not able to join but we can keep going, not a problem. 
+
+0:09 | Charlie
+Sure. So I was referring back to your e-mail from last week and I think I was able to… concisely answer with the information that I kind of had at the time that we can, you know, provide things around mapping and menu and tool kits and those types of things. But I would love to get a little bit more context around, those specific asks that way I make sure that the demo ties into what you were looking for. So any additional info would be, really helpful. 
+
+0:36 | Brittany
+Totally. Give me a second. Let me pull up my list so I can just drop my memory on that. Yeah. So for the leadership competencies or whatever we're mapping, is it a possibility to say math courses to our leadership competencies or see what those kind of matches look like? Is one of them? And then one around. So… we have these four or five competencies. Is there a way for those mapping to say, okay, this leader feels like their team member is low in one of them. Can we select learnings or something to that? And then also around, is there anything that ipads with regard to GM training or accelerator programs that we could potentially leverage? 
+
+1:46 | Charlie
+So specifically on that GM accelerator question, are you looking for content specific to that, that's coming off the shelf or do you have content that you already want delivered to them? And you're looking for a delivery mode? 
+
+2:01 | Brittany
+I would say… it could be a hybrid of off the shelf. We currently don't have anything. But if we had one in something as well as if there is any other offerings that Hive has as well or if it's truly just the kind of learning stuff. 
+
+2:20 | Charlie
+Okay. And in terms of the GM accelerator program, what types of skills or content would you be looking to deliver for them? 
+
+2:29 | Brittany
+And I think that's where we're looking to leverage experts in the field of what kind of is that well rounded… experience needed to get people up and running on essentially running their own business as well as say, and when we are creating this program, we're going to plan on talking to some of our current business unit leaders as well as their CEO to get information from them on what does it mean? And so kind of having a two pronged approach there got you. Okay. So I think. 
+
+3:05 | Charlie
+Think that does provide a lot of context and it validates the stuff that I prepared to show you today. 
+
+3:11 | Brittany
+Okay. 
+
+3:12 | Charlie
+So we are on the same page which is exciting. I will go ahead and share my screen. And just like last time, my style is not to slide deck everybody to death. So I am going to share with you a couple of specific slides just to kind of jog your memory about what we talked about, last time, what the tools are. And then I'll actually go into the platform, and show you how it all kind of comes to life. Okay. Cool. So hopefully this slide looks somewhat familiar. We did read were did the layout of this slide, we got some new pretty graphics and things like that. So it makes me smile but the content is the same. So at the center of course of the learning ecosystem is the Hive learning platform. It's our social learning platform that allows for learners to come together in cohorts of your choosing and of your design. So to your point on being able to recognize high potential leaders that are potentially gonna be first time people leaders or your existing people managers that need additional development, or as you started to allude to in your mapping conversation and your menu conversation, you have cohorts of people that you've recognized are low and one competency, and you want them to specifically focus on one area of content. The platform allows for that type of cohorting, so that people are able to go into exactly what they need, engage with it and get the learning that you've deemed appropriate for that level of competency. While doing all of that. It allows for conversation back and forth between learners so that they don't feel like they're going on a journey by themselves. They have the opportunity to share reflections and feedback and be able all the while they're feeding that content into the platform. And by that content, I mean, their comments, the reactions, their engagement, all of that is great data that we're able to collect to surface insights for you on how to iterate learning programs and leadership development for the future. That's a good segue. And I'm gonna kind of jump around in like a star pattern on this picture here. So that's a segue into the bottom right corner tool, which is buzz insights that's our data analysis tool. And so what that does is it aggregates all of the responses in the platform as well as buzz facilitator bottom left, I'll touch that on that one in just a second. But it aggregates all of the information that we're getting from your learners both in terms of polls, quizzes, if you choose to utilize those types of things as well as their organic commenting, sharing feedback, of what they're ready with in terms of the learning content and it aggregates that information into data that surface up that surfaces up into insights suggestions and ways to improve learning and leadership development for future use. And I'll show you an example of what a report from that looks like. So you see actually the granular level of the data that comes out of that, speaking of buzz facilitator will slide left to borrow from the haha, slide. We'll slide to the left there and talk about buzz factor with buzz facilitator that's our AI coach. But so the ability for your learners to engage with I'm thinking about as one example, a first time people manager who has never led a one to one before and needs to practice giving constructive feedback to a direct report, having the opportunity to live in flight practice, giving feedback or being able to deliver constructive coaching or delegation, all of those little skills that we think about when it comes to leadership development. They can practice that with the coach. But the coach bot can then not only act as their direct report and kind of interact with them, but also surface up suggestions and reminders from their learning to say, hey, you kind of scored a little bit low on this piece of like leading with empathy. So let's go ahead and try this again and try it a little bit differently with a little bit more empathy this time just as one example, the prompting behind those buzz facilitator things can be edited and customized all the way down to the most granular level. And that's not something that you need to be a prompt engineer on. By the way we have people on our team that take care of that for you. You give them your request, they build the prompt for you and that's all included. 
+
+7:21 | Brittany
+Okay. 
+
+7:22 | Charlie
+We'll we'll slide up on the left hand side to buzz curator. So that's our synthesis tool. So I want to think about the mapping question, that you brought to us about being able to synthesize information and create your actual learning paths and your learning programs. And so what buzz curator can do. And I'm gonna show you a demo of this in just a second is you can literally type directly into buzz curator and say based on what you're looking for, I want a six week learning program on leading with empathy. And buzz curator will talk to you and start to synthesize information that it has both from our leadership development content as well as anything that you have in house that you'd like to include within your leadership development offerings. We can ingest those documents into a very mobility vector database. I like to call it a sandbox because it's easier for me to imagine we ingest those documents and combine it with our learning, our leadership development content. And it'll actually start to build you that learning program on your behalf. It takes just a few minutes and then it's all the way through customizable editable, so that you've got the opportunity to make changes so that your learners are getting exactly what you want them to get not just what the AI spits out. The final piece, this is our newest product offering. So this may or may not resonate with you. But I figured I'd show it to you is buzz sidekick that's our, you know, copilot type of product that is able to just like I was talking about ingesting documents for your people to or for you as a learning manager or talent manager, to be able to say, this is what I want my people to get out of a learning program. Sidekick is what your learners could actually utilize to say, I'm about to go into a one to one with my direct report and I want to pull back the leadership framework and make sure that, I prep for it and they can type right into the AI interface and the AI will scour the database of information, surface up everything relevant to their request? And they can read it and prep in just a couple of minutes before any given meeting or interaction that they could possibly imagine. Does, does that start to paint a picture for you? Is there anything that maybe I've glossed over or kind of rambled too long about and made you? Confused? 
+
+9:39 | Brittany
+No, I think it does. And so I'm assuming that this is all within the platform. So, the individual would have to be in the platform kind of at all times to get like the daily workflow, learnings and different things like that. Is that correct? 
+
+9:54 | Charlie
+For all, except for sidekick. So sidekick can does live on its own and that can't live, and be hosted as its own individual tool facilitator. And the actual like learning content is delivered through the platform. Buzz insights would only be turned on for your admin level people. So, you know, for yourself or your coworkers. So not everybody gets the insights and then same for curators. So you could identify who on your team is actually gonna be the ones responsible for building the learning content and they would get access to be able to create. But not every learner in the organization can just create all of their own stuff because that starts to get a little bit messy and probably starts to take away from the quality of learning that you're trying to drive. 
+
+10:38 | Brittany
+Yeah. Okay. Helpful. Cool. So. 
+
+10:41 | Charlie
+I am going to very quickly show you a quick customer example of how this started to come to life. This is a customer based over in the UK. So please excuse any of the british English that's in here that I didn't catch. But kantar was, is a software company over in the UK. And what they focus on, they came to us basically with, a problem that their leaders were already coming in and getting some feedback on like having low index scores against their leadership frameworks. And so kind of to what you were talking about with, you want to be able to map the competencies against an existing framework or a framework that you built and wanted to be able to show where are people actually falling short? And how do we start to build learning examples for them to start to bring, those scores? And that result up to par? And so they came to us with a very similar problem and what their solution was they use that buzz facilitator tool that, I started to talk about as a needs assessment. So, they gave the frameworks and they utilize buzz facilitator to have their learners go in and engage with it, answer the questions that buzz facilitator gave to them, provide realtime feedback, buzz facilitator. And then in partnership with buzz insights was able to surface here's where your gaps are and here's, how we can start to iterate learning. That makes it so that these gaps get smaller and smaller over time. And the result was they were able to start to deliver improving results six months faster than the way that they had originally planned to do this because all of these insights are being generated in real time. And the buzz facilitator prompts can be generated in five minutes. So being able to have speed to your learners, is able to accelerate your growth and development towards achieving those framework objectives that you've outlined. Does this resonate at all? Or am I still barking up the wrong tree at all? 
+
+12:45 | Brittany
+No, it definitely makes sense. Yeah. 
+
+12:48 | Charlie
+Cool. So I, I'd probably have explained a little bit, and share, yeah, rambled quite a bit with a monologue. So I'm gonna go ahead and actually start showing you how these things look and how they work. So we'll start with that curator piece. And the reason I want to start with the curator piece is this is like, that very first bullet point that you sent over to us was mapping out how do we get people onto the learning pathways that we want them to be on? And for the sake of time, I'm just using my slide show demonstration here. So in buzz curator, like I mentioned, you get the opportunity to ingest any documentation that you've already got. So it doesn't have to be your leadership development curriculum or documents if you have those that's great. But we can also upload things like an employee handbook or items that have the Vera mobility way of speaking and, the very mobility tone of voice and the, you know, the words that you use to refer to each other, like whether it's teammates or associates or whatever that might be. Those are the little nuances that buzz curators able to pull out from these things so that the learning sounds and feels familiar to somebody going through a Hive Learning learning journey. So you get the opportunity here to upload your documents and then actually start chatting with buzz. So this is a section where it actually does the ingestion documents get uploaded over here onto the scratch pad. And then you actually get the opportunity, you see here where buzz has summarized the documents that have been uploaded and gives you the opportunity to make any adjustments. Say, hey buzz, you actually kind of got this wrong. This is, you know, this is the intent behind this document and it can make the changes in edits in real time. But assuming that it's exactly what you liked, you can see here, my coworker Marina typed in I'm ready to go. It looks good. We're gonna go ahead and click next and get the opportunity to build our sprint. So Marina is able to then type in, you know, I want to build my six week learning journey on leadership framework X and buzz is able to start coming back and chatting with her. So we've got our pathways starting to get built out here. And then our sprint, our actual learning plan that buzz has built comes to life in the platform which I'm gonna show you the platform in just a second. So, this will actually start to come to life a little bit. 
+
+15:11 | Brittany
+I might be jumping ahead now, but trying to wrap my head around learning journeys or what's created to coming up with unconscious bias. These are the say, learnings within that journey. And then is there kind of a one D2 C as well of, hey, I just want to take this one course versus the learning of the whole learning plan. 
+
+15:35 | Charlie
+Yeah. So that it sounds like you're looking for having kind of like a buffet of options so you can have people go through more of an indepth, you know, longer term learning journey as well as something that's maybe one off the shelf like, hey, I just need to get up skilled in one particular area. Is that I kind of grab on what you're talking about. Yeah. So that's a good segue into what I was gonna show you with our virgin money use case. So if I can get my… tool bar to go away. 
+
+16:05 | Brittany
+Don't you love that, you know, like, you know, but I need right where it's covering. 
+
+16:09 | Charlie
+It makes me crazy and it's the one thing that I wish. 
+
+16:12 | Brittany
+It. 
+
+16:12 | Charlie
+was a little bit better or let me see if I close that down and then maximize it. There we go, we can work around it. So to your point, you can make this menu of options available to your folks. And so with virgin money to give you a little bit of a background to it, virgin money is a high street bank over in london. And virgin money is part of Richard branson's virgin empire, their his banking arm, and they went through a merger and acquisition of a few different banks. In fact, three of them all at one time. And so they had three different corporate cultures coming together three different leadership frameworks to get everybody aligned on living a life. More version. That was their mantra. And part of that life more version was these four leadership development frameworks. They wanted people to be able to grow trust, stretch their possibilities, be agile and drive inclusion. They were able to do an internal analysis and say, you know what? I actually have this pocket of leaders over here that they're actually really good already at driving inclusion. So we don't need to put them through the driving inclusion sprint. But we do know that they needed to be able to build and grow trust a little bit stronger. So we're going to drive them to the grow trust sprint. That was their ethos, they wanted to drive people, to the pockets that they identified, they were, we stronger and you can make it so that people can self select what areas they want to learn in. And then within the sprints, you can make the within these learning, you know, sprints, you can make the content as long or as short as you'd like. So if you want to only have, you know, one or two cards and I'll show you what a card looks like in just a second. If you want the sprints or the pathway to be, super short. That's totally up to you. What we try to make sure that we're focused on is providing a platform in a learning environment that is easily accessible for the learner in whatever facet the organization wants them to be able to actually be able to access, does that start to answer your question a little bit before I dive into the content. 
+
+18:17 | Brittany
+That makes sense. Cool. So. 
+
+18:20 | Charlie
+I'll jump into the gross trust just as, you know, point number one. And this is what the platform looks like. So for virgin money, obviously, we white label everything for our organization. So color scheme, logos images, all of those things can be customized. So for virgin money here, we've got this. This is their dashboard. So if a learner logs on first thing in the morning, this is what they see. They get their homepage, where you've got whatever's happened since their last login pops right up to the top. If it looks similar to Facebook or another social media platform, it should that's on purpose. It's designed to be native so that people don't feel like they have to learn a completely different platform to be able to access it. It has a really great search feature. They can jump around to their different groups, and then just any social media platform. They can post something to the group again, building that social learning aspect. So they're able to share. Hey, I just finished my Roth rust you know, sprint number one, this piece of content really, you know, stood out to me would be curious to hear what other people thought they can tag. And, you know, tag at channel at whoever and call people out for specific feedback. They can share images, links, videos, you know, if it sparks a moment of inspiration, it gives them the feeling of being able to control exactly what their learning looks like. And at the same time, like I mentioned, it's all data. It all gets able to, it is all able to feedback up into a learning sprint report that can show us where are we leaning in and leaning out? 
+
+19:56 | Brittany
+Mmhmm. 
+
+19:57 | Charlie
+As far as what the actual resources look like… you can see that this was time released. So you can see number six is up here at the top and number one is all the way down here at the bottom, it will load. There we go. So these are released based on the organization's requests. So we can drip feed this. However you choose to release the content. So if you want people going on something that's you know, very time controlled, we can make sure that people are not being able to just skip ahead to the end, mark it as complete because, we know that there's a real big issue around people just, you know, it's the toy story video, right? I click just to get to the end, we can time boxes so that things get released in a very specific amount of time… or conversely like to your point just a few minutes ago. If you want to have all of the resources available and people can pick and choose. One of this is what I actually really want to read and focus on for today. That is also an option. So all of this could be released all at once completely depending on what your objectives are. 
+
+21:01 | Brittany
+Okay. And when they're released, if you will can, is there a push e-mail notification or something to like let people know? 
+
+21:10 | Charlie
+All of the above. So, it is designed to meet people exactly where they're at. So if you're more of an e-mail organization, we can send emails if you are a slack organization or a Microsoft teams organization, we integrate with both so that they can get notifications and also what's really cool as we have buzz bot which allows them to actually get some of the content and be able to post into the group, right? From Microsoft teams as one example. 
+
+21:39 | Brittany
+Interesting. 
+
+21:40 | Charlie
+So as far as the content looks, so we're talking about building trust here, I'll just jump right into one of the cards. So we'll jump into adding to your emotional bank. And as you can see up at the top, we provide the estimated reading time for any piece of content and it's designed to be no more than 15 minutes of learning a week for any given learning sprint. The reason that we do that is we understand that the forgetting curve is a very real thing. We can argue the science back and forth on, you know, 85 percent versus 70 percent gets forgotten. But we know that people want to learn in the flow of their work, they get, very conscious of when is learning starting to take over for the responsibilities that they have to do to deliver for their job responsibilities? And so we design the content to be micro and that's, very intentional. So if we're looking at this particular card, we start with some contexts to introduce the material. We embed a lot of images, we can embed videos, and we built pulling a lot of things so that it's short, sharp and easy to remember. As you can see, we're able to embed videos, talking about empathy. For example, in this one, an item for a poll which by the way, buzz curator can design for you. So if you tell buzz curator, I want my learning sprints to have a pole or a quiz at the end of each card, it will build those for you. And again, you get the opportunity to edit, but it takes a lot of that like tedious hard work off of the back of whoever's doing the design. 
+
+23:15 | Brittany
+Yeah. 
+
+23:16 | Charlie
+At the end, you get your key takeaway. So if you remember nothing else from the card, we hope you remember these two sentences. And then we turn the conversation over to our learners. And this is where the magic starts to happen for social learning. So this is where people as you can see are engaging and sharing. I need to invest more time in my one to ones. This is where I need to actually start to come together with my team and allow for more diverse voices to start to join the conversation, like those little pieces of that was my light bulb moment. They start to aggregate here and you start to see that snowball, effective. Okay. If Alan is saying that this is something that I need to focus on, then perhaps that trickles down into alan's team and you start to get like I mentioned that snowball effective actually putting behavior change into action. 
+
+24:00 | Brittany
+Mmhmm, and. 
+
+24:01 | Charlie
+again, all of that is data that feeds up into a sprint report. Is there anything in the platform that you'd like to see or that I mentioned that I haven't touched on yet before I jump into actually showing you what the data starts to look like? 
+
+24:16 | Brittany
+I think one, one question is around, say that chat feature at the bottom. Is that cohort based or training based here? One cohort can kind of have their own chat, who they're familiar with versus it kind of just being the long string of say four years ago, someone took this course and has these comments versus like current? 
+
+24:37 | Charlie
+Yeah, it's all cohort based. So, if you've got a, you know, cohort for 2025 and they go through it for a year and then you move them on and again for a year, all the time options, are completely customizable, but I'm just using this as an example. 
+
+24:51 | Brittany
+Okay. So you've. 
+
+24:52 | Charlie
+got a cohort that exists for a year, and then 2026 you want to start another cohort, they get their own cohort, their own access to the platform and they can engage if you wanted to make the other pieces and the older content and the older comments available that's something that we can do. But our best practice is each cohort is gonna be its own unique experience and they want to be able to have conversation that's live rather than going back and reading history. 
+
+25:18 | Brittany
+Okay, cool. 
+
+25:20 | Charlie
+Awesome. Anything else before I move on to show you some of the data? 
+
+25:24 | Brittany
+No, this american sense. Thank you. Cool. 
+
+25:27 | Charlie
+And by the way, am I answering like some of your menu questions and your tool kick questions? Like is this starting to provide or is there additional context that I can provide for you? 
+
+25:36 | Brittany
+No, I think, this is helpful. Yeah. 
+
+25:39 | Charlie
+Cool. So let me jump over and show you some of our data that actually starts to surface up. So going back to our kantar example, this was that needs analysis that I talked to you about utilizing that buzz facilitatorpiece so they had their people go in and utilize buzz facilitator and start to give them feedback on where are we missing the boat? So you can see building a like their values, building great teams leading with impact, lasting change. And based on the responses to the questions that they had buzz facilitator ask their people, based on those responses, we were able to start to surface how may not only, the nuts and bolts, the granular quantitative data of how many people visited, how many people started, and all the way down to completing the various objectives that they align. The AI was able to aggregate based on the qualitative data that was provided in the responses to buzz facilitator and start to show where were you starting to see common themes in having difficult conversations utilizing these insights? Kantar is then able to start building to the platform that I just showed you what is my learning for leadership development going to start to look like? Now, you can be on a very different piece of your learning journey than where kantar was. You know, perhaps you already have a needs assessment that's been done and you already know where to start. Then we can start to utilize the content and the, excuse me, the data that starts to come through the platform to show where are like, who are my leadership champions? Who are the ones that are actually starting to share? You know, things that get clicks and reactions, and how do I like multiply that out? What is jerry's secret sauce for being able to share and get people to engage with what they're talking about. But all of this insights gets refreshed day in and day out. So you're always getting up to the minute insights of what your learners are leaning into and leaning out. 
+
+27:29 | Brittany
+Of nice. 
+
+27:31 | Charlie
+It expands over all the various objectives. So you can see where getting in that one didn't refresh. There it goes. So getting, you know, objective completion data, being able to see where, you know, summaries of people's performance. This one's really great, you know, right? Short concise, one sentence of where's an area for improvement. These types of little pieces of data are how kantar was able to get to that six month acceleration because they don't have to do the hunting and pecking and reading and like doing the by hand consolidation of themes. They're able to very quickly identify where do we move from here. And it allows for that leadership development journey to really start to accelerate… any questions on the data piece? 
+
+28:17 | Brittany
+I don't think so. 
+
+28:20 | Charlie
+Anything that you're not seeing that you wish you did see so far? 
+
+28:24 | Brittany
+No, I think where my mind is going is we need to step one kind of figure out our strategy, where do we want to go? And then this I'm seeing is like maybe a part or a piece of the pie but not like the holistic pie itself if you will. And so that's where I think a lot of my cases are coming from is… as we're kind of gathering all this information and figuring out where we want to go or what we want to do, knowing what's out there and seeing how all the pieces fit together are very helpful. But I would say I'm seeing kind of hide is a section versus like the holistic approach. And I think that's where… me and my leadership team need to come back to let's figure out like where do we want to go and where do we want to start? And then kind of us from there? 
+
+29:22 | Charlie
+Yeah. What it, do you think that doing something similar to what I explained with kantar with, you know, just an initial like six month buzz facilitator type of where do we lean in? Your like doing that needs analysis type of situation? Is that something that would be interesting for Vera as well? 
+
+29:39 | Brittany
+I would say first we want to see like where do we even want to start from the standpoint of do we want to truly start from the GM accelerator program, which I don't know if this is necessarily a fit for that versus a leader one one where this could definitely be a fit. And so seeing where we start chipping away at our holistic leadership development approach and then going from there versus testing something out and not necessarily seeing how it fits in the whole plan. 
+
+30:14 | Charlie
+Gotcha. Is there anything that you're thinking of that Hive could share with or you participate with Vera and your team on helping you start to get to that, you know, identifying what the pathway forward looks like? Or is this something that you got to kind of take care of internally? 
+
+30:33 | Brittany
+I think it's something we have to take care of internally from the standpoint of, hey, do our current competencies make sense? Do we want to leverage somebody else's competencies say Hive or a different vendor and go that direction versus mapping? What say, are those assessments to see where people are at in their learning journey with regard to those competencies? And then what learning is kind of mapped to helping them up skill. So, I think, yeah, step one will definitely be that internal approach of, hey, we don't want to take on the world, what are the biggest burning platforms right now? And then plugging those holes and kind of creating the strategy from there. 
+
+31:22 | Charlie
+Yeah, that totally makes sense. Is there, you know, a timeline that you guys have in mind for, you know, looking to start to solve for those problems, tackle that internal conversation. And actually, you know, start building out what does a pilot possibly look like? 
+
+31:37 | Brittany
+Yeah. I would say we would want to start running a pilot probably january 2025 and so kind of in like I said, this data gathering mode of what's out there, where are we currently? And where do we want to go? And kind of this Q3 area. And then Q4 is more of like, okay, what do we want to pilot? And then launching pilot in january february? Okay? 
+
+32:04 | Charlie
+Okay. So we're definitely in like fact binding mode right now? 
+
+32:06 | Brittany
+Yeah, absolutely. Gotcha. Cool. 
+
+32:09 | Charlie
+Are there any pressing things that you'd like to like, you know, taking the leadership development perhaps as something for 2025 are there any problems, or challenges that are like particularly shortterm burning needs that you could see a tool, you know? So a use case that maybe isn't leadership development, but you see where the tools could possibly lean into something that's more short term? 
+
+32:34 | Brittany
+And I think that's kind of where I was getting to before of where figuring out internally, where do we want to focus on? Is it that GM level or is that leader one one, I can definitely see a leader one on one training kind of being able to leverage some of these types of platforms where it is a lot of that learning as you go. And when needed of, okay, I have a performance review coming up what's having a tough conversation versus a kind of GM accelerator program where it could be more of that executive coaching and how do manage a budget and different things like, that might not necessarily be found in this type of platform. 
+
+33:17 | Charlie
+Gotcha. Okay. Yeah, that makes sense. The reason that I asked that question was where we're leaning very heavily as a, you know, kind of reacting to the market and what we're being told, leadership development stuff, very, similar to what you just shared. We're seeing a lot of that being looked at as like a like Q1 of 2025 type of initiative. But as we're reaching like the end of, you know, the 2024 calendar year? 
+
+33:41 | Brittany
+Are. 
+
+33:42 | Charlie
+leaning heavily into like sales enablement and thinking about their salespeople and how are they leveraging tools like this to help their salespeople hit those quotas and things like that towards the end of the year? And I didn't know if there was like another like completely separate bucket that you could see the tools start to apply to. That was pressing for like Q4. So I don't know if sales is something that you're focused on at Vera that's something that we could, you know, possibly do a pilot for you to see where the accessibility and, the success can happen as you start to do those slow burn stuff that takes you to january of 25? 
+
+34:14 | Brittany
+As of right now, I would say no from the standpoint of wanting to connect the dots of where… making sure that we have the same nomenclature throughout. And so if we say pilot of sales training, making sure that kind of those competencies are still the ones that we want to keep. Until then, it's threaded throughout versus kind of we're talking this language here. We're talking this language here and it's not consistent across the board. 
+
+34:43 | Charlie
+Cool. That makes sense. Yeah. So is there any information that I can provide for you? Whether that's here or via e-mail some additional resources that you'd like to take away for your team to be able to keep in back pocket for your conversation as you go through them internally? 
+
+35:02 | Brittany
+Yeah. I think what you had shared previously and kind of with this of like what are kind of the each tenants and what is shown there or available would be helpful just to drop my memory as well. When I'm looking back through the materials would be helpful. And then we can kind of lay out what our needs are, and then like where we want to plug and play from there. So, I think that would be helpful. 
+
+35:28 | Charlie
+Perfect. I am just making sure I, I'm going through our e-mail history. I just want to make sure I shared with you our white paper on the four tools. Yes. I did happy to reforward that by the way that's not a, that's not a homework assignment for you to go searching through your inbox, happy to reforward that if that's helpful? 
+
+35:48 | Brittany
+No, I do have it. 
+
+35:49 | Charlie
+Okay. Excellent. I can also send over some of the slides, that I have, if you know, if that's helpful to keep in your back pocket. And then would any, you know, webinars, any of the webinar recordings that we've perhaps done in the past that maybe is relevant to what you're thinking about or invites to future webinars in between now and january, would those types of things be helpful for you as well as we're talking to like other L and D and leadership development leaders? 
+
+36:18 | Brittany
+Yeah. Depending on what the webinars are, perfect. 
+
+36:22 | Charlie
+Perfect. I will make sure that I add you to my role decks to borrow from my dad's nomenclature? 
+
+36:37 | Charlie
+That I can send you over anything that I think is relevant for you as they come across my desk? Yeah. And then the last thing is, are there any tools that like if I get an opportunity to give like a beta or a, you know, a free test run of any of the specific tools? Like if we built a just a kind of a trial sandbox area. Is there anything that you're specifically interested in like actually getting your hands dirty with? 
+
+37:04 | Brittany
+Depends on what it is… potentially depending on if it connects to what we are doing at that moment in time. 
+
+37:14 | Charlie
+Sure. Yeah. I'm thinking about like a buzz curator, that synthesis tool, being able to ingest some documents or build your own learning plans. Like, I know we just wrapped up… a curator test group for some folks that wanted to try it out. And if we do another one of those or if I can get access to another one of those like free trial type of things, if that's something that you'd be interested in, just like, you know, no pressure, no obligation, just jump in play with it, see if you can break it. If, if that comes up, I can send that over to you. 
+
+37:46 | Brittany
+Cool. We. 
+
+37:47 | Charlie
+Well, I know we've got about five minutes left. If, is there any other questions? Anything that like was burning that I didn't touch on anything that I mentioned that I didn't show, I don't think I showed the facilitator, but if that's something that you'd like to see at a later time, happy to do that, what's best for, our last five minutes here? 
+
+38:05 | Brittany
+I think it all said like I said, needing to kind of go back internally to figure out where we want to focus on and where we're going. And then we will definitely be in touch. 
+
+38:17 | Charlie
+That sounds great. Britney, if anything burning comes up, if you guys have a meeting and, you have some questions, just shoot me an e-mail happy to provide as much context as I can or happy to jump on another call with you and your wider team and answer any questions? 
+
+38:31 | Brittany
+Awesome. I appreciate it. Thank you so much. Bye. 
+
+38:34 | Charlie
+Of course. Thanks. Pretty. Take care. 
+
+38:36 | Brittany
+Bye, bye bye. 

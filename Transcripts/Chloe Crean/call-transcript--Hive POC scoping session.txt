@@ -1,0 +1,412 @@
+Hive POC scoping session
+
+Chloe Crean with Bank of Scotland plc, Lloyds Banking Group, Capita
+Recorded on May 10, 2024 via Microsoft Teams, 53m
+
+
+
+Participants
+
+Hive Learning
+Chloe Crean
+Gemma Jones
+
+Bank of Scotland plc
+Mark Poole, Strategy & Innovation Manager
+Rachael Stoodley, Learning Change Lead
+Claire Robinson, Learning Change Consultant
+David Ingham
+
+
+
+Transcript
+
+0:00 | Chloe
+two tools which we, we're not currently talking about but we do have those facilitated that provides one to one support to a learner giving them roleplaying scenarios, testing their understanding. There we go. Thank you. And then the last part is that impact piece. So, we use an air AI tool to really assess who are the influencers in the group where we got some key insights giving you kind of the so what? So yes, there's been completion. But so what does that mean? And what does that mean for future learning programs and initiatives? We are kind of approach all around learning sprints and taking people through different modes of learning. I won't go too much into that. I think that's not really purpose of today. I thought I'd quickly run through obviously the latest of me and Rachel have discussed that also lays on this big bank and learning transformation. I think we've definitely identifies the big gap in the big value of buzz curator right now is the speed of tailored content creation for the learning team and making sure that you're agile to be responsive to the needs of the organisation. I think the biggest thing is what we'll be comparing is the time saved and the quality of the content that is output it by buzz curator compared to your existing practices and processes for creating content. And yeah, how different is the content? Is the quality good? Enough? And then we've obviously discussed that firstly, we want to test that with your internal learning team. But we also talked about, you know, it would be good to collect the unbiased views of end users to understand like do they think the quality? Is there, do they think the experience good? And is it helping them actually change their behaviors and learn new skills? We had identified four immediate use cases to test which I kind of across customer care, product and propositions and various other ones. So there's lots of ideas that have been thrown around. And then I think the biggest one is understanding the bigger picture with your lxp and understanding how could Hive potentially fit into that? And what does that really mean for us? And I think today we'll really get to the crooks of that. And mark really keen to hear and understand the bigger picture so that we can kind of think about that for the future. So those were, the use cases that you've shared previously, Rachel. And then I thought, you know, this would be a good place. But yeah, you've got a question for an addition. 
+
+2:27 | Gemma
+I was wondering if this would be a good time to interact with the evil. I. 
+
+2:32 | Chloe
+Yes, there you go. 
+
+2:35 | Gemma
+Yeah, I explained this, to clem as I, and she was like what? So I'll chip in. I think I'll be honest, we sometimes confuse ourselves, with what we're talking about. And, and when we've got a pretty lean product team that have been moving really quickly, we had Rachel feeding back to us at learning tech of who's doing what, and at what speed. And I think we've really been concentrating on that AI tooling, and how we do it. But it can sometimes be confusing on which bits are available at what stage et cetera. So to put this together in terms of like what the phases are when we think about our AI AI tooling and at what point we can do what with them. So buzz labs is something that you might hear us reflect. And I just wanted to make really clear that buzz labs is sort of our internal tool where we test the AI functionality from a product roadmap perspective that's where things start. They go into buzz labs. We have our internal learning experience team. I think you've all met Dan at some stage by now who is a learning designer, in our internal team and he's there as like test user number one. So when we're thinking about, you know, can we do good document ingestion? Can we do that all sits in buzz labs? What that's available as is really as a service right now? So we'd be able to take lloyd's documentation, upload it via buzz labs, have Dan, do the learning design and then display that back to you. We can still test things like speed of things, but it's more dan's team doing it on your behalf, to really test, that AI tooling before it gets pushed into the front end. So phase one is sort of is that buzz labs bit in parallel to that. So this isn't really a time frame necessarily buzz curator exists Clare as, you know, via the beta program. So at the moment lloyd's learning designers can access buzz curator and create their own content from scratch, but they don't have the ability to do the document upload because that currently is in buzz labs. So sort of at some point when buzz curator is tested, then you'll have document upload and you'll be able to do that bit that was happening in buzz labs for yourselves. So that's like, the top there. And at the moment all of that is delivered on Hive. Clo, talked about, the learner experience, the ability to put people together. In cohorts that's sort of the way that we're designing content is to be delivered on Hive. And that would be like in a proof of concept phase because we know that the lxp is super important and then the future state, I think outside of the initial parks but, we can start the scoping work in parallel is to say great, we've now got buzz curator with document upload, but we want to push that content elsewhere and that's the bit that's sort of out of the initial phase right now but in future state and needs to be considered. Is that helpful useful, honest in line with your understanding? 
+
+5:44 | Claire
+Yeah. 
+
+5:45 | Rachael
+It's really helpful… and I think we can get through then the next stage in terms of the time frame for the ingesting and what, you know, what timeline down is working on for that, how we can align our next phase of the proof of concept with that. But, I think it captures it really well, Gemma. Thanks. 
+
+6:07 | Rachael
+Yeah. 
+
+6:08 | Gemma
+You're on mute? 
+
+6:10 | Chloe
+I'm never on mute. So it's always surprising but yeah, I thought like let me just then run through what this means as to what we've discussed and we keep saying like proof of concepts, one two three in use cases. So I think me and Rachel were saying like we need to align on like terminology as well as to like we're saying this thing. We, we just need to make sure we're all aligned. So I think we are calling this be to buzz curator trial that Claire is on. Is that first proof of concept? So that's purely around testing the quality of the buzz curator, the quality of the content and the ease of the creation and the time it's taken for you guys to actually create it. And obviously we're really open feedback and this is the first time it's been in the hands of people external. So we're very excited about this. But yeah, like I said, really testing the efficiency effectiveness and quality of the content compared with your current processes and the content that you create already maybe with articulate rise or other tools and that's purely just for internal learning team. And obviously, that is live right now. Then we talked about proof of concept too. And this is way, yeah, you've obviously got some public content. Welcome to lloyd's banking group. So we thought that was a really safe place to start. Because then at least we're not going to go through issues of like it's like where is that data going? Because it's already public. So in terms of what Gemma was just saying around like buzz labs. So if we want to do this in June, I mean, again we can check on the timelines with this. But if we want to do this in June, then Dan can do this in buzz labs. We can do a very much a test environment of how quick it takes in but ingesting that document and creating a learning sprint. And then maybe the learning team go through that experience and can give feedback et cetera. And so again that sets in the efficiency effectiveness and quality of the content creation. We will get to a point though where buzz curator will have, that content upload that you can do yourselves as the learning team. And then, yeah, the kind of proof of concept three which I think we've kind of called proof of concept to use case one and use case two. But it might be easy just to realign is like this is the third proof of concept that, you know, really testing the overall experience and core offering of Hive learning with end users and that's typically how we've always run proof of concepts. We talked about starting with customer care and product and proposition and again, that's around like that cohort based learning the sprints, the nudges the data and insight, but also getting this unbiased feedback of the experience, but also the quality of the content. So as a learning team, you obviously know your stuff, you know, what's good, you know, what's bad. But also this could be a great opportunity to actually get the feedback from end users. And like I said, we've done a lot of those proof of concept. So that's something that we naturally learn a lot from and that can help feed into future phases as well. So I'll stop there. Those are all my sides but I thought that. 
+
+9:10 | Rachael
+a, 
+
+9:10 | Chloe
+good like set the scene. 
+
+9:12 | Rachael
+It's really helpful. Can we, can we stay on this slide, Chloe please? So a couple of thoughts running through my mind… and mark, Claire keen to get yours as well in terms of, you know, our needs and where we wanna take this. I think that it would be beneficial for us to just go through each of these phases in a bit more detail. So we can be really clear on, you know, what we're doing now as part of the phase one, maybe a little bit more on number two, but then get into a bit more detail on three. And then at the relevant point, mark, I'm sort of thinking that overview of lxp would be really beneficial as well. And just sort of explaining I won't see the vendor or what have you? But I said to Chloe yesterday, the intention is of course, that the lxp is that one place that shop window for colleagues… and there's a vision. And I'm not saying that it's the lxp and mark, you can probably correct me… but there is a vision that there will be one kind of AI chat bot assistant for colleagues to use for everything. And that will then integrate into whether you want learning whether it's a knowledge management, you need, whatever it is. So that I know is a vision of what we want to achieve in terms of when and how question mark hugely. But that is the vision around utilising an AI to make colleagues lives easier and enable them to access to the right information as quickly and easily as possible. So… just setting up that kind of scene and planting that seed for, mark… when's a good time to do the lxp? Do you wanna give a bit of an insight to that now? Because I've just started to. 
+
+11:04 | Mark
+yeah, yeah. You know, I can do that's. Good that's a good shout. Thanks rach. So… I think it would just take a step back and apology if you know any of this or not. So if you do stop me. So probably what I'll sort of say really is probably what you'll expect here I guess in some ways and you'll probably not be surprised. So I would say currently lloyds are a bit behind the times, I would say in our tech stack more broadly as far as learning is concerned. So we are very much LMS focused. So we use workday as our LMS workday of course is the core HR platform. It's a core HR system. But the learning workday learning angle to that obviously is what we use currently as our LMS, and that will still be, that will still be the case. So workday will still be in existence within the group. All of our content will still be hosted on workday moving forward. So that doesn't change or landscape doesn't change as far as that's concerned, all of our content will exist, and be hosted on workday. Change is the entry point that colleagues will go to get the learning. And we know this because when we've done focus groups et cetera with colleagues, historically, they've generally told us that content is okay, but the experience is poor is generally what we've been told in the past. So that's the sort of backdrop behind why we've been looking at the experience and we've been heading down the lxp route. I know that the lxp route is sort of emerging and is changing to be more skills focused moving forward as well. So lxp in its own term actually is dated in some ways now as well as you as you'll know, but we are a bit behind the times having get in even getting to the point of having an lxp. So because we recognize that we're behind the times a little bit on this. And the strategic partnership that we have with Microsoft of decision was then taken that we would invest in the vibe learning product which then Places learning into the point of need into the flow of work. So it becomes an available app via teams and it starts to put learning right to the heart of where you need it. So I think that's sort of the first bit. But we also recognise that viva learning is as again as you'll be aware is very low on maturity at the moment. Obviously. It's not a competitor to a degree or an Ed cast their lxp platforms out there. And I think that's part of the backdrop as to why we've made the decision to progress with the working with Microsoft to build evolve and grow, and evolve the vibe learning proposition. So, I guess Chloe, Gemma, if you sort of seen viva learning, I guess if you have visual site of what it is, what it looks like? 
+
+13:47 | Chloe
+Not. 
+
+13:48 | Gemma
+like a very early version of it, but probably my last, the last time someone demoed it to me was probably a good six months ago, I would guess. 
+
+13:58 | Mark
+Okay, race you think be come? I share my people learning screen. There's nothing on there. That… that, would be difficult, you comfort if I share my screen race? 
+
+14:12 | Rachael
+I think so. 
+
+14:13 | Mark
+Okay, fab, I'll just before I get to share my screen, what I will share with you is this screen here. So this is the hopefully seeing my screen and you are seeing… let's close that window down and you're seeing this future colleague experience wheel. So this I guess is our vision from a learning perspective. So when we looked at this last year, what, we didn't jump straight necessarily to be learning or straight to an lxp solution. We actually started what's the colleague experience that we want to create. So the eighth stage colleague is we want to create I guess is our north star, that is our sort of vision at the minute. We can't do a lot of this. So as it stands right now, a lot of this is not enabled for us. But as we talk through the wheel, it sort of starts to come alive. So colleagues can use any device of their choice to get the learning that they need. And when they go there to go, they go to one place that's absolutely key. It's that sort of one of the fundamental principles really is that they go to one place to get everything that they need. That one place is viva learning. In terms of that gateway, it's that sort of entry point. But we're considering viva learning is very much like the shop window. It's a shop front. It's not necessarily the entire shop because the entire shop will see it elsewhere, workday content providers, et cetera. But it is the shop window and that's how we're positioning it when they get there. It's all personalized for them based on their skills. So it's skills attached to roles in time proficiency levels attached. So that's a journey we're on at the moment where we are mapping learning content to skills. And then in time that learning content to proficiency levels as well. That will then drive out personalized recommended learning opportunities. It unlocks more practice opportunities as well. So this is a key focus as well. So it's starting that transition. But from courses, traditional courses experiences and more practice opportunities, their collaboration. So connecting in with the right people at the right time to help bridge skill gaps et cetera, or power through AI which obviously is Hive Learning, is a potential opportunity there and in the flow of work. So it's where it's needed. So what it starts to do is understand and recognize what people are doing day in day out. An overlay to all of this is skills in viva. So skills in viva will essentially provide some AI functionality in being able to learn what colleagues are doing day in day out. So as they work as they do their stuff typically within the Microsoft ecosystem, what it's doing is learning about you, it's learning about what you do. And then it's going to potentially suggest skills that you may be demonstrating that may not currently be part of your role. So many of us probably are demonstrating skills, calls or meetings or in stuff that we do that actually isn't a core skill for my role that isn't then lost what it does. It starts to recognize you're demonstrating this skill in this particular area. Do you want to potentially build on that? And then it gives other opportunities for people to develop and grow in their skills further. So that I think is where we are heading, I guess. So just stop sharing that screen a second. And then I will just show viva learning as it stands today very said basic in some ways, and we are deliberately going down the agile MVP route. So this is very much consideration, as an MVP. And what we are doing, this is viva learning again, if I just maximize that screen, this is viva learning which is powered by the skills. So we have a bunch of skills here, skills. We've got skill carousels, each skill carousel is made up of learning opportunities. At the moment. These learning opportunities are coming from paco which is our main content provider and also workday. So that is coming there. And this is due to launch to colleagues as part of this. Obviously, you've got things like my learning where you've got collections playlists, stuff like that. You can also create… academies. We're making a big play for academies as well at the moment. So a lot of work going on around creating academies which essentially our, I would say pre curated content. So it's a bunch of pathways if you like bunch of playlists that are made up in an academy. If you are in a business area for that academy, you would get access to these playlists and it's been all precreated. But it's been quite manual in terms of how we develop so far. 
+
+19:04 | Rachael
+Yeah. And that's a really important point. Isn't it in terms of the recreated one, sorry, pre curated content that sits in the academies when we, you know, think about where we go next with the park. 
+
+19:19 | Mark
+So, yeah, no, you're okay. So that I think it's a, it's an important distinction. We've got pre curated content which is really what colleagues are expecting today. This is what they've typically been. We package learning in so many different ways in the past through portals and academies and pathways. You probably launched academies numerous times in the past as well and in varying degrees. So we've been down this route before we before, but typically it's a way of because colleagues are still expecting force feeding learning, their spoon feeding learning. And we're still this because we're in that culture and mindset of doing that a little bit when we can launch fever learning is an important step although it might seem basic, but it is an important step in terms of what it starts to do is personalize the learning opportunities for me based on my skills. It doesn't go deeper in that at this stage, it will proficiency levels et cetera. In the future. But to start with it's just at least we don't get this today. So we starting to personalize these opportunities for me. So I get that sense of personalization. 
+
+20:24 | Mark
+An overlay I think it's an important point as well, is copilot obviously which we've talked on. So copilot we would imagine would be switched on within vibe learning in the future. You would imagine that would be a core requirement again as an organisation, we're not there yet for various reasons. But I would assume that would be the case how Microsoft are envisaging copilot working in vibe learning… I think is still to be defined. But just as a quick example because I think it helps with the broader business case. An example they gave us is where copilot might work in the learning is I would type in a prompt, build me a pathway on X and what it would then do is go and find the content and build me a pathway on X. Now, I've literally just heard that at that's not in the product today, I don't think, but that is their sort of view. But I thought it'd be helpful to share that because it's one of the backdrops that we have within the group is of course maximizing our existing tech stack. So, we all things AI were always going to be challenged about what can other AI providers, and suppliers offer us that we can't deliver through the Microsoft ecosystem or through copilot or something like that. So, but it's still said very much in his infancy… I've got the one to cover on content, but I'll go to the hands first and I'll just cover on the content strategy which I think is important for the conversation as well. 
+
+22:03 | Claire
+So I had a question when we were doing the initial call on Wednesday, which was… one thing I'm peeling to understand is how what we create in Hive learning would ultimately transfer across to something like perhaps just described or even workday as we've got it today. So, how do you envisage that working when we've created in Hive, I need to ingest it into whatever we use to deliver learning to colleagues? 
+
+22:35 | Gemma
+That is the other side of the coin of the question. I was just about it. 
+
+22:42 | Claire
+I suppose from. 
+
+22:43 | Gemma
+Like my question was… what from a, what do you call those on the viva homepage? Is that, do you call them in or? 
+
+22:52 | Mark
+So we've got, so, each skill has its own carousell which has, and each carousel is made up of learning content. 
+
+22:59 | Gemma
+Cool. And if you clicked into that, where would that content be surfaced? Would that take you elsewhere to where it's hosted? And then the fact that it's taken you there, the data I'm guessing would push back. So viva would then understand that you'd gone through that. 
+
+23:17 | Mark
+Yeah. Let me, let me go through the flow of share screen, to answer that question. 
+
+23:22 | Gemma
+Your question, by the way, Clare I just a. 
+
+23:24 | Claire
+No, no, this is what we need to understand. I was like we've built it. How do we get it to our learners? Was the next question? 
+
+23:32 | Mark
+So, there's two examples. So the type of content that we're launching at the moment on veering as said, it's precipi which is our main third party content provider, but also our internal courses. And there's two examples here. So if I go into an internal course first, so let's say it's this one who we are, our values. I'm gonna launch that again. Still, will it be learning what is giving me some related courses here as well? But then, to launch a content, I would simply click that and actually what it's done on my other screen if I can… bring it across. 
+
+24:07 | Mark
+It then takes me into workday. So I'm now into workday the LMS which is now where I will then launch course. Once I've launched that course. Once I've completed that course because it's a score based solution. What will then happen is it will automatically market is complete in people learning. So that's an example of workday in terms of third party content. For I go into this one as an example. So the route is very similar to begin with. I'm gonna click on this and it is going to go into workday. But then what will happen and this is something that we will change moving forward as you want that direct connector between learning and the third party content provider. So I'm still in the workday shell here. I'm gonna start the content. So it's not a brilliant user experience. Hence why we want to change it. I'm now going to launch a content. So there's more clicks at this point. I'm now branching into percipio to consume and complete that learning. Once I've completed it, I'll pass back to my learning record and going to complete it, in people learning as I just described. So it's not brilliant that part of the journey because we're going to work day to come out again, but we're doing that for more from a, from an mi, data reporting angle at the moment, but with a view to changing that. 
+
+25:24 | Gemma
+That's, really helpful. The bit that is giving me great comfort is that this type of integration that we're talking about is like absolutely in our wheelhouse already. And we've got a client who is another UK based bank. They actually have an inhouse. I never know whether to call it an LMS or an lxp these days. The line seems to have blurred, but they've got an inhouse solution that they built from scratch which is exactly as you described your vision for viva. The single shop window that's the one place. The only link that goes out ever is to that like you never link in an e-mail coms or anything directly to Hive or anything like that. It goes through that's where they surface everything. And we've just built an integration where we appear like a tile and then for them, they have the same that you have here, which is it will then click out into the Hive platform. If that, if that's where the content is, and there's I'm sure Chloe has been through there's user experience aspects that we've built into our platform that help engage the learner that help get higher rates of engagement, those sorts of things. So that is always our preference. But we absolutely can integrate from that single window perspective that's where you go, that's sort of very much in our wheelhouse. I don't want to sort of step on the to product because we probably set up a scoping session to actually look into how we built and that is. 
+
+26:46 | Claire
+And then thinking about it the other way. So in building a pathway in Hive, once all the connection is in place as well as what we create, would it be able to look at things like cpo, skillsoft workday and pull that into pathways? 
+
+27:05 | Gemma
+See that's a very interesting question because, it then is on, the IP type conversation. At that stage, you're looking at… how do I word it? Like what, what's lacking from the paco content as it stands that you'd then need to pull into Hive. Does that make sense? So, so like, the bank that I'm thinking of for example, they have Linkedin learning subscription and that question always comes up. Can I take a Linkedin learning course and make it more in line with the way that we talk about those things at my bank? So like, 
+
+27:44 | Claire
+I wouldn't necessarily. 
+
+27:46 | Rachael
+Point that you coming from care. 
+
+27:49 | Claire
+Yeah, it is. I wouldn't want to change the content of anything that we've created in workday or the percipio et cetera, have already created, but I'd want to be able to pull those into a pathway. So it would be from that perspective… because we do have bespoke stuff obviously that's very role specific that we might want to pull into an overall pathway. And that would likely be created in workday because it would be very specific to a job someone does in lloyds. But then we also have the other companies that we pull our more skills based behavioral type stuff, which is what they're working on at the moment for building some of those pathways linked to these core skills that we've identified going forward. So… or would that job of connecting all that stuff and sit with the lxp… instead? 
+
+28:44 | Gemma
+I'm tempted for the sake of simplification to just say no, it's not part of the use case like we're not building the ability to go. Okay, you've got a Hive learning pathway. But one element of that might be something that exists. And one element might be, I think it's not, the problem we're trying to solve and that if we tried to, we'd probably be like square Peg around holding it a little bit. So, I think for simplification, it's more where you've got internal documentation that is sitting in powerpoints, transcripts, guides, policy, documents, et cetera, that's the type of stuff that we'd look to pull in and make an engaging learning experience on Hive… but that Hive that could be surfaced anywhere. 
+
+29:31 | Chloe
+And. 
+
+29:31 | Rachael
+I know where you're coming from clear with a question because, the content that's been curated at the moment that sits behind the skills academies that we're alluding to is quite manual or quite time consuming. There's there's situations where the designers are having to create or alter existing content, but for a proportion of it, they're not touching the content at all. So behind that particular say customer centricity skills academy and customer care, there could be several items that have been pulled from pci, a few that are already on a workday you know. And then if you look at the tech and data academy, then you've got plural site in there as well so that that's exists. But it's the manual labor intensive role of being able to curate, that pathway and pull that together from varying sources. And that's the bit that at the moment from a skills perspective is manual and time consuming. Hence, the part that we're kind of the first phase of the park. But then I still see a benefit in terms of role specific content… which is what Jane I'd mentioned to you before wasn't it, I kept going on about, you know, if I'm a colleague and I'm doing this role and I'm a colleague and I need to then be multi skilled to that role that pathway curation is, you know, is manual as well at the moment? I think. Okay. 
+
+31:02 | Chloe
+Also what I. 
+
+31:03 | Rachael
+this is. 
+
+31:03 | Chloe
+Probably future thinking but I think what we're also trying to challenge is that need for like a content library eventually that actually if you had something like this curator that created exactly what you needed when you needed it, upload your documents. You E, yeah, I think that argument of like why do we need content libraries anymore if they're not tailored or they're not specific to a person. So I definitely future thinking but yeah, mark, I don't know if you had some a. 
+
+31:33 | Mark
+Yeah, I did because the other thing I wanted to sort of say and I think it's quite timely is we're just kicking off a piece work is looking at our content strategy. So we are quite limited. As I say, we've got skillsoft today is our generalist content provider that all colleagues in the bank of access to. We've got plural site for a proportion of the group. Obviously, that's all license driven. We know that, the success of ever learning is only going to be as good as the content that it's surfacing. I was, we had a content strategy workshop yesterday just to kick this off really. So we're literally at very early stages looking at what does our future content strategy look like. And one of the points Chloe that you did point that there I raised yesterday which actually is with the growing onset of AI and AI if a colleague can get the information, that they need through AI at the point of need, what is the future direction, of actually content providers? And I think we've probably seen can share prices of some content providers out there struggling significantly because it is a threat. Gen AI is a threat obviously to content providers and that's why not? Because we've had those conversations and it's timely. So you're absolutely right? And it's a, and maybe that's the opportunity longer term. Opposite. An opportunity for us here is how can we get on the front foot? And it could be that some of those conversations that we're taking here could flow into the content strategy which is going to run in parallel to think about actually what does gen AI look like around getting the content and the knowledge you need at the point you need it? 
+
+33:06 | Claire
+I mean this does help us manage expectations about where this is going, and what it will do in the future as well… because I wouldn't yeah, I wouldn't want people to think they can just pop in and pull everything together with the stroke of a key. So it helps understand where it sits in that whole sort of picture of how we balance it with the other things we've got. 
+
+33:34 | Claire
+Rachel's typing madly. 
+
+33:36 | Rachael
+I am. Yeah. So it's super useful. It's just such a useful session. Isn't it? Such a useful session? Okay? So with all of this in mind, where do we think we need to go next? I think that we're probably more aligned in terms of… understanding the possibility or not of using as curator to create to curate content for skills academy because, I think from what I'm hearing and from what you said, I can, I see as probably limited to be fair. 
+
+34:15 | Gemma
+It's limited to the extent that you, that we wouldn't be pulling in content provided by other content providers… but it's not limited in, do we want to test versus what you have from content providers? You know, we're talking about this future state of the content strategy, but we might be doing already, right? We might go… if we, if we're thinking about it being limited from a, are we pulling in content from the content providers? Are we, are we solving a problem that might not be there a year down the line? Because actually we're going okay. We have a skills gap around collaboration. What does it look like to build that from scratch or based on Lloyd documentation… or learning like stuff that you've built in house? 
+
+35:08 | Rachael
+Yeah. We can, I guess that we'll start to see that the benefit and the measurement of that. So this first phase that we're doing, you know, supporting the beta. Yeah. No. Okay. That's a, that's a fair point, however it does absolutely present the opportunity of content. Then that's on workday as part of our induction curriculums and multi killing curriculums. Yeah. Okay. 
+
+35:36 | Claire
+From sorry. 
+
+35:39 | Chloe
+I was. 
+
+35:39 | Mark
+just gonna say, from a content perspective, I think when it comes to things like governance and that the various questions that we're being asked specifically around data, a lot of that's of course related to the lloyd's data. So if we were doing early stages of a poc on external bank devices using personal e-mail addresses, using public domain content. And potentially that could be maybe lloyd's public domain content because it's already out there, in the public domain… and there isn't at this stage necessarily any commercial discussions, or implications in terms of sourcing and things like that. Then it should be fairly simple and straightforward to be able to do some early stages of the park. I think the complexity happens when we talk about lloyd's data… and that's rate thing is where you now get a lot of questions around arc and one thing and another, definitely. 
+
+36:34 | Rachael
+So I think that I think the second phase of the poc still holds true. You know, we'll identify that content that we can share in the public domain, which is, the welcome to rbg pre joining content. We'll take that through the governance because that still needs a bit of governance with and what have you. But we can work on that. That's fine. And then we work in tandem with Dan in terms of his build on the ingestion part of the tool. 
+
+36:59 | Mark
+And I think there's quite a bit race in the personal skills space as well. So all that content it's not Lloyd specific and we've got lots and lots of content there. So as well as the welcome to B which is obviously do in one piece, I guess from a high on perspective, it'll be good to have as much content as possible that we can pull from. So the personal skills curriculum seems could be another. 
+
+37:21 | Chloe
+Actually on that like you're saying it's generic and not loyd specific. We could make it loyd specific. So you're re purposing it in a way of like how can we make it even more tailored to you, your tone of voice, anything like that and keep it up to date is like Gemma was saying, like, how do you keep on top of it? But yeah, I think that's a good one. 
+
+37:46 | Mark
+And of course, any content in pci skills, soft and third parties, it's public domain. Anyway, it's obviously you need a license, but it's a it's public content. 
+
+38:01 | Rachael
+What, if we see… so, what are you thinking? Well? What were you thinking now when you're saying is public content? 
+
+38:11 | Mark
+No, I was just thinking that when it comes to obviously all, the challenges and complexities around the data and the lots of internal governance internally around that, it's that's very much around the lloyds data. So, anything that's relating to our policies, procedures, products, et cetera. But of course, anything outside of that that's considered public and all of our personal skills were welcome to org. But thinking also paco, skillsoft content as well. As long as you've got a license, it's no, it's not los, normal that's of course, loyd specific. It's not loyd's data on a, apart from the e-mail address, you need to be able to get the license to log in and single sign on stuff. But when you get that, none of the content, of course, it's always specific. So, I just wonder whether that is another avenue to pursue in terms of giving us a as broad a range of content as possible safely by leveraging maybe some skill soft stuff. 
+
+39:09 | Rachael
+They're an IP consideration there to even though it's. 
+
+39:11 | Chloe
+that's what? 
+
+39:12 | Rachael
+If we're feeding into Hive, yeah. 
+
+39:15 | Gemma
+I think it might be a kind of worms. I don't know around. 
+
+39:19 | Chloe
+It. 
+
+39:20 | Gemma
+is public, but lloyd's are licensed to access it? 
+
+39:23 | Chloe
+No, and then we're selling it in a way we're like we're taking pacipio's content, selling it to you and you're paying us for pacipio's content. I mean, that's where the IP is like, it's a big blur. A, well, it's quite a clear. 
+
+39:39 | Claire
+Yeah. 
+
+39:41 | Chloe
+Only. 
+
+39:42 | Rachael
+yeah. 
+
+39:44 | Chloe
+You never know, I think with AI, like the way things are going like we could all just share, then it might just be a lot easier. 
+
+39:50 | Claire
+And, that may? 
+
+39:51 | Mark
+May change a whole licensing model in future anyway. We will. 
+
+39:54 | Gemma
+The day I won't say where we were, but financial institution, I call it. And he came up to us and said, could you arrange a round table for financial services clients where we talk about open sourcing content for financial services skills? And I was like all of the, 
+
+40:15 | Rachael
+yeah. 
+
+40:16 | Chloe
+Because he was like part of like the financial services skills commission and that's become a thing of like a lot of people move between the companies in the financial services industry anyway so those skills could cross over it out, make the financial services industry better as a whole. So, yeah, I hadn't really thought of it before but. 
+
+40:35 | Gemma
+Interesting. We came on this call to simplify and fill up. We're having. 
+
+40:41 | Chloe
+A free the way. 
+
+40:46 | Rachael
+Okay. So I think… what we're doing with this first phase then we'll continue. I think it's slightly may be changing in terms of the overall purpose of that, but it will still give us a good measure of, the duration time pace et cetera to curate using buzz curator, albeit it's not our content but we can still do a comparison the content then that buzz curator comes up with, for those use cases that we're doing on customer can products and propositions, we can still do a side by side quite comparison and look at then the personalization angle of it as well. So we were talking about putting those two use cases through with a line managers lens as well. So I think we're probably moving towards… looking at, the output of the content and, you know, the quality of that compared to what we've done in house. And then also the personalization aspect from a line manager persona will just start with that one… as opposed to doing that or so. So. 
+
+41:50 | Chloe
+Or I'm just trying to make sure I'm aligned so that first one is like be to buzz curator, but are you still using the customer care product propositions like use case to create? Okay. Yeah, that's clear. Yeah. 
+
+42:04 | Rachael
+Because it means that we're measuring against and it's not completely apples for apples, I get that, but it's still enabling the designers to use the tool to do a similar curation activity. But I think… I guess originally and prior to today, probably my intention in my head was thinking if we could just pick up your curator tool, throw it in the middle of all of our content libraries and it could do that curation of all of our existing content and put content and recipe content. We're understanding that might be a little bit tricky based on the reasons we've discussed today. But okay, it slightly changes the part of the purpose for the original phase one proof of concept, but that's fine. That's fine. We can still look at still look at time. We can still look at, the outcome. We can still look at the personalization aspect. Then in terms of where we go next after that, the ingestion of the content still feels like the right thing to do… is if we're looking for something that where we want to add value quickly, the curriculum content is probably the one. So we can look at ingesting LBG, welcome to rbg content. And then you start giving that a little bit more thought then around if we want to then go stage further with that the end user piece. But also then thinking about some of the technicalities in integrating just solely with workday for curriculum content. 
+
+43:47 | Gemma
+I think it is important to test with the end user because I think it will define any integration strategy that we want to have because you might decide that the experience is really good at on Hive. So whichever way you integrate it, you need to do it in a way to retain that experience, which is what we have with the other bank that I was talking about, they buy the learner experience on Hive, but they don't want to send people directly to Hive because they don't want from their shop window. And there, this is the way you come in… you may test with end users and go this experience on Hive is not worth the extra click. So we need to find a way to integrate the content that we're building. But in a way that is because and I'll forego the experience on Hive because it's, my proof of concept has show me that it's not worth it, but I don't think we can define that strategy until we've had learners on Hive going, this is a good way to learn or not. 
+
+44:46 | Rachael
+I think the understanding Gemma that we could have it as a, you know, part of the carousel. Yeah. So so that over comes the challenge of the fact that we want the lxp to be the shop window. You know, we don't want to confuse colleagues with another sort of immediate sort of chat bot, but it sits behind, yeah, because there are some, you know, we've got a few other offerings haven't, we mark in terms of AI type, you know, avatars and things that interact with the colleague. But again, they're part of the carousel that's not the lxp. 
+
+45:16 | Mark
+So. 
+
+45:17 | Gemma
+I wish I could come over to you the way they've done it on the other one, but it's their tool. So I can't so frustrating. 
+
+45:25 | Mark
+So the content. So when we talk about the content surfacing as a tile on people and we talk about that would appear on the homepage. So it would be personalized to me and I would see a tile on the homepage. That was for I, for instance, and I click on that tile and it will take me into Hive. Is that the? 
+
+45:43 | Gemma
+That pretty much? 
+
+45:44 | Mark
+Thinking? 
+
+45:44 | Gemma
+Yeah. I mean maybe we should just set this up front. Hive has never been in like the self directed learning space of like I want to go and explore this like you would on a pure site or it's always been in the sort of managed programs type space to say we have a gap in this area where we have 50 people being on boarded in this area. Let's put them for a program on Hive. So the way that it works, with the sort of tile integration is viva homepage would understand that you mark, Paul has been allocated that type of learning or suggested that type of learning. So therefore it would match up. I know that Hive was part of your carousel but maybe not yours, Rachel, that's the way it's. 
+
+46:27 | Claire
+so, like we have all the skills that aligned to people, don't we in this, so it could read from those skills. I assume. So a person goes in, these are the kind of the skills that we read are assigned to you. And here's some useful learning that might match those skills. Yeah. 
+
+46:46 | Chloe
+Yeah, because then I think how the other bank, how it has it is obviously because it's group cohort learning. We can also suggest which group they should be in for what skill. And then that's what will appear for them on that personal, the Carol and the, 
+
+47:01 | Claire
+yeah. Okay. And if we. 
+
+47:04 | Mark
+it into a workday shell. Yeah, it's not brilliant from a user experience but, that would be the quickest way of being able to get it to appear on the learning homepage. I think what quite easily it's within our gift to do now whether it's just a URL link out to Hive. So, yeah, from a colleague, a learning into workday to Hive, like it would be learning into workday to cio, or skillsoft would be that kind of route until obviously we have that direct connector that, that's when it changes. 
+
+47:36 | Rachael
+What a great session. Thank you. Really good. Isn't it? Okay? So, we've got three minutes. So I think we're still clear on where we're going next. Yeah. Do I think we all probably need to have a little reflect on, you know, the conversations today, some of the kind of ideas and some of, the things where we're a little bit more clear on kind of objectives and what I guess your intention for you Hive tool ladies moving forward as well. So I probably suggest that, we do that. I think that we've got enough information now to continue with the shaping of the scope for the phase two and three, maybe Chloe, we can pick up as next steps in respect to that and then obviously link in with David… and then mark, we can think about a playback. Then to Duncan. 
+
+48:26 | Mark
+I'm just going to drop in the copilot outputs from the call, cause I think you, Chloe, emmy, you may lose access when we close the call down. So you may want to just a. 
+
+48:36 | Gemma
+Thank you so much. We'll have a note taker off, see who's better. 
+
+48:43 | Mark
+That'd be interesting. 
+
+48:47 | Rachael
+So cool. We got on the data. So we've got, I've enrolled. We've got clear that's on, we've got the two designers that's focusing on our internal like proof of concept, mark, did you sign up as well? 
+
+48:58 | Mark
+And I attended the call on Wednesday as well. Yeah. 
+
+49:00 | Rachael
+Yeah. 
+
+49:02 | Claire
+Vicky as well. 
+
+49:04 | Rachael
+One, Becky. Yeah, I. 
+
+49:05 | Claire
+was gonna look at the other content area that we didn't outline before the product and… can't remember, I propositions, yeah, positions. 
+
+49:18 | Rachael
+Okay. If we wanted to include a few more, you know, as everyone starts having a go feel and finding learning… is that possible? 
+
+49:29 | Gemma
+My marry are in my eyes? 
+
+49:31 | Rachael
+Great. 
+
+49:32 | Gemma
+It's a drop in call later today at four o'clock we'll send over the details. If anyone just has access issues or anything like that or just wants to meet the product team… then it's there'll be a couple though, but we can basically add people. I don't see a problem with it and I think Claire, are you all an individual group? So you can just see your own sprints, yeah. 
+
+49:53 | Claire
+Yeah, it looks like it. I didn't know whether we could have a group that was all of us. 
+
+49:58 | Gemma
+I was gonna say we should be combining so that you can see what each other are creating and stuff like that. The other thing that conscious of with the beta program is that it's all around curator like test buzz curator, get what you can out of it. Et cetera. The bit that we, I think we talked about at the learning day is that like cool, if that gets you 60 percent of the way, there are 70 percent of the way there. What does editing it look like? What, what have we got in that space? We can, a, if you've got a good contingent of people on the beta program, we could always set up a session with Dan. That is like, this is what I would do with that output. And the, are the steps I'd take next. 
+
+50:33 | Claire
+I'd like, yeah, because what I, what I've created at the moment from the two problems I've done are very card based words only. And I want to know what else you've got in the stock here and how to ask for it. Basically. So I don't know whether he's got videos ingested in other ways. Things like that. I don't know. So. 
+
+50:53 | Gemma
+There's a cope. 
+
+50:55 | Claire
+With that is. 
+
+50:56 | Gemma
+In parallel to the beta program, we're also doing like, a soft launch of what we're calling Hive academy which is a group on Hive for like top tips on creating Hive content. They made the strategic decision not to do this too at the same time for simplification reasons. I've questioned it a little bit. So there's a couple of things we could do. We could do a drop in session with Dan where he goes. You know, this is what I'd do next if as a learning designer that's got the output from buzz curator. This is how I'd play with it. This is how I made. 
+
+51:26 | Claire
+As. 
+
+51:28 | Gemma
+we could do, we can put that in that's easy. We could also put a couple of the pathways in around from the Hive academy if you wanted to self serve on top tips. Is another option. Yeah, that with you on who to speak about doing that. Had that debate with the other? 
+
+51:45 | Chloe
+Yeah. So we, but yeah, we could do that call next week with Dan. And then I also thought like, is it even worth us throwing in a few finished pathways that Dan like has created previously just so you can see like the comparison on? 
+
+52:02 | Gemma
+If we sat down up on a session to be like he could demo, you know, here's what I made earlier and then we go through the steps of how he got there. Yeah. 
+
+52:09 | Claire
+That would be helpful. Yeah, that would be fair. 
+
+52:12 | Mark
+What, what does good look like? I suppose is that finger snapped? 
+
+52:17 | Gemma
+Yeah, cool. 
+
+52:18 | Chloe
+Be useful for everybody on the beta program, to be honest, but, yeah, that's it. 
+
+52:23 | Gemma
+Spend enough time? 
+
+52:25 | Chloe
+No, we don't… yeah. Okay. Let me, yeah, I can follow up with Dan and get that set up next week and then, Rachel, I think we have a catch up on Wednesday anyway, so we can regroup on, yeah, the scope in and then I guess it's just confirming like commercials again back with like David and then obviously, there's still a few bits that we're sorting out contractually but yeah, I think it's been a really useful session. So, thank you. 
+
+52:51 | Rachael
+Yeah. 
+
+52:51 | Chloe
+Pretty good. So. 
+
+52:53 | Rachael
+Thanks for the. 
+
+52:54 | Gemma
+So I could. 
+
+52:55 | Rachael
+Find a, 
+
+52:59 | Chloe
+great. Thank you can. 
+
+53:01 | Mark
+You too. Bye bye. 
+
+53:02 | Rachael
+Thanks. Bye. 

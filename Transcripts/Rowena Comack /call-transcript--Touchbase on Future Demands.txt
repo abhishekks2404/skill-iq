@@ -1,0 +1,318 @@
+Touchbase on Future Demands
+
+Rowena Cormack with Accenture
+Recorded on May 17, 2024 via Microsoft Teams, 32m
+
+
+
+Participants
+
+Hive Learning
+Rowena Cormack
+
+Accenture
+Jigar Lalan
+
+
+
+Transcript
+
+0:00 | Rowena
+hello? Hi. 
+
+0:00 | Jigar
+Hi, robina. How are you? 
+
+0:02 | Rowena
+Yeah, good. Thank to you. How are you? 
+
+0:04 | Jigar
+I am doing good. It's pretty dark behind your background is pretty dark. Is it, is it almost night out there? 
+
+0:12 | Rowena
+It's not actually, it's just because I've not got the lights on… and, I've got a standing desk at the moment. So. 
+
+0:22 | Jigar
+I tell you what, you know, when I work. So even I have procured one for myself because I also like, you know, having this standing and, you know, it didn't make you. It helps you to know work more efficiently in effective. I feel that's my point of view. 
+
+0:37 | Rowena
+Yeah, it's quite nice to have a little bit of a change, sometimes not always be sat down when you're working all day. Yeah. 
+
+0:43 | Jigar
+Indeed, indeed. Indeed. We wait. 
+
+0:46 | Rowena
+A tribute on that. 
+
+0:49 | Jigar
+I don't think, no, no, we cannot wait for tribune because he is not available. He's not well today. So I said no problem at all. You know, I can take care of that. 
+
+0:58 | Rowena
+Right. Okay, good. No. 
+
+1:02 | Jigar
+Okay, super. Okay. Just give me a quick mail, yes, please. I'll end up with multiple calls. Okay? Please go ahead. 
+
+1:12 | Rowena
+So, after our call or was it Monday, the, when we spoke through the contract, I've had a little look through some of the options and we also had the national grid team in the office on Tuesday. I've pulled together those options and what I can do is I can talk you through them, but I think it's probably sensible for us at Hive to have a conversation with the national grid team and get a real understanding for what they want because we can be flexible if something more innovative suits them in future for setting up the contract next year. And there are options for what we can do. But what I've done is I've pulled together like our standard approach for adding extra cohorts and adding extra licenses for this year if required. But I wanted to kind of carry at it by saying that we think it would probably be useful to run this past the national grid team before exploring too much further if that sounds sensible. 
+
+2:16 | Jigar
+I will have to check on this option, right? Because… as a part of the MSP team, right? We are bound to have all the connects with our vendor supplies vendors and then take that information, go back to national grid, you know, and then try understanding if that is meeting their requirement. But baring said that I will have to check that. 
+
+2:39 | Rowena
+Yeah, that's totally fine. If you could check that and let us know. What I can do is… I can show you what the contract includes and where we think we could add extra cohorts for instance. But yeah, I think, it probably would help for either us to have a conversational three parties or us and that as well. 
+
+3:06 | Jigar
+Okay. A quick one. And I believe the, and the national group team… was meeting with, hi, there was a meeting with hi, right? So, did you get a chance to meet, with Helen or Kathleen or Catherine? Anyone? 
+
+3:23 | Rowena
+Yes, it was all of them, Helen, Katherine, Kathleen, and Janie. 
+
+3:28 | Jigar
+Okay, super. But. 
+
+3:29 | Rowena
+We didn't talk anything around commercials and contracts because the purpose of the meeting was much more… insights and some of the developments that we've been doing at Hive. So we didn't touch upon anything to do with the commercial. 
+
+3:47 | Jigar
+Okay. 
+
+3:56 | Jigar
+Okay. So, so you want to connect to, you know, understand their requirement? I'm not sure, you know, I'm why? 
+
+4:02 | Rowena
+Yeah, exactly. We'd we'd love to just have a conversation with them and pick up around, you know, how they foresee the contract working next year? Do they want more flexibility to be able to try out different things or do they want to stick to the same program formula that they've got at the moment? And then we'll have that scope to look at what we're proposing. I haven't gone away and change that proposal because I think we really need to understand that conversation with national grid before we come up with more options. 
+
+4:39 | Jigar
+Okay. I will have to get back to you on this. I check with Kathleen and Catherine with the, Helen and Katherine. Okay? 
+
+4:54 | Jigar
+Okay. 
+
+5:04 | Jigar
+All right. I got the point. 
+
+5:07 | Rowena
+Perfect. So in the meantime, what I'll do is I'll just share my screen around the extra cohort and licenses so that you can understand what the options are for that. Hopefully, you can see that. Is that clear for you? Shall I make it a little bigger? 
+
+5:25 | Jigar
+Just just if you can make it a little bigger, yes, this is better. 
+
+5:32 | Rowena
+Yeah, perfect. So what I've got here is it's a little wordy. But I thought I can just share this slide afterwards… licenses. Wise. We have a clause in the current contract which allows us to… allows accenture, and that's a grid to purchase licenses and tranches at 50 at a rate of 57 85 per license per annum. So I put an example on this bullet point here around purchasing an additional bucket of 50 licenses from first of september 2024 that would be equivalent of four months of licenses. So pro rate, we could cost that at six, 609 164 pounds on a pro rata basis to carry through until the 30 first of december 2024 when the contract renews. So I wanted to share that as an example, but that's already written into the contract. So hopefully it would be relatively straightforward should the team need more licenses to be able to say we can pro rate those. We'll do it in a bunch batches of 50. Just let us know how many you need. 
+
+6:49 | Jigar
+Okay. So, quick. I just want to understand. So when you say in this example, purchasing an additional bucket of 50 licenses when I do a math right? At at 57 85, right? Which should typically go somewhere around 29, approximately 29… 2,900, is that right? 
+
+7:12 | Rowena
+Yes. So for two for 50 licenses for a whole year, it'd be 2,892 50. But what I've done here is just pro rate it on the basis of doing four months. 
+
+7:29 | Jigar
+No, no. I'm just trying to, so would be equivalent to four months of license and would cost. Okay. So, all right. So what I understand now, Rowena, is that the actual cost is two eight nine, two point five, zero 450. And no, no. Sorry. Repeat that or? 
+
+7:48 | Rowena
+Yes, that's right for 50 licenses for the whole year. But if we're partway through years contract, we wouldn't want to be charging for a whole year of licenses because then we'd be outside of the existing contract. So would pro rate it for you, so that it would be say from I've given an example the first of september three to the 30 first of december. So four months of extra licenses which would be a pro rated cost for those four months. So that national bridge aren't out of pocket for the remaining period where they haven't… user licenses in that. Yeah. 
+
+8:36 | Jigar
+So, yeah. So typically, now, this, let me reiterate what I understood is typically, the license is valid until one year. Okay? And if we do this, right? Effective for september example, if we take 50 licenses, that will cost us 28, 92 57 50. Okay. So now, if we want to take these 50 licenses, we can procure these 50 licenses. However, the validity will be only till december. 
+
+9:09 | Rowena
+Yes, because it makes for a much cleaner contract arrangement. If we can long up the licenses at each contractual period. If that was a problem and you wanted to run them from a year from the date that they were purchased, we could look at that. It just means that we'll be running multiple agreements alongside each other and we'll have to be tracking licenses according to set dates and when they exact. 
+
+9:38 | Jigar
+Got a point. Yes. I was about to ask you the same thing because, you know, how would, we would be tracking this? Because this is the contract hey, which is valid until 30 first and then 30 first december this year. And then we will be preparing a new contract which will be valid until the end of next year, right? So, and, then, but, okay, what you're saying, is this, anything additional, we buy in right now until the first of september, right? Up to 50 license, it will cost us 964 and the bucket, the batches of 50 license, right? If in case we want to make two, two batches, it will cost us 964 102, which will be valid until december. Yeah. Okay. All right. 
+
+10:28 | Rowena
+And that's already in the contract. So we would just need to make sure it's the built in for the next year based on the right number. And then I'll have a look at our kind of typical pricing for running an cohort. It's not been built into the contract for national grid. So I wanted to share this as an example. But again, I would be open to having that conversation with national grid to come to an agreement that feels like it works. So, for instance, included in the contract is running up to five cohorts a year for first line leaders, for future leaders. It's running up to two cohorts a year and that's because they're longer and more time intensive compared to the shorter media cohorts and was based on the demand of what we needed for future leaders. So to run an additional future leaders cohort, I've looked at our pricing and our pricing puts that in around 12,000 pounds for running that six month part of the high cohort. So, we could add that on if national growth needed it. But we're also open to having a conversation with the national grid team to understand if they want some flexibility with the contract, we could do things like pull forward… the renewal, and start more contracts, increasing licenses, things like that. There is, there are some conversations that we could have with the team to see how that works for them. 
+
+12:04 | Jigar
+Okay. Then I got a point. I'm just trying to read this. Okay. So current professional… would be two cohorts a year for 44 5,500 sorry per annum. And that is the, that is a maximum of how many delegates? 
+
+12:24 | Rowena
+There's no, no specification on how many delegates per cohort. So, the way that the licenses work. So I think it was from november I reset to 650 licenses across the whole of the national grid programs. Whether that's first line leader or future leaders, it's up to them how they assign those licenses. So the cohorts haven't got that same flexibility because it's about the customer success managers time on Hive side where they're putting in time for the peer to peer discussion calls. They're running the program. They're sorting out the launches and things like that. So that's where the costs are slightly different and it's not shared across the two programs. 
+
+13:09 | Jigar
+So… I'm a little what not clear and probably help me to understand a, you know, since even I'm learning we, okay. Let's go with first time leaders. We are seeing five cohorts a year, right? The all the five cohorts will cost us 36 K. Yes. And again, we are not, we do not have any minor max number of licenses there. 
+
+13:39 | Rowena
+We don't have any minimum or maximum licenses for. 
+
+13:44 | Jigar
+Cohorts. Okay. And, and to help me understand, so, how does this first line leader cohort works? Is, is this more of a classroom or virtual training? What, what happens I'm trying to understand is, you know, if it's a classroom, then how do we do this? 
+
+14:04 | Rowena
+It's not a classroom based one. It's a virtual, we'd run the program. We run the program on Hive, but via the Hive platform, it's a three month program. And then there are certain elements that our customer success managers will host and launch webinars and scheduling all the communications that go out in that actively managed campaign over the course of the three months. 
+
+14:32 | Jigar
+Okay. And as agreed for the earlier ones, the earlier contract, we had the limit of 650 licenses then. Yes, right. But then you are giving a flexibility of, can be added beyond 650 also or any number. You can add it, right? But however, all these five cohorts will cost you 36,000. Yes. Okay. And then you have these for the future leaders, you have two cohorts, right? For 44 500. Okay. Again, there is no cap for any number of delegates can attend this. 
+
+15:10 | Rowena
+Yes. Up to the license, total licences across national bridge. 
+
+15:14 | Jigar
+Yes. So, so, okay, to run an additional cohort for future leaders, we would charge 12,000 for the running for the running of six months, five cohort. Okay? 
+
+15:27 | Rowena
+Because their Hive period for future leaders, six months compared to first line leaders, which is three. So it's a little bit more time intensive, more work on the customer success side. So that would include any of the iterations that we want to include cohort versus cohort. So making sure there is personalized and bespoke for each one. And just the general running of those cohorts. 
+
+15:52 | Jigar
+Okay. Schedule. Okay. Again, no cap on licenses. But if, in case we want to run a parallel cohort, can I use this? What called parallel third cohort, right? But that will, that may cost us that will cost us 12,000. Again, there is no cap on licenses there as well? 
+
+16:18 | Rowena
+Yes, that's right. Yes. So that's like our pricing for these types of things. But again, like… that's where I was suggesting that I engage with the national grid team to really understand what they're looking to do because we can build in some flexibility with the contract from first of january and there are things that we can do with the contractor to work in those number of cohorts that they want throughout the year, and adjust it based on what their demand is really. 
+
+16:53 | Jigar
+Okay. Got it. No, no, I got it. Okay. Got it. Let, and, you, you're gonna share this post this call, right? 
+
+17:04 | Rowena
+Yes, I can share this after this call. 
+
+17:07 | Jigar
+Perfect. Okay. And I'm just having a look at my notes. 
+
+17:24 | Jigar
+Okay. I need to understand more on, you know… I, did you get a chance on understanding how these tools can help us, you know? And if you remember, no, I was just talking about this earlier. Also. Are we, are we thinking something to offer national grid on those tools? 
+
+17:49 | Rowena
+Would you mind rephrasing the question? I'm not sure. I understand you. 
+
+17:54 | Jigar
+No, no. So yeah. What I mean to say is that those tools, those analytical tools, okay? Right? The bus, coach, spin builders and all? Okay. So, are we, do we have anything to offer on that? So? 
+
+18:10 | Rowena
+Included in the previous proposal, I had shared the overview of the tools. Are you wondering if it's possible to have any flexibility on the cost with those tools? Or are you wanting to understand a little bit more about how they work and what the benefit of them is? 
+
+18:30 | Jigar
+See, yes, if you have, if you do have right upon those tools, you know, what each tool will do, how it will benefit them. I would like to have that one. Okay? In point number two, yes, on commercial basis as well. 
+
+18:44 | Rowena
+Yes. So, if. 
+
+18:45 | Jigar
+if you have a, if you have a break up, you know, see as I said, you know… what I'm looking for when, where I am from, where I am looking at it, Rowena is, as I said earlier, right? As of now, they are not looking forward for, you know, having such a tool because they have their internal way of assessing, and analysing data. Okay? But I want to understand this tool, better, right? So that even I can, you know, connect with Ng to, you know, to help them to understand how this tool will help. But I'm not sure because what I feel is… they're not must have, you know. But anyways, tell me what you can offer if you can break it up into, you know, because what I know, the last proposal you had was… if I'm not mistaken, on all these Gene tools was excluding what was 35 K if I am not mistaken. 
+
+19:46 | Rowena
+Mm, HMM. Yes, that's. 
+
+19:47 | Jigar
+right. Yeah. So, and is there a way we can break this up tool by tool? Because, you know, it could be possibly that, you know, they might want to have this tool but they don't want, the rest of the tools. What if we can break this up? That would be also a good idea to offer them, right? And… okay. And then what I see, the validity of this tool or, you know, avail in the facility of this tool is again per year basis. So something, you know, if we can offer on that, so, we can think over that, you know, multiple options. 
+
+20:21 | Rowena
+Yeah, multiple options that's fine. I can provide it on a pilot basis if they need to. 
+
+20:30 | Rowena
+And I'll build out a little bit more detail of what they are as well. 
+
+20:36 | Jigar
+Include include, you know, let's understand gen AI tools and all it's always evolving. All right? So features keep evolving there, right? So, if we are proposing, right? That if Ng wants to use the tool, if, in case, okay, and if there is a proposal on each break up, each tool breakup that, okay? Year one, if you say X amount. And then if there are features which is added, you know, which is identified and added. And, you know, so the tool is evolved, right? Obviously, when you keep adding features, the cost will commercials go goes high, right? Cost will go high. How are we taking in those things into consideration? And making a proposal, right? Is also a very important thing which I feel that, you know, I would recommend you to also consider this and on that. Also, if we have any flexibility which we can offer, right? Let's let's explore all these options. You break it tool by tool also, right? So that will also give them a holistic picture an understanding. Okay. You know what I don't want? Maybe I don't want the first and third tool. I want second tool. Okay? Now, if you, if you're offering me, if I want to have this tool, you know, for the next three years, example, right? Even if you evolve the tool with multiple features, I'm benefited for all these three. 
+
+21:59 | Rowena
+Yeah, you. 
+
+22:00 | Jigar
+Understand. 
+
+22:01 | Rowena
+The way it works at the moment is that, the enhancements and the developments that are being made to the tool down the line and part of, the cost that this is being provided for upfront. So there will be some enhancements as we roll them out, will give clients. So national grid, if they had access to these tools, they would get those enhancements. And when they were available to our client base. Yeah. And what I can do is I can do a demo of the tools to you if it helps the national grid team have seen them in quite a lot of detail. And actually we're running, a pilot use case for… all of our clients at the moment which clients can sign up to. And Catherine has joined that from national grids perspective as well, just to be able to give one of the tools to buzz who wrote a tool a go and to explore and use it just for free as part of our pilot approach. 
+
+23:00 | Jigar
+And, and help you to listen when during your meet with the, you know, national group team last this week, right? I, did you guys, you know, did you guys speak about this Gene tools or, you know, how you guys are planning to develop and then add those features any additional? Did you guys get a chance to speak about these tools? 
+
+23:22 | Rowena
+We specifically focused in on the buzz insights tool as part of our meeting on Tuesday. So we did a much more detailed deep dive into that tool, what we've evolved on the tool over the last couple of months where we think it will go getting the team's feedback into things that they think would provide extra value into the tool. So that was with our product team on the call as well. So we specifically dived into the buzz insights tool. The other tools we didn't go into to a lot of detail because we've got some other meetings where we'll be talking about those. And as I mentioned, Catherine is on our buzz curator beta pilot where she can test out the tool herself. So the team are getting a little bit of an understanding of that tool in more detail through catherine's pilot trial. 
+
+24:17 | Jigar
+You got a point. Did, did anyone touch base? Did anyone from the touch base on this tool topic? 
+
+24:27 | Rowena
+Did that? 
+
+24:30 | Jigar
+Or didn't they had queries on any of these tools all? 
+
+24:36 | Rowena
+Yes, they had. Yeah, we discussed quite a few questions around the a insights tool during the session on Tuesday, just around like functionality, where's it going? How we're going to enhance it and all those elements. So, yes, we did touch on it in that. 
+
+24:51 | Jigar
+Okay. And, and sorry, if I'm asking you all these questions. So, so you and I will also understand, you know, where they are focusing on. So maybe, we should consider buzz inside tool, you know, and how we can, we should consider that thing and then make our proposal accordingly for us for, you know, for using this tool. Okay? 
+
+25:14 | Rowena
+Yes. And in terms of how that works, do we as Hive engage with accenture on that? Because we're obviously having all these conversations with national grid which are ongoing around the tools and demoing and showing them off. So I believe that they've got a good understanding of what the tools are able to offer them. So I presume from our perspective, we can also provide them these details and share like the costs and the breakdown and everything like that with the national grid team directly as part of our existing conversations. 
+
+25:54 | Jigar
+My recommendation would be shared with me. Let me, let me take this with me and then go to national great. And again, as I said, you know, let me ask if they would be, you know, they can, they are okay to connect with Hive. We can have a joint call to understand, where we can talk also about these tools. Then right meanwhile, what I would recommend you is share the details with me. You know, if you can, if you do have any link where I can just go onto that particular link in to understand this to understand more about the tool, right? So, I'm sure even such sort of a ready thing which is given for given to the national group team will really help them to go through the understanding of the tool, what they gonna help, what the tool is gonna help? 
+
+26:44 | Rowena
+Yes. Would it be helpful for us to book in a demo when I can show you the tools? 
+
+26:51 | Jigar
+That is me you're talking about. Yes, I would love to, prior to that, if you can, if you can, prior to that, if you can help me with, some, you know, sort of a link, some write up, let me go through it. Then I can start, you know, I can prepare my questions while we are, you know, while I was demonstrating the tool. 
+
+27:10 | Rowena
+Yes. Okay. I can do that. Yeah. 
+
+27:13 | Jigar
+Super. 
+
+27:17 | Jigar
+To next, okay, let me ask you on these. There's one more question which is running my head. Okay? Now, with all these additional proposals, what we're talking about right now? I'm sure. Does, there, does, is there any change in the cancellation terms? 
+
+27:38 | Rowena
+I don't believe we've got cancellation terms in the existing contract due to the nature of how it is. It's just a two year contract. Yeah, we don't set it up in the same way as some other vendors with cancellation terms. Yeah. 
+
+27:53 | Jigar
+Yes. Yeah. So even if you're applying to have to start a cohort by obviously, we do have, you know, I'm telling you we do have a list of delegates, okay with list of, you know, leads who gonna take the courses, the cohorts? Okay, there could be possible, you know, that again, five of them could, for some reason, they are not able to attend it or they don't start the core. I know there is no cap to the licenses. So, I understand, right? As even if they are giving 445, let's go with this when they giving 85, let's go with this. Okay? That's what my understanding. So there is no cap to cancellations also, right? 
+
+28:31 | Rowena
+Yeah. 
+
+28:32 | Jigar
+Okay. So no cancellation, and I believe the existing because I don't recollect the existing policy mentions this anywhere. 
+
+28:49 | Rowena
+Cancellation terms. No, I don't believe the existing contract mentions cancellation terms. 
+
+28:53 | Jigar
+Yes, yes. I'll yeah, okay. To provide. So, so here is the next step. Now, let's do it this way. Rowena. If you can share a proposal with, you know, all these details on tools along with the links and all by Monday, I will quickly take this up because I do have a connect on Tuesday with Catherine. I can definitely inform Catherine and Catherine both. I can inform them about this. Okay? All right. And then I can share the proposal with them. And then I can take a lot, right? If they are okay to have a connect on this. 
+
+29:31 | Rowena
+Yeah, makes sense. Is that just Katherine and Kathleen or is Helen there as well? 
+
+29:36 | Jigar
+Well, I, the call, I'm I may, I see, I can set it up separately, also, right? If required, I can set it up on Wednesday with the team and then I can walk them through and, you know, I can do that, but I will be having, my touch base call with Catherine and Katherine on Tuesday. 
+
+29:53 | Rowena
+Yes. Okay. I will trample something together to share across by then. 
+
+29:58 | Jigar
+Yeah. And, and… sorry, probably, I'm a right brainer. Okay. So so could be, if you can, if you can just put, you know, if you can put, you know, all this into a tablet format, would it's a lot easier for, you know, to go and review it properly in, you know, all these, with all these different criterias we are putting across. You get my point. What I'm trying to say? 
+
+30:24 | Rowena
+Yeah. Put it in a table. So, yeah. 
+
+30:31 | Jigar
+But I'm looking forward for the link to those tools because I really want to see, you know, I really, I'm excited to see the tools would Hive building? 
+
+30:42 | Rowena
+Yeah, I can share an overview of all of the tools and also, I can run a demo so that you can understand them. We find that that's quite helpful in terms of actually bringing them to life. 
+
+30:55 | Jigar
+Perfect. I can, I expect an e-mail complete detail by Monday. 
+
+31:02 | Rowena
+Yes, I will, the cost elements will probably say the same as what I've shared previously in order to kind of have that conversation with national is what they've seen already, but I'll pull together all the extra detail on the tools and the breakdown of cost for each other. 
+
+31:24 | Jigar
+Perfect. Sounds good. I have no questions if in case you have any questions, Rowena, happy to answer that. 
+
+31:34 | Rowena
+No, once you have your call on Tuesday, let me know what the team say because it'll be great to connect together just so that there's no cross wires in terms of the conversations we're having and the conversations you're having. 
+
+31:45 | Jigar
+Fair enough. Right? Perfect. This is good. And, and I believe you just started your day or is about to wind up? 
+
+31:54 | Rowena
+It's about three 30 in the afternoon. So a couple of hours… you must be, you must be finishing late. 
+
+32:01 | Jigar
+I finish by half past nine. It's eight right now are in mumbai, india, but it's half past nine. We usually finish the day we finish today. But perfect. This is good. Thanks a lot for your time. Appreciated. We are just so by over by three minutes, but I understand. Thank you for your time. Much appreciated. I'll wait for the details, you know, by Monday so that I can connect with a team on the same. Okay. Perfect. Right now, you have a great weekend. All right. Enjoy the time of. All right. Bye bye. 

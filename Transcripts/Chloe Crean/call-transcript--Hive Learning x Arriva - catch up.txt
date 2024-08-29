@@ -1,0 +1,300 @@
+Hive Learning x Arriva - catch up
+
+Chloe Crean with Arriva
+Recorded on May 2, 2024 via Microsoft Teams, 42m
+
+
+
+Participants
+
+Hive Learning
+Chloe Crean
+
+Arriva
+Kathleen King, Arriva UK Trains Talent Development Lead
+
+
+
+Transcript
+
+0:02 | Chloe
+hi, Kathleen. Hi, Jay. Hey, how are you? 
+
+0:06 | Kathleen
+Let me put my camera back on. Yeah, no worries. Nice to see you. 
+
+0:11 | Chloe
+Yeah, I could see too. How are you? How, how things been since learning tech a while ago now? 
+
+0:18 | Kathleen
+Yeah, it feels. 
+
+0:19 | Chloe
+Like a while ago, but. 
+
+0:20 | Kathleen
+Actually, you know, when you're getting bombarded with no emails, it was like, okay, who are you? And, and then I went to another event the following week. I think it was. So it must have been last week then or the week before, but whatever, it was the following week and yeah, it's like more stuff. So, yeah. So my brain is like getting frazzled with different things now, so. 
+
+0:47 | Chloe
+Yeah, no, I get you. I know, I think it's always hard to remember like who have you met and, what was your offering sort of thing, so. 
+
+0:56 | Kathleen
+Yeah, yeah. Yeah. 
+
+0:57 | Chloe
+Yeah, it's always a bit overwhelming. 
+
+0:59 | Kathleen
+Yeah, but was it with you guys, it, was that, the design tool? 
+
+1:03 | Chloe
+Yeah, you're the? 
+
+1:05 | Kathleen
+The, the beta testing thing? 
+
+1:07 | Chloe
+Yeah, yeah, exactly. So, yeah, the buzz curator, I think we only chatted briefly. You're going to seminar, but, yeah, we're basically trying to get it out there and to understand like the feedback on the tool itself, and what doesn't like what needs to be improved or what's good about it. So, yeah, that B to buzz curator program is going live. I think, I may, I think the sign up deadline is the sixth of may and happy to share a bit more information like about the tool itself. Yeah. But yeah, we'd love to have you involved. Yeah, that's fine. Yeah, it'd be good and I suppose might be helpful, just kick off maybe some intros. Yeah, to understand a little bit more about you and your role and kind of who you look after and yeah, maybe while you were at learning. 
+
+1:58 | Kathleen
+Yes. Interesting. Yeah, it's always a starting point isn't it? So in brief. So, so I'm a talent development lead for river UK trains. So that means I support a group of different train operating company. So, arivarail, london chilton, grand central, cross country, arriva train care, and arriva rail transport services. So we've got quite a large population within arriva, and as the talent development leads, generally, what I do is I'm looking at stuff from a more central point. So in which case, so for example, if we're looking to roll out something I don't know. Let's say I don't know, we're communication skills course. And if somebody comes to me and said, Kate, do we have anything? No, we don't, could you help us? You know, could you put something together? Yes, I could, is it beneficial for everybody then? I'll do it for everyone. But if it's just a one off like for one person, one company, then I said, well, I'll help you. But you do it now in the, in why I was at the, so I look after L and D but from more of a central group perspective rather than a one on one. But I also act as a coach for the business. I'll support people as sme in certain areas. I'll help create and design courses or animations, which is we've got a tool for that and, you know, and things like that. And I'll help people design or like training or elearning, bits. And then with tools that we might have access to, I'll help design it or I'll get somebody to do it for us. Why was that learning? And the exhibition? The tech exhibition was because as a wider organisation, we use a company called litmus. So there's two reasons why there as we use a company called litmus, and another one called micro, they supply us with E learning modules that's fine, but we wanna go and we want to change suppliers. So really that takes a year because we have to go through very strict tendering processes because of DFT department for transport. We have to do like proper tendering. So really you need to start a year in advance to get minimum of three quotes and blah, blah blah. And you also then want to have time because it's not just trains that will be looking at it. It will also be the bus side as well. So there's a cross business collaboration here and it's not just our decision about what support we use. It will be a group consensus. So I was there to try and so it's been a long time since I've been to the exhibition. So I thought, well, I'll go and have a look and grab some names to see what's out there. So I can bring it back as suggestions amongst a pool of suggestions. And then we can have a look. The or the other reason was because… we also want to be able to do a little bit of inhouse design. There is two of us as a central function, looking after all those to us. So we don't have a lot of scope or capability. And so, therefore there is a tool that exists called articulate which kind of have access to, but it's quite a hard tool to use if you've not been trained up on it which I haven't I can use other elements of it with just plan which is. 
+
+5:47 | Chloe
+fine. 
+
+5:48 | Kathleen
+But if you're actually doing scored sort of intricate training and stuff that's a bit harder. And I just really wanted to see whether or not because if you're signed in with articulate, you're sort of as with anything you're kind of stuck aren't you. And I just wanted to see what else is out there to see whether or not there there would be. It might not be for this year because I think my colleague has got the license she needs it. So she therefore had to a, she has to make the decision this week whether she's keeping it or not. But I think… even if it's not for this year, I want to be able to have a look and say again a bit of a tendering process to see what else is out there that we could utilise to write training material. If we want to do it in house. Something that is simple but easy for us to do has got good, provides good support. But at the same time, the difficulty that you then have is we have, we do have a number of modules that were created in house using articulate and so storyline. And but then the trouble is if you can't edit what we have and change it with a different tool, then you're almost stuck with the same thing because of that because there's quite a lot that's already been created inhouse by somebody that was working on it for us. So that's kind of where I am. So I'm phishing to be able to provide suggestions or solutions to, the wider group that we can come to a consensus and I've got a little bit of knowledge about what I'm talking about rather than saying, do not. And maybe so, you know, that sort of thing. 
+
+7:40 | Chloe
+Yeah, yeah, thank you. That's so helpful. And yeah, I think it's definitely coming up more and more like the angle with like articulate. I think a lot of organisations use that… but I think what's great is when you create content on articulate, you own it and you own the IP and then you can use that where you want. So you. 
+
+8:01 | Kathleen
+we're. 
+
+8:01 | Chloe
+able to like ingest documents like that or ingest articulate content and kind of recreate it in a different format or use it as source material, to kind of take the kind of core detail out of it and put it somewhere else. So that's definitely something that we've been exploring a lot more recently and I suppose with or so like you said, so you use lip mass and micro. So, are they like an LMS or the? 
+
+8:30 | Kathleen
+Suppliers, they just, I, well, I mean, well, micro, I don't think provides an E, I don't know if litmus does, but we, a, we use totara that's our LMS system. So, yeah. 
+
+8:45 | Chloe
+And is that the kind of main way that people access learning through totara or? 
+
+8:52 | Kathleen
+Yes. Yeah. There's parts of the business that do have a different LMS system, but that's more to do with compliance, but they're looking to transfer it onto totara. So it's only one place that people have to go. To be honest. I'd have to question why they need to keep it on another LMS system when you've got a perfectly adequate LMS system to host it. So, I think whoever has been saying to them, well, that might be difficult, I think is talking BS really. But yeah, yeah. So, but I think, that they're looking to merge it. But yeah, so, but generally that is totara, is the a is the main area? Yeah? 
+
+9:38 | Chloe
+Yeah, no, that makes sense. And I guess in terms of when you're I suppose delivering like learning programs, learning content is that kind of a, I guess a key priority for you in terms of creating it, like making it bite size or I guess making accessible for different audiences. 
+
+9:57 | Kathleen
+Yeah, exactly. I mean, look, the only language we need is English. I mean, you could say look because there's parts of our business that are actually, you know, very diverse in terms of ethnicity. You could argue well, we could potentially put some other languages in, but, you know, that's not my prerequisite I'm not asked to do that. So, I'm not even offering it because I haven't got time to do that, but yeah, but generally speaking, when we're looking at, you know, yeah, for some groups, there's a large population that can do elearning and bite size, which is definitely how we're trying to head it sold. And that's one of why one of the reasons why I like using the tool called simple show which is an animation creation. So, excuse me, simple show also create animation. Yeah. But then you've got a license that you can buy to do your own. It's not as an do as their version because obviously never would be. But it's still is becoming more and more animated and more creative in the way that we can do stuff. So we can use it to tell stories. We can use it to actually as a communication tool we could use. And we use it, as a training tool or you can use it as an instruction. So if you had screenshots of things and you wanted people to complete things rather than just putting it in a powerpoint and letting that run, you could put it in simple show and you can add music and all that. Yeah. But now they've also created, they've also updated it so that you can download them as a rather than just as an MP four file. You can also download as a scorm file, which is actually now my preference because when I'm putting it into the LMS which I like to do for tracking purposes, then that means I can track a scorm file more than a bloody link to a video. To be honest, it's a lot easier. So, yeah. So we, so we've got that tool to create. So we do want to do bite size, but there is still a good size population that need more classroom training plus their funny buggers about doing stuff on their own computers or what have you. So, you know, they're coming to it, they'll come into a classroom for classroom training. But yeah, it is about trying to be a bit smarter and a bit clever and not taking people out of the business all the time and people. And, and you've been able to be a bit more. Flexible, you know, you want that adaptability that you there's also, that thing for me is, you know, I don't want to be doing simple show animations for, you know, everything in the same format. I keep trying to change the way I do. So I want to because I want people to see different things. You know, the same way. There's one tool, when you look at litmus material, I don't know if you're familiar with litmus material, but it's all literally in the version of the, so it looks more like an internet page where you're scrolling down and you're clicking on things and you can do a few things but you're clicking and scrolling scroll. It's the, same old. And I do, I want to be able to have that flexibility with a tool that you can make it look different. So, and that's not just part of the design but that's part of the tool can enable you to, you know, sometimes you might have, I don't know cartoon characters, another time, you might have just non cartoon characters or whatever it is or images. So there's that balance of being able to make things look different to keep people engaged. 
+
+13:38 | Chloe
+Yeah. I think it's definitely something we've been thinking about as well because I think there's a lot of companies that specialise in certain areas like you're saying like specific video innovation or various gamification, and I think for, hi, we're kind of an end to end solution. So we help you like create content… deliver it to a group population and then measure the impact of that. So it's kind of end to end. But we've been thinking about, okay, how do we, you know, maybe work with those companies that have create animation videos like we don't do that, but they could use that and kind of embed that into our content. But yeah, I think there's a lot of elements that like people are working on that figure like all work together then it creates amazing content. And what you're saying about the scorm files too. So obviously, I've talked about the beta buzz curator that is purely like creating content. And we have been exploring, you know, could it be created downloaded as a scorm file and then used on someone? Has out LMS? It's been an area previously that we would have stayed away from because our offering is an elearning platform that delivers, it runs the program and all of that. But yeah, it has been something that we've been exploring a little bit as well because, I think we obviously know that everyone wants they're LMS and doesn't want an additional platform. 
+
+15:02 | Kathleen
+Yeah. And I, and I suppose that's the question then, for you is if it is, if, so explain to me your platform, and, what you've got and what it does because it might end up being that it's disjointed to what I need. So I don't need another platform because, we're not, I'm not even in responsible for that. So, you know, that's somewhere else and I don't think there's any look to change platforms because it's more than adequate. So, so what is it you then actually provide currently without your beta thing happening? 
+
+15:42 | Chloe
+Yeah, for sure. So yeah, I suppose firstly, we are a platform. So that might part the conversation here. We like we're not an LMS. So we're not an lxp. So what you typically use us for is specialist programs. If you were thinking about, I guess you work a communication program a minute ago or leadership development, like future leaders are emerging leaders and you wanna take a group of leaders on kind of a guided learning to journey together where, you know, it's a bit more of a song and dance around it. There's a start and an end date. The content is highly tailored to them as leaders but also your organization to really align to kind of your values and things like that. And I think actually I've spoken to area last year like Liz little and mark. Yeah. So I, so I was speaking to them mainly about like leadership development and we were really talking about, okay, how do we give like your emerging leaders something that's quite special and exciting? It's a bit innovative and even since then, that's where we've implemented journey and I to make things kind of a bit more fast, and tailored. So if I just share my screen quickly just to show you because I did e-mail list because I said like I think she said around now, it'll be a good time to get back in touch with her. But yeah, I mean, the main thing is that we are looking to speed up and simplify skill development. So we do this across kind of three core areas. So like I say design making sure that we can create content quickly highly tailored, deliver it to kind of group managers and make sure it's that tailor us. And then we deliver it to groups, cohorts of leaders. And then we really the measure the impact. And we have three Gene I tools that cover it. So if I just go to here, so these are our three Gene I tools. This is buzz curator. So it helps you craft learning curriculums in a matter of minutes. So this is a tool that you could use or even a team manager or a subject matter expert where they just speak to buzz and they tell it what they want to design and they ask it kind of what content they should include. And you can upload that in. And then this part is buzz facilitators. So within a piece of learning content, it's a chat function for the learner to speak one on one to buzz and it will help facilitate their learning and development and embedding it. So we could give them a role play scenario or you could test them on a framework or model and they'll speak to buzz and you'll we'll be able to measure if they truly understood it and that's highly tailorable as well. So yeah something that can be really aligned like you and your values and as an organisation. And then the third piece is buzz insights. So this is where we'll collect data from across the platform across buzz curator and buzz facilitator, and provide you with a really Rich insight into who's learning, what are they focused on? What are popular topics of conversation that are coming up also, who are some key influences that are kind of spiky engagement across the group as well. And, I suppose the way that we also do that then is the way we deliver it to learners like so in a group cohort, but we deliver it in learning sprints. So, I think this was some in, I quite liked it was because we know that people don't have high engagement over a year. So how can we actually do like a seven week program? But we're drip feeding content across the course of that week, across the course of the seven weeks. So you give them just 15 minutes of learning and this is all scheduled ahead of time. All the things are scheduled around there. Those nudges could be sent from you or like our customer success managers, and it's basically there to kind of spark conversation, get people sharing. Because that's really where we've been born. It's like the peer to peer learning element and every part of the solution drives action. So within the content, there's a guides and obviously with buzz facilities through embedding the learning and then measurement is really key to ensure that it's actually making impact, right? That's kind of a, you know, quick overview of what we're doing. But, you know, I appreciate. 
+
+19:55 | Kathleen
+Am I able to see what it looks like in reality? Because it's quite hard to visualize what it looks like other than, your little images? 
+
+20:05 | Chloe
+Yeah. So if I just, I, I'm just going to bring a different version to life for you. So we completely like rebrand the platform to your organization. And then like I said, we tend to start by discussing like what are some key capabilities or skills that you're looking to focus on right now? So for example, with booper, they're focused on future capabilities for leaders. So we've started off with a proof of concept. Just for this one group, it's got about 100 leaders in and it's a six week learning sprint all around data capability. So that's the one we're started on. If I just go to resources here, we kick off with kind launch webinar. So we do this with the participants the in high host. And then we've kicked off with this welcome to data capability sprint the next week. They got this one the following week. They got this one. And then you'll see here this is all locked for Monday. They're going to receive this 15 minute pathway and then this one and then that's the end of the data capability sprint. Then we kind of give them a break for a few weeks. And then we're gonna start the digital capability. Sprint is very much that guided learning program. And all of this content has been created using AI. We ingested umbooper's, data capability framework. You don't have to have that, but they had it. So we then built a program around that using generative AI. And this is just an example of how it's kind of broken down. So we always have a pathway that's broken down to into about four cards. And when we kicked off the program, we always kick off with kind, what this is about why this is important. This is usually embedded as like a video that you could click and play, but they had to have it via sharepoint. But it was a welcome video from the chief data officer. They had a poll and a quiz, and then here's an overview of what they can expect over the course of the five weeks. We expect you to log in at least once a week, 50 minutes a week and contribute to discussion with your peers. And here is where people are sharing, we are excited and that's a really good way to get people to start talking on the platform. And, this is. 
+
+22:15 | Kathleen
+not necessarily… any interaction directly, on a teams call or anything like that. This is all through learning platform but all digital. So it's commentary and looking through E learning material, quizzes and all that sort of stuff. There's no virtual classroom training. 
+
+22:38 | Chloe
+Well, it depends on the customer to be honest. So our offering is purely digital. Like I say, we do kick off with a launch webinar so that's live and then any, how? 
+
+22:48 | Kathleen
+Is that you? Or is that the person from the company doing that? That you? Right? Okay. 
+
+22:54 | Chloe
+Yeah, we host that. And obviously, it's great to have a senior sponsor the like, you know, this is Hive learning and then we take over. But what we have been doing for at and T is we use generative AI to create loads of workshop documentation, a presentation, everything they would need to go and run their own workshop. So it's a bit of a train the trainer. And we have also kind of that's a really good way to like empower a leader to go and run their own workshop, go and run something for their team. We've been using gnai for that too. And then with other customers, we've done like peer to peer workshops or peer to peer. So these people are all in the group cohort at the end of this sprint, the leaders are all offered the opportunity to come together on a webinar with Hive and discuss what they've learned or give them a scenario. We're happy to host those as well. So in a way there's an element of webinar face to face. I. 
+
+23:51 | Kathleen
+It's predominantly through digital learning and then following through a set of criteria or cards that they have to complete that's analysing their progression, what they're getting right, their understanding. So you're able to say, look, you know, this amount of people have gone in the, this is the amount of does it even record like how much interaction they're having in terms of check conversation and how engaged they are in the chat side? 
+
+24:21 | Chloe
+Yeah. If I just show you this, so this is the third Gene I tool I showed you in that the buzz insights reports. So these are gonna be able to be generated at any point for an admin to be able to access what's happening this sprint. So this is, it provides a bit of an overview. So it will give you a summary of what's happening across the course of the group. And then provide you some suggestions and some insights into the conversation and also responses. We obviously look at completion level, but it's really not as important to us as what it really means. So you can see completion levels here. But here it will actually give you a summary of what's actually happened? Who's completed what? So one down and then also some insights into, you know, why was there a drop in engagement? So that our customer success manager can use this to then change tactics and adjust their approach and be a bit more agile. But nothing set in stone. Like, when we work with a partner, it's very much what's the data telling us how can we apply a different playbook strategy? And then kind of play around with the course of that? What's quite cool on this one is the influencers. So we want to know like if somebody posts a comment, who other people that are like spiking engagement, that are bringing people back in. So here, you can see there's like people broken down and this is all an overweighted, there's an overall score that consists of how many times an e-mail notification that was triggered by the user was clicked by other users. So, and then it will go into the, you know, what did they post? Where did they post? Where they're ranking in the overall group as well as that? 
+
+26:07 | Kathleen
+And it's quite interesting. Actually. Yeah. 
+
+26:11 | Chloe
+Yes, definitely. I don't think legal teams are gonna like it. It's. 
+
+26:16 | Kathleen
+yeah, that's the other thing. Yeah. 
+
+26:19 | Chloe
+Yeah. Like for us, I think, you know, we've always had that data. We always have individuals data, but it's more, what is it telling us? How can we aggregate it? No one's in trouble. It's just recognizing. 
+
+26:31 | Kathleen
+It's a different way of going, look if you're in a classroom with them, you'd be able to observe who's the ones that are more engaged and talking rather than the ones who are sitting back and saying nothing. And those that are let's say completing course evaluation forms versus those who are never completing it on the pro when you're in a program. So, yeah. 
+
+26:53 | Chloe
+Yeah, exactly. And it's all just to help drive engagement. Like we all know engagement is so hard. So, we need all the data we can. And that's what this buzz insights is helping us to do. This. One's quite cool as well. So, the comments that are being discussed between people at the bottom of each card. This is where it will highlight top popular topics. There's been some talk on motivation, engagement, performance, targets, leadership, and decision making, which, you know, these are things that the like L and D team at cantel might have never even thought about or considered. But now they've got all these kind of points that people are talking about. And you can also look at kind of pull responses. And then again, what is this telling us? What are the insights that we can then use over the course of either the next sprint or we adjust things at the moment? 
+
+27:45 | Kathleen
+Yeah. 
+
+27:46 | Chloe
+Yeah. We're really trying to think about the design, the delivery and the measurement piece kind of all in one place. And like I said, we're not an LMS. All of our customers have an LMS, but it's for those kind of different programs that you might wanna. 
+
+27:58 | Kathleen
+So I take it in however. So if there was something done like this because. 
+
+28:09 | Kathleen
+I mean, it's an LMS, but it's not an LMS. It is. 
+
+28:14 | Chloe
+It. 
+
+28:15 | Kathleen
+right. But it's not replacing totara. So it's not as if people go to access other courses. I take it from here. It's just what's in that program designed. 
+
+28:26 | Chloe
+Yeah, exactly. And like we don't tend to do like mandatory training, we don't have like certification or anything like that. So that's why a lot of our customers obviously need that very much health and safety et cetera. But yeah, if you have a top priority as an organisation that you're like, right? We need to upskill everyone on gnai, how are you going to do that? You might have a load of courses on your LMS. But if nobody looks at it, how are we going to upskill them? So this is where we'll be like, right? Look at Hive. You're on this exciting new program, we have a lot of columns and engagement strategies on how to drive it. And then we'll have like a start and finish and people could sign up to it et cetera. So some people like that, it's separate from the LMS because it can be this shiny new toy. 
+
+29:12 | Kathleen
+That. 
+
+29:13 | Chloe
+isn't just kind of a, the tick box so as something. 
+
+29:16 | Kathleen
+I think that there was a program. I mean, this is where I'd be linking into Liz really because I know, you know, the LMS is the LMS, but we also do want to measure people going in, using it and et cetera, to be able to prove well, actually it is, I mean somebody in the working group that I was in the other day made some sort of stupid statement. In my opinion. I didn't say that then, but hopefully my eyes didn't roll into the top of my head at the time. What's an idiot that, you know, do you really need an LMS or do you really need E learning modules? Sorry, you know, what a plunker. This is the way the world is going. People don't want then two days out of the office, it costs more to have to somebody out for two days than giving them a suite of elearning, but a way to check in that they're picking up on stuff. So, and having virtual, you know, webinar training instead. So, yeah, what a plunker. And so in one way, I mean, I could see this working. And, I think I could see this working for people that are on programs, that, is organised with external companies. I could see really happening. And I could see this working with our leadership mindset tools. Yeah. I think it could still be linked to our LMS because if nothing else, if you had a program, all you would do is put the link into, to the website. They click on it through the LMS. So we could track when people are going in anyway. But then you have, the extended tracking ability inside of that. So, you know, we would be saying, right? We want you to go through the LMS to do this, go in there. Click. And, you know, potentially that's how I want to do it just to see just to make sure that people are doing it frequently. 
+
+31:22 | Chloe
+Yeah, because, and also like we have, I, we have built integrations into like LMS systems. Like we also have like single signon with most of our customers. So there's definitely ways to integrate. But yeah, so I'm not trying to get a. 
+
+31:38 | Kathleen
+If there's information that we've got in the LMS that we could say to, might you now go to here to look up a bit more or use Linkedin learning it's through the LMS, they're sort of like directed. There could be even the, a link to our LMS back in. 
+
+31:55 | Chloe
+In our content. So it all. 
+
+31:57 | Kathleen
+Looks like it's seamless. So I could see that working I'll talk to Liz anyway, I'll have a little chat with her anyhow… because I think there is some interesting things. And I suppose at the end of the day though, it also comes down to costs. So, I mean, do you have like a, do you have a ballpark of what a typical sort of sprint program would cost? Or like a start? It could be as little as this or as much as this depends on what you want me, what's your kind of ballparks basic and basic level and top level? 
+
+32:35 | Chloe
+Yeah. So like I say, it can really range, but yeah, we've done a lot of like proof of concept more recently, you know, testing out with a smaller population of like 102 100 people and that can be like 25 K to 30 K for like a four month partnership to kind of test the idea. But, you know, it can range up to 200 K for 4,000 leaders. And again, that depends if you wanted like buzz facilitator that's like an additional that's something I haven't shown you actually is the buzz facility rate. Is that like one to one role play that the learner can have within a piece of content? But yeah, they're pretty much more part figures, but we, we're always keen to kind of explore and we're really in the moment of like trying to test tools and then like get feedback. So it'd be great. 
+
+33:24 | Kathleen
+Don't you, sorry, my darling. I'm interrupting you. It's fine. Do you usual, but what do you call your buzz person that does, the scenario buzz? 
+
+33:34 | Chloe
+As facilitator. 
+
+33:36 | Kathleen
+Facilitate, I'm just gonna call in bus man for sure. 
+
+33:39 | Chloe
+That's good to. 
+
+33:39 | Kathleen
+Pay to buzzman. Busan. Do, do you… actually not, it should be buzz person? You? 
+
+33:48 | Chloe
+I know we've been discussing what gender buzz is quite a few often really nobody knows. 
+
+33:54 | Kathleen
+Just buzz just. 
+
+33:56 | Chloe
+We. 
+
+33:57 | Kathleen
+don't know buzzes or whatever they would like to be a flower. So, yes. So buzz, do you ever do that or offer that as a tool on its own? 
+
+34:10 | Chloe
+Yeah, it's come up a few times actually at the moment. No, because it's we're a SaaS offering. So, and buzz curator has been the same, like can we just create content and put it in RMS? It's quite against our, you know, business offering because we in the program just. 
+
+34:29 | Kathleen
+about having the whole figure? 
+
+34:31 | Chloe
+A license model. Yeah. But who knows you? Could you could have, yeah. Well, I've been talking with someone today about like, could you just have buzz facility to readily available outside of content? But it's just there for leaders to always ask and practice like a hard performance conversation. It's still on our platform, but it's not essentially a learning content program. 
+
+34:56 | Kathleen
+Yeah, because I'm just wondering whether or not there was any connection between buzz facilitator and the content that you've put into or to your sprints. Because I was, because in my mind, I was thinking, we have what we call it and I realized we're over time and we, and what do we, what do our bloody call it a leadership management program? It's not, it's not for aspiring talent, which is what Liz deals with because she didn't yeah, she is at that level, what we're dealing with is people in line manager roles now, and it's a base level of commonality training we want everybody to go to. So every person who is a line manager, the levels that Liz deals with is going through this program. And actually, I was just wondering whether or not our content that we have because it's all classroom delivery. We are now shrinking in to make it more blended. So it's going to be more elearning driven. And then the training sessions are gonna be about facilitating that learning and what have you learn? And how do you apply this then in your day to day job and blah blah blah. And then I'm thinking whilst you're talking about buzz, whether or not buzz we could have, maybe there might have been some sort of remit that, if we provided your system with our content, we could then have that facilitator be ready to do scenario based a. 
+
+36:27 | Chloe
+We are. 
+
+36:27 | Kathleen
+people using the content that we've covered. So, you know, so therefore that would be that actually would be a different sort of blend but it would be something that we haven't got time to do well, we have got the technology. We could do scenario based questions but you've got to have the time to do that and we don't necessarily have that, but that could have replaced the need for that. If, if we just like through it in your AI would pick up what it is. And then buzz would be ready to go, right? So what would you like, to discuss today and the person? And then, right? So here's a scenario, how would you do? And I. 
+
+37:06 | Chloe
+I. 
+
+37:06 | Kathleen
+Yeah, yeah. 
+
+37:07 | Chloe
+That honestly is what I was talking to bit about earlier was like they have classroom training but then they can't see it being embedded like they had good feedback. Everyone had a great day. Great time. They can't measure the impact. They don't know if anyone's learn anything. But like you say, we would ingest all of the content from that workshop and then either create even more content that they can access for the next, you know, few months and then practice the buzz facility or scenarios. But it'll be highly tailored around that workshop. So, yeah, that's exactly how we would work alongside it. And with that content, did you create that content? Is it like the readers? Yeah, we've created it. 
+
+37:47 | Kathleen
+Yeah. So it sounds probably. 
+
+37:49 | Chloe
+Even better because there's like the whole IP to do these days of like what can we do? But because you own it, we'd be able to use it for your program. 
+
+37:57 | Kathleen
+Yeah, that would be, yeah, that would be interesting to, you know, to actually do that because that for me is the bit that we're behind on. So like when you do you have what Kirkpatrick four levels? So it's really difficult to have the time when you're a very small team to actually do that evaluation other than you're looking at KPIs or the calls, you know, KPI'S and that is one way but sometimes it's subjective. Somebody might have already been good at something and, the training didn't really improve it. Well. Okay. How do we know it didn't and how do we know, it did. So some things are more obvious than others. I think, you know, tech skills. You can obviously see from a course. If somebody's you know, better at what they would do beforehand. That's obvious. Sometimes you can tell with motivation but again motivation all that is like subjective. So sometimes it's a little bit difficult unless you, unless somebody is having lots of disciplinaries against them. And then suddenly it stops, you know, grievances or whatever you, I mean, that lets. 
+
+39:01 | Chloe
+Yeah. That's. 
+
+39:02 | Kathleen
+that's extreme but that could be one bloody symbol, but, you know, that's interesting. I might be something, that, you know, you guys can think about because that could be, I could see it. But again, it depends on cost. Let me just say there is no way on god's earth, we would ever be paying like 200 grand, 100 grand, 50 grand for something. But we, for the number of people that we have, we, if it a, if it was right, I don't suppose the 25 K is out of the question. But yeah, we haven't got, big budgets. 
+
+39:38 | Chloe
+Yeah. So that's good to understand because we're trying to become more enterprise so we can lower our prices because everything we've done previously has been so heavily humans. 
+
+39:47 | Kathleen
+Not. 
+
+39:48 | Chloe
+it's just not sustainable. So now we're trying to develop the tools. Actually, you just buy the tool and you do everything yourself? 
+
+39:54 | Kathleen
+Yeah, yeah. The tools. 
+
+39:55 | Chloe
+Are allowing you to scale. So, yeah. 
+
+39:57 | Kathleen
+Yeah. 
+
+39:57 | Chloe
+No, that's good. Good to know. I like it. I know we are up for time but I'll follow up with just an overview then of what we've discussed and if you want to pick it up with Liz and that'd be great. But yeah, I mean, I. 
+
+40:10 | Kathleen
+yeah. Yeah. And if, at the same time, you know, you, you're having enough conversations with people and some of and, you see like you take that back and you say, look, this might be an area that you can expand on. That could be something that, you know, it would be looked at. So that could be useful. It would save us as a small team having to do it. We've got the material and so it could be an alternative. Yeah. And then it's sort of like your foot, in my mind, sometimes these things are like the foot in the door to potentially wider things you. 
+
+40:42 | Chloe
+Yeah. And then that's how we see like small proof of concepts like we start really small just to show you kind of the offering, show you the partnership and then people start to then see other ideas and yeah, that's how we work as well. So that's always good. Yeah. Okay. So I guess, shall I just send you some further information, a bit of an overview of what we discussed and then shall I just leave it with you to speak with Liz and go from there? 
+
+41:06 | Kathleen
+Yeah, definitely. Yeah. I mean, at the moment, as I said, there's not much I'm gonna be changing at present. This is just something that sparked a conversation that could be something but whether or not it would be this side of, you know, budgets so would be, you know, because I think we look at budgets july time really actually, but it's good to have that conversation anyway because it could spark something and, you know, I'll have a chat to is and it could spark something there, you know, remind her of what they're looking to do themselves. So, yeah, yeah, I have a chat. 
+
+41:44 | Chloe
+Get back in touch in may and I think I spoke to her like last summer, so I just not heard from her, but yeah, that would be great. So I'll send you. 
+
+41:53 | Kathleen
+I write in the e-mail just remind me that you, yeah, use got brain like a save at time. So. Sorry? 
+
+42:01 | Chloe
+No, it's all good. I'll put everything in the e-mail yeah, I, I've sent you an e-mail on the beta buzz curator program. If you want to get involved, you can sign up. 
+
+42:17 | Chloe
+Yeah. If you want to sign up or like anyone in your team wants to like take part… you can sign up using this link. But yeah, that's more for around like creating content and things like that. Obviously, we're just looking for a lot of feedback. So up to you if you want to get. 
+
+42:34 | Kathleen
+Okay. Lovely. Thank you. That's brilliant. Good to see you again. Thank you ever so much. Sure. Thank you. Bye bye. Take care, you right. Bye bye. 

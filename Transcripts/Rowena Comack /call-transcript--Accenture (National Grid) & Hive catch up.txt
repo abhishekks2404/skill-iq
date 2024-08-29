@@ -1,0 +1,243 @@
+Accenture (National Grid) & Hive catch up
+
+Rowena Cormack with Accenture
+Recorded on Jun 6, 2024 via Microsoft Teams, 24m
+
+
+
+Participants
+
+Hive Learning
+Rowena Cormack
+
+Other
+Tribhuvan GOPAL SINGH Bist
+
+
+
+Transcript
+
+0:01 | Tribhuvan
+hello? How are you? Yes? 
+
+0:03 | Rowena
+Yeah, good. Thank you. How are you? 
+
+0:06 | Tribhuvan
+I'm good. I'm so sorry, I was on lens, you know? 
+
+0:09 | Rowena
+No, don't worry. 
+
+0:11 | Tribhuvan
+I hope so, you don't have the calls at this particular time? Like we can have the call later if you're not, you know, free right now. No worries on that. 
+
+0:19 | Rowena
+No, no, I was good for me if now it works for you and appreciate that time if. 
+
+0:25 | Tribhuvan
+Yeah, yeah, actually, I work in may, right? So, I work for ist time zone, but our shift timing is, you know, matching with the UK zone. That is the reason. Yes, nothing else. Yeah. So, yeah. 
+
+0:38 | Rowena
+Yeah, I'm just trying to look it up and find a time that fell. It's not too bad in is. 
+
+0:46 | Tribhuvan
+No, no, no. Actually, it should be me who should be setting up this call. So, thank you so much. You know, you set up the call, you already. Yeah. Okay. So I guess you have prepare the sheet so we can look into that one, right? And I can… let's see how it is. 
+
+1:01 | Rowena
+Yeah, perfect. I wanted to book in a call so I could talk you through it and then I'll send it across. Thank you for your patience with it. It's just pricing is unique, for this one. So I'll talk you through how I've set it up and some of the options and I want to give a little bit of flexibility. So when I go through it, I think it's important to note that, you know, I've provided this so that we can have a discussion about it and come to an agreement that feels right for national good given that accenture plays a role in the middle. I hope that this is clear and provides a few options for you to then talk to national grid. But please come back to us if there's any questions at all. So I'll send over this document. But what I'll do is I'll jump straight into the pricing like I'm gonna make that full screen so you can see it. So it feels a little bigger… always important. I think to start, I know you've probably seen this before but I think it's useful to set see of what we've set up in the current contracts. So you should know this 1,650 licenses, two years. And I've followed the same format here throughout the rest of the documents that it makes it really easy for you to see how we've come to the new pricing and that should help your conversations internally. So I dwell on this one for too long. I've also included some options in here that I've shared already around the adding of additional licenses and the additional professional services cohorts. So any questions on those do let me know… but I'll skip past that because you've seen it already. What I have done here is I update a new overview of the pricing, which basically updates the previous document that we shared where it had a range of figures. And I've gone in and done a very precise calculation for you. It all aligns to the previous documents that have been shared and just basically outlines the key options. So I've called this option one just to make it easier to differentiate it in case we're talking about it in future. Option one is basically to continue with the current contract setup with 650 licenses. I've put the breakdown of each of the elements across the program as outlined in the existing contract. And then this has the inflation are markup in it. So as part of that calculation, we've added the inflation in there. I've the license fee. There. And that gives the new total and the per head cost per annum. I'll just talk you through the additional options here. If national grade we're interested, then we can add the addition of our gen AI tools for each year at 35,000 pounds per year. So if they wanted to combine those two costs, it would be 179,000 taking the cost per head, 275. So hopefully that that's clear, I'll show you option two is increasing the licenses to 1,000 licenses first year and running three three programs… or the option to run three programs. I should say… here and I can do a little flick backwards and forwards just to make it really clear is at 1,000 users that's when our license per head drops. So you get an economies of scale with our license banding. So between 509 199 effectively, you have one price. And then from a 1,000, it drops which can mean that instead of buying a bulk package of an extra couple of 100 licenses only if you need them is better to just commit up front for a large sum. So if I, just if you look at this number here for 1,000 licenses, it's 43,000, 871. Whereas if I jump back to the previous one, you'll see that it was 39,400. So actually the difference isn't very much. You you really start to benefit from this. So I gone into this with the mind frame of like, how can I provide the best possible option for natural grid? So that's probably the key thing that I wanted you to see when you're looking through it. Okay. In this option, you can also have the additional programs here and the additional Gene I tools. And I wanted to demonstrate that you can pick a mix essentially how you want to do this, if you want to, just if they wanted to just go for this option, which is two programs, they can do that. Although if they want to add one additional program, they can just add that 36,000. If they wanted to add Gene I tools only and not the additional program, they can add the 35. And if they wanted both, that's what the cost would be. So I think it's hopefully clear. 
+
+6:18 | Tribhuvan
+Yeah. I got it. Like it is a genuine option that we can run through it. I have a few questions over here. I can see the license cost is 1,000 users at 43 point eight seven per license, right? That is 43,000. Then what is this content and delivery and content and delivery? Are those the license fee or, what exactly that? 
+
+6:36 | Rowena
+That's the program and professional services delivery. So in the existing contract that's how it's broken up. So I've kept it in the same format. 
+
+6:46 | Tribhuvan
+Is there any changes for the content and delivery fees? No, right? It has been same, right? 
+
+6:51 | Rowena
+Inflation increase. 
+
+6:53 | Tribhuvan
+Okay. What is that? Can, I know? Like, because there's no, I wanted to check like if there is an increase in that one. 
+
+6:59 | Rowena
+Yeah. So we've applied a five percent inflation increase across all of the contract value. And what I've done is into the different elements for you. 
+
+7:10 | Tribhuvan
+So for over here, so over here, there is any a solid interrupt. So, 149,000 is the rate for three year? Okay? For the 1,000 license, right? So, is there any inflation rate applicable over here? Like does this cost include the inflation uplift or not? My question is. 
+
+7:30 | Rowena
+Cost here includes the inflation re, uplift. Do you want to make that are in this document? 
+
+7:37 | Tribhuvan
+We can do that. But again, one thing else like it will be like 149 less five percent, right? That will be the actual contract rate. And additionally, five percent will be the inflation rate, right? That will come like if we sum up, it will come around like 149, right? 
+
+7:53 | Rowena
+Yes. So what we've done is apply the inflation across each line item rather than across taking the original contract and then adding it as an extra. 
+
+8:05 | Tribhuvan
+So, so you have added in a line item. So 5,000 to 50 include five percent inflation rate, 7,875 include. Okay. These are all the revised price with the inflation rate. And the other thing I can see or the. 
+
+8:16 | Rowena
+Yeah. 
+
+8:16 | Tribhuvan
+For the, yeah, okay. 
+
+8:18 | Rowena
+The original price was to 5,000? 
+
+8:20 | Tribhuvan
+Yeah, that'd be vice device rate. Yeah. So, but over there in the last, what I can see note for two year agreement price will be frozen in two year. A five percent discount can be applied to a total contract value. So, is it applicable for all the options like two year agreement and three year agreement option? So what I see over here is okay. Again, then it is like if we sign up for a three year, then the like there will be a five percent rate. So again, the inflation rate will be taken off, right? That is something a. 
+
+8:53 | Rowena
+Okay. 
+
+8:55 | Tribhuvan
+Yeah. So I actually, you know, I personally like the option for the three year program. So it is more like the contract for the three year, what I wanted to know over here is this 1,000 licenses will be with the national grid for three year, right? They, they have the time span of three year to use this particular licenses. And the other thing I wanted to know is like what will be the split off license? Like what will the split for future leaders and what will be the split for first line manager? So how will we define that? Like on the demand of the national grid, we could define that or like how we can do that? 
+
+9:33 | Rowena
+Yeah. So… it's useful question to ask because how we set it up at the moment is there was a certain date at which point the licenses switched to 650 in total across all of the programs, whether it's feature leaders or first sign leaders. So I would anticipate saying that those are a 1,000 licenses are available for use for national grid. They can use them for whatever they like. So I think it's particularly useful to share that with reference to if hypothetically they include the AI tools, that means they can actually run their own programs without us being involved. And we don't mind if those licenses go to… some graduates who are on the first line leaders or future leaders programs, they could pick and choose who they want those licenses to go to at Hive. We don't need to specify that. So that's open for flex. I can't remember your first question now? 
+
+10:41 | Tribhuvan
+How much to, is your case? 
+
+10:42 | Rowena
+Before that? Sorry, it's gone in. 
+
+10:45 | Tribhuvan
+Yeah. Okay. So my question was over there, you know, there will be a total 1,000 license, right? So my question was like, how will we define, like what, how many licenses are for the future leaders? And how many licenses are for the first line manager? That was my question. 
+
+10:58 | Rowena
+Yes, I remember. Yeah, I remembered it now. Actually, it was, do they last for a year? So the way the current agreement works is they have a 1,000 licenses a year, and then we reset them when the contract date is like one year. So at the moment is first of january, start to 30 first of december, then we reset those licenses again then it goes first of january to 30 first of december. 
+
+11:25 | Tribhuvan
+So the remaining license will be moving like will we carry forward it to the next year you are seeing, right? 
+
+11:33 | Rowena
+The remaining licenses aren't carried forward. It's like it's reset up the contract? 
+
+11:42 | Tribhuvan
+Reset in like we need to, this is okay. My question, first question, 149 K, it need to be paid for the three year or for the, how many are, like, it will be paid year by year or only for the once for the three year, what will be that? 
+
+11:59 | Rowena
+So it would be per annum. So 149 per annum and it would be paid each year. So we would, if you wanted to sign up to a multiyear contract, year one, if let's say you did two years just for ease year one, they would pay 149, year two, they would pay 149. It would just be agreed in the contract that, that's when it's coming. Okay? 
+
+12:26 | Tribhuvan
+If it was three? 
+
+12:27 | Rowena
+Years, it would be that reduced five percent rate, year one save again, year two. So I gave you three. 
+
+12:34 | Tribhuvan
+Okay. But if you sign for the two year contract, then it will be like you're saying five percent discount, right? And it cannot be carried forward. It license will be reset. Like again, it will be like, yeah. 
+
+12:46 | Rowena
+If in year one, they use 600 out of 650 licenses, then year two, those extra don't get carried forward. So there's not a new total of 700 the just the total resets. So then we say which of those users you want to keep on and which do you want to remove? We remove all those you want to remove. And then, we effectively can start at zero out of 650, or if they wanted to keep 100 of those users on, we're at 100 out of 650. 
+
+13:17 | Tribhuvan
+And okay, this five percent discount will be applicable for the, each year, right? That means for year one, year two in the. 
+
+13:23 | Rowena
+Yes, across the whole total contract value. 
+
+13:27 | Tribhuvan
+Okay. So it will be okay. So again, and can I go to this 650 contract one? What is the value for that one which we are getting over there? So the value over here is getting around like 144, right? You are saying… 144. Again, it is like more than the value which we are getting the discounted one and it includes the inflation rate, right? 144 K? 
+
+13:52 | Rowena
+That does. So one thing that I would flag is it might be beneficial, which, I put this in, the notes upfront is if national grid, do you want to purchase an extra 200 licenses to cover them from september onwards? We have a few options. We have the first option which was, do we do that for four months until the end of the contract? So we run that from september to december. And we say you have that after. Yeah. And actually, if I put my notes up because I've got some calculations that I made… that would be around 11,500 pounds. If they did 200. Sorry, that's for the year, that would be for the year, it'd be 11,500. So breaking that down to just for four months, that would be about 3,800 pounds. A. 
+
+14:49 | Tribhuvan
+Okay. But again, okay. Can we do it this way? Like for this, for the 1,000 licenses? Okay. We can have the contract, new contract from this september. Okay? This september to next december. Okay? This september to the next december, one year contract for this 1,001 1,000 users. Can we have that in place? What do you think? 
+
+15:14 | Rowena
+Yeah. I a, that was an alternative option that we can only renew because first of september. 
+
+15:22 | Tribhuvan
+September to the next of december, 20 94. Okay. We. 
+
+15:25 | Rowena
+So that would be over 12 months. So with what would be doing? 
+
+15:31 | Tribhuvan
+Yeah. Like over than month, 15 months anyways. Yeah, like that will cover the next year also. And we don't need to buy the license, you know, for the current contract, right? Again, it is getting the same thing, right? Because the value over there is like around 57 point eight five, something, right? For the, per license. So if we take the 1,000 license, it will cover the license for this year again for the next year. Also, right? That's what I was suggesting over here again, I need to check with them if they are okay with, you know, the three year because I'm not sure about the, you know, their yearly request. So I need to check with them if they are okay with a three year contract. If, yes, then this is a great deal to log in and, you know, to check with them. If this can be, you know, done, that is what I'm going to suggest them. And in case, if they don't agree for the three or three year of agreement or the two year of agreement? Is there any way to get the discount in this 1,000 user license? 
+
+16:37 | Rowena
+I think let's have the conversation first and then leave it with me to see what their responses are. I think it depends on how we set it up. So we might be able to discount on some of the additional elements if they wanted to add those in for instance, or… we don't tend to discount just kind of as standard. So it would normally be linked to something like locking in for longer. So… I think if we have that conversation first really understand what their appetite is and how they're looking to extend, then let's have another conversation and we can always join up. 
+
+17:16 | Tribhuvan
+Yeah, yeah. Okay. But if they are okay with a three year of agreement, then we can do like this, right? From the september. We are going to set up a new contract for the upcoming three year. So september to december, september, 2024 to december 2025 exceptional case for this particular one year because, we are going to have the additional requests for this year also, right? That we are putting into this particular agreement. Then it will go year by year only like 2025 to 2026 to 2027 that will work, right? For the 1,000 licenses. What do you think? 
+
+17:45 | Rowena
+Yeah, yeah. I can, would you like me to add I'll send this over and then I can write a little summary for how that would work if you want. 
+
+17:52 | Tribhuvan
+Yeah, please, yeah, please. And this is a very great, you know, it was a very good presentation. You have product, thank you so much because it is very useful. And I guess buying a license just 100 or 150 will be cost them more rather than having, you know, a new agreement with a 1,000 user license. I feel something good we can do for them. But again, I need to check with them if they are okay with a three year of agreement. So you are working with the national grade from like last five or 10 years, right? So, can I ask you one thing? So what are their yearly basis request for this particular program? Can I know like how much license they do utilise on the yearly basis? It is approx 607 100 for the yearly. 
+
+18:39 | Rowena
+It's a good question. I don't know off the top of my head, we've been pretty high utilization over the last couple of years. Let me check because I don't want to say the wrong number. 
+
+18:47 | Tribhuvan
+Because if we have that particular data over there in place, we can go and present to the national grid. See these are your utilization for the past five year or three year. We can see gradually there has been increase. So, rather than, you know, having the contract in the pieces for one year, one year and one year, let's have the contract in place for the next three years where the benefit is that we are going to save the five percent inflation rate that is around like that is going around, I guess, 7,000 per year, which is around like 2021 1,000. So it will be the great deal for them also to save the 21,000 for the inflation rate, right? Like we can present like this to them and it will be easier for us because what I got to know from you is the 1,000 license or the same level license. It, it is just they need to tag their program under that license, right? It is something. 
+
+19:42 | Rowena
+Yeah, it's just beneficial for them if they lock in a little earlier because it means that they can get at lower costs. So, it proves beneficial. But, okay. 
+
+19:54 | Tribhuvan
+Yeah. And like last question, maybe I'm confused over there like future leaders program and the other one more program, right? How are we tagging through the license? Because 1,000 license, we will get it. Okay. Then how we are going to tag in the people like those programs under that license? How will we define the number of license? Like can I know that? 
+
+20:14 | Rowena
+I think that was where we said, we don't define under each program that's up for natural grid if they want to. 
+
+20:20 | Tribhuvan
+So, okay. So 1,000, okay. So I will provide them a 1,000 licenses under that license, both the program are there. So it's up on them if they want to enroll for first program or second program under that particular license, right? And, once they enroll under them, it's more like they will get to view the things right over there. Like you will get to know how many delegates have been enrolled for this program and how many delegates have been enrolled for this particular program, right? It is like that, right? 
+
+20:49 | Rowena
+Yes. 
+
+20:52 | Tribhuvan
+Okay. No worries. So, I guess this is the great one Rowena. Like if you can share me some historical details. So I can full-fledged you know, go back to them by saying this, all the things and surely we can close this by this month. Maybe, you know, all the things if I have the call with them, if like if you like this approach, yeah. 
+
+21:12 | Rowena
+Yeah, that's perfect. I also have pulled together in case it's useful. I know that sometimes it's easier to have these things in excel. This option here, which basically, is the presentation just in excel as well. So then you can copy and paste anything you need. Would you like that as well? 
+
+21:34 | Tribhuvan
+Which one? 
+
+21:35 | Rowena
+Which? 
+
+21:37 | Tribhuvan
+Is you have? Okay, you have pulled this information in the excel? Like you're just copy pasted from there or you have exported over there, you are exported or copy pasted? I wanted to just know that. 
+
+21:49 | Rowena
+Company pasted it, but I did the, I did it this way around first. So excel into powerpoint. 
+
+21:56 | Tribhuvan
+Wait. Okay. So you prepare this whole data into the excel, then you, okay, shared that into the powerpoint. That was something great. Yeah, you can share this data with me. I will amend accordingly and does we have any of the, you know, any of the things like, you know, any of the historical data like, you know, just, you can provide me for this year. For this particular year, the license comes conception for the national about this, any three or four years. So it will be easier for me to explain them that boss for the last four five years, this has been your conception rate. So we are suggesting you because the conception rate is going up, have a three year of contract with the Hive because this is something we seem like, you know, to be the best way to go. And the additional option an too, yeah, because I guess this is good 144 for 650 license. Doesn't make the sense because if I go with a 1,000 a license user, it is going around like if I like, it is 149, right? If I 149,000, I'm just taking the round of money. Okay? 149,000 less five percent, 141,000. So we are saving a three 3,000 and the inflation rate. So yeah, that is something I'm going to pitch them. And thank you so much Rowena. This is the generous offer. You know, what we can get and I guess national ID will be very happy to see this and, you know, to work along with this because this is something we are looking out for, right? To work as a team and collaborate? Because I think so every year getting the contract, new contract is the headache for you also and for them also. So one contract in place? 
+
+23:32 | Rowena
+That's great. So, would you prefer me to go in and just update that powerpoint with all of the extra information before I send it across to you or send that now? And then a? 
+
+23:41 | Tribhuvan
+It just send those, it to me. And if you have any numbers, just share that with me. I will do it on my own. You have, the enough, you know, you have done enough. Yeah, thank you so much. 
+
+23:52 | Rowena
+I'll send you the excel as well because. 
+
+23:54 | Tribhuvan
+And, yeah, and anything else you need from our end other than this, just let me know. Okay? And this was so helpful and super, you know, super beneficial call. I can say, thank. 
+
+24:07 | Rowena
+Good. Well, have a good rest of your day or evening for you. 
+
+24:11 | Tribhuvan
+Yeah, and thank you so much. And again, sorry, I let, you know, I have extended the call or, you know, I have just postponed the call. I was doing the lunch. So I was like, if you have a time, you can do it, you know, on that way, thank you so much, Rowena. It was very helpful. Great. Thank you. Bye, bye bye. 
+
+24:26 | Rowena
+Bye. 
+
+24:28 | Tribhuvan
+Bye. 

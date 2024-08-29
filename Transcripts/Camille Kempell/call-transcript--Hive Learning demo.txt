@@ -1,0 +1,249 @@
+Hive Learning demo
+
+Camille Kempell with Plant Designs
+Recorded on Aug 20, 2024 via Microsoft Teams, 38m
+
+
+
+Participants
+
+Hive Learning
+Camille Kempell
+
+Plant Designs
+Laura Hergueta, Learning and Development Advisor
+
+
+
+Transcript
+
+0:00 | Laura
+Hi Laura. Hello Camille. How are you? I'm doing really good. It's very sunny today so that makes me happy. 
+
+0:10 | Camille
+It's not only in London. 
+
+0:12 | Laura
+Is it not? I'm based in Reading. It's really bright. Oh wow. I'm just looking at the outside the office window and it's definitely a bit grey over here. Oh sorry for that. Oh no problem. I'm glad it's sunny in Reading. How's your day going? It's been alright. Yeah I've been reading a bit about performance management. You know I have to keep myself on track on the new trends. Yes. Good. Well it'd be great to hear a little bit more about you and your transition. And what kind of thing you're wanting to do next. And I can give you a bit of an. 
+
+0:49 | Camille
+overview on Hive and yeah just try and make it as relevant as possible for what you're interested in learning about. 
+
+0:55 | Laura
+Sure that's fine. So my whole life I've worked in HR, HR generalist. And then in the last three years and a half, almost four years, I've jumped into learning and development which is what I really like. I think that's my path. So I've been working in different organisations. My last one was called Plant Designs which is a company that does design with plants for offices. So I was there doing a fixed term contract that ran out in June. So I'm currently looking for my next role which I hope is in Living and Development again. So I've heard about Hive Learning before. I attended a workshop in June. So I met Laura Keith. Oh brilliant, yes, yeah. So I really love the product and I would really like to know more about it. It's all about with AI, right? So it's AI. Yeah, awesome. And when was that workshop? I'll mention to Laura, she's in the office today. That was the sixteenth of June, if I'm not mistaken. So we So it was her and somebody else called Nathal. Oh, Nathal Dank. Yes, I know. So I dialed LND. It was so good, honestly. I learned loads from that. And did you come to the webinar or was it the. 
+
+2:21 | Camille
+in person event that we held. 
+
+2:23 | Laura
+the in person event brilliant okay great yeah yeah no I was at that one as well and lots of faces. 
+
+2:29 | Camille
+in the room, it was a busy one, but yeah. 
+
+2:32 | Laura
+I was yes yeah yeah there were so many people it was yeah I know it was a really yeah we were I think we were over subscribed and we were like will we be able to fit everybody in this room and it's so. 
+
+2:42 | Camille
+just about. 
+
+2:44 | Laura
+Yeah, it was a good time. Well, yeah, before I launch into it, best of luck with the. 
+
+2:52 | Camille
+job hunt for the next role. I'm sure you'll be snapped up in no time. And if I do hear anything, if any of our clients have any roles going, then I can certainly send the job specs that they advertise your way if that's useful. 
+
+3:04 | Laura
+That's great, thank you. It's really quiet now, summertime and especially now being this hot this last three weeks or four weeks, everyone has taken onion leave. It's so true. 
+
+3:15 | Camille
+I'm really finding that at the moment. So I've actually. 
+
+3:18 | Laura
+moved over. I should probably do a bit of an intro. It's probably useful for you to know who I am. So my name is Camille. I've been at Hive for a few. 
+
+3:25 | Camille
+years now and I was previously working in the partnerships team. And so looking after all of our accounts and kind of, you know, the main account manager for lots of our clients, including Marks and Spencer's, Boots, Inchcape, Legal and General. And I've made the transition over to our new business team just because it's a really exciting time for Hive as we're scaling up the business. Loads of interest in our new products now because we've come really far in the AI tools that we've developed. and are being considered as key innovators in this particular space within L &D. So I've moved over to the Nubo side. So bringing over with me a wealth of knowledge and experience to what's worked for our clients previously. And yeah, hopefully some useful case studies and use cases. But I will just share my screen and yeah, just share a few slides so that we can chat through a little bit more about who Hive are and what we do. Yeah, happy to focus on anything in particular that's useful for you. And please feel free to stop me and ask any questions about anything that you might want to know about there. Can you see my screen okay? 
+
+4:39 | Laura
+Yeah, I can. Yeah, yeah. 
+
+4:40 | Camille
+Brilliant. Okay. So so we've recently kind of been we do this a lot at Hive. We invent lots of new things and we think about how we're going to, you know, kind of reposition ourselves, I suppose, in the market because we will fundamentally always be a learning and development platform and provider. But there's just so much exciting new stuff that we're developing at the moment that we're still kind of getting used to understanding how best to help you learn about what we do so we'd appreciate any feedback from you as well on what you think and how this lands for you so i'll just chat initially about who we are some of the problems that we helped solve a little bit about speed to competency and then i probably won't go into fitting into your l d tech landscape i'll just go straight into our buzz suite so you know what it is that we've been developing and i'll be sure to send you these slides at the end as well so we've been around for a good 10 plus years now and we fundamentally have always been a peer learning provider so founded by Clive Woodward and based on the concept of learning from your peers and so we quickly drew the attention of lots of big global brands that you will have heard of we've there's a couple there pepsico boots barclays and lots more and really the reason though they came to us all those years ago and continue to stay with us is because of our approach to learning and development we are a really scalable solution and we can quickly get people through really effective trainings via Hive but we've been able to elevate that now through gen ai so previously so we're looking probably about a year and a half ago our programmatic solutions centered around leadership management diversity and inclusion and we had a couple of trainings in sustainability as well because of the work that we've done with gen ai we can now create trainings and programs on quite literally anything so i've done things like hair care trainings for boots we've done product specific training for barclays we've done technical skills based training for sony lots of different niche things that we wouldn't normally have been able to do because it's so specific but thanks to leveraging ai technology we can now create programs on anything so it's been a real game changer for us as a business and also for our clients because now they can start to use us in different ways rather than just for things like a leadership program or an inclusion program and then alongside that we've built lots of new tech around that to really enhance the learning experience for the user as well to ensure that it's a much more engaging experience for them but also that we're embedding their skills in a way that yeah it is so much more advanced than we would have previously been able to do so a few of the problems that we solve for so we see a lot of wasted L &D investment and the cost of running ineffective programs is really high and what we often find in L &D is sometimes they can be not quite as relevant to everybody that you're training so for example where you have a one size fits all management program or you have an onboarding training that's not appropriate for all levels of sales people some of them have more experience than others how do we adapt that kind of learning journey we've also found that from doing some research here that only 12 percent of people end up applying and end up applying learning from learning programs actually within their job so one of our focuses is to really ensure that they really do apply what they're learning in those learning programs and we have lots of different ways that we enable that and then we often find that it's difficult for L &D managers to scale i don't know if this is something given your experience in the L &D role you probably find that sometimes you feel more like an administrator rather than the L &D manager and you get to you know you want to create and develop these brilliant trainings but then you're stuck doing the admin and getting people onboarded and registered and things like that i can see you nodding your head there. 
+
+8:55 | Laura
+Absolutely, yes. 
+
+8:57 | Camille
+yeah so so these are the kinds of problems that we've identified in the market and that we're really passionate about solving and so our buzz suite which i'll introduce you to in just a second and helps to solve those problems but if we just take a little quick look at exactly how we're doing that and the areas that we hit so we've been able to advance the design process we've also been able to deliver in a much better and stronger way to enable much better registration rates and engagement rates and then we can also much easier prove impact now through enhanced data and insight reporting so design we're looking at being able to do things probably 10 times or more faster with ai technology that we've developed so we're turning six months processes so so that's kind of based on a bit of research that we did that the average learning program takes around six months to develop from start to finish we have a number of use cases where we've done that in three days a week even but much shorter process there and we can also get there very quickly up to around about 80 percent of the quality of a subject matter expert so say for example we take your last role at plant designs and it's a training all about looking after a particular type of plant because of the ai tech that we've built we can create that kind of training all most close to the standard of a subject matter expert because of what's now available to us and because we can leverage that we would still for something like that want to bring in the subject matter expert so someone who knows all about that particular type of plan to just check it over and make sure that it hits the mark for them that there's nothing missing and so now what we're finding is it's a really nice way for the learning designer to bring in those subject matter experts use that knowledge within the business to make sure it really feels like it's coming from within the business and so that's been a really exciting part to facilitate with the learning designers and then when we're thinking about learner engagement we're seeing a much stronger registration because we're it's much easier for us to onboard users now and we're also seeing averages of around 75 percent weekly usage of Hive because the content is so much more tailored and bespoke and relevant to our audiences and up to around 80 percent of people getting involved in the conversation and then that last one there about the impact so it's notoriously always been quite difficult and if you found this in your role but it can be really hard to prove the value of L &D programs and you know people will say okay we've spent all this money on this program what's the value of it and that's something that we want to help our clients and our customers to be able to prove is that something that you have to do within your role as a an L &D consultant designer yeah yes so our AI reporting helps us to turn Hive's very data rich platform into proper insights that you can then communicate with your board of directors with your c suite really high top level stuff that help us understand the impact any actions that we might want to take also things like learning gaps that we still need to fill so that we constantly are in a cycle of training delivering working out the impact working out what we need to do next to then train and continue to do that our employees your employees continue to grow and we can do it much cheaper as well than the traditional cost of running those sorts of trainings any questions so far before i delve into our buzz suite. 
+
+12:43 | Laura
+i do yeah maybe i don't know if you prefer to go ahead because you might answer the questions as you go through but just one of them so do you actually have a platform yes where we where you place all the content that you create as we when i say we the company ask or request and you just place the training in there right and then yeah employees will have access to the training you will create the dashboards insights all of these and it's all managed through a platform am i right yes you are right yeah so. 
+
+13:25 | Camille
+it's worth it's worth also just mentioning here so most of our clients most of our existing clients use the hive platform so it's a platform that they will use and it's where the employees will go to experience the training on hive and having said that we are doing more integrations now so we have recently tested an integration with workday so that some of the companies that we work with they can actually just experience that training within Workday without having to go to the Hive platform so the platform will exist somewhere but for the user they will just experience it in Workday so it just streamlines that experience for them. 
+
+14:09 | Laura
+So it's just really, I think we just kind of. 
+
+14:11 | Camille
+building it on request Workday is the recent one that we've integrated with I think we're not now looking at Cornerstone and the integration that we can do with Cornerstone I think this talks about learning pool yeah I think it's essentially on request where a client says this is the LMS that we use can you integrate then we'll look to explore that with them. 
+
+14:34 | Laura
+right that's really good to know thanks for that that's one that was one of the questions I had for Laura the other day she was busy no problem yeah no. 
+
+14:44 | Camille
+yeah feel free to drop me a message after this call if you've got any other questions I'm always happy to help and so at the heart of what we have created is the Hive platform and a lot of the learning still happens on the platform but as I've said we're kind of moving towards integrations where it's relevant but we still have the platform experience the platform is where you would be able to communicate digitally with your colleagues you can tag them you can learn from them you can post and share insights with your team it's where that peer learning happens and then that's also where they might experience the content and we would continue to engage them through interactive elements like nudges polls action checks and we make sure that everything that we do is consistent quality but also really scalable because we work with lots of really large organizations we have some training programs that are being delivered to up to 20,000 people so the scalability is really important there. 
+
+15:43 | Laura
+Mm hmm. 
+
+15:43 | Camille
+So just introing you to the Buzz Suite that sits within and around the platform so Buzz Curator is a tool that you use within the Hive platform and this is a tool that's designed to help you create learning programs within the space of a few minutes you can upload documentation and you can use that to kind of create trainings or you can just have a conversation with the chat box and it will create a program on quite literally anything you want it to the way that our clients are using this at the moment is they will they might be digitizing some of the trainings that they've got that aren't you know that aren't available on a platform yet so they might have run a negotiation training for their sales people and they want to create a digital version of it and sometimes that training doesn't exist and they want to create maybe a bank of different trainings that hit the mark whether it's commercial training technical training product training Etc and so the possibilities are endless in terms of what you can create a program on And Buzz Curator is where you would do it. Most of the time. Yeah, go for it. 
+
+16:50 | Laura
+Sorry to interrupt. I really want to understand. So this is let's say you give them you give the company access to the Hive Learning platform there is a product called Buzz Curator where each person will have access to. 
+
+17:08 | Camille
+Yeah this is the tool that's for the learning designers so this would be for someone like yourself kind of in that role someone who's responsible for creating trainings. We do have some clients who actually kind of say do you know what we still want you Hive to make all of the trainings for us and so we would use the Buzz Curator tool to create those programs and they would just tell us exactly what they want us to build but lots of learning designers are enjoying kind of having that control and being able to create their own programs in a much more Agile manner. 
+
+17:41 | Laura
+Okay, sounds really good. 
+
+17:43 | Camille
+And then we've got Buzz Facilitator. So you might be familiar with the concept of an AI coach and this is somewhat similar. With Buzz Facilitator there's a couple of ways to use it. So lots of our clients tend to use it within the Buzz Curator experience and so they'll be going through let's say a program a Buzz Curator program you've created one all about giving constructive feedback. As part of that program They might in one instance go through a Buzz Facilitator scenario role play where they act as themselves the manager and they're giving feedback to Buzz who's acting as the direct report. So it's like a one to one way of practicing your skills in a safe space with an AI coach and it helps them kind of action what they're learning from the Buzz Curator programs and this is a bit definitely a game changer for us because and previously our buzz curator, experiences the one to one experience would just be that the user kind of consuming the text and we've certainly got those kind of interactive elements like nudges and polls and what have you. But what we've been able to do by embedding Buzz Facilitator is giving that learner an opportunity to immediately practice a skill whilst they're going through a program without sending them away to go and book time in with a colleague to role play or you know that kind of thing. 
+
+19:08 | Laura
+Laura was talking about this one and I was mind blown by that. Well hopefully we'll have a couple. 
+
+19:14 | Camille
+of minutes I can show you Buzz Facilitator and then I'll just whiz through these. So Buzz Sidekick is the newest tool in the suite and this works alongside everything. So we're looking to integrate this into Teams, we've just integrated it into Slack and we're using it internally at Hive with a couple of clients who also use Slack. And this is essentially designed for people to get information that they need in the flow of work. We're finding that it's particularly useful for sales enablement training And so for people who are really keen to help them accelerate their roles within sales and for those people who those companies who are looking to enhance sales training, the way that they might be using tool like Buzz Sidekick is they'd be asking questions like, how can I negotiate this contract that has been in the pipeline for a while? What's the next communications that should go out to prospect X? And because it's connected and integrated with different parts of the tech stack, it can pull really relevant information. So dissimilar to ChatGPT which is just going to give you a generic answer from the web, this is designed to link to things like your Google Drive, link to things like your HubSpot, your whatever CRM you might use, link to your Teams channels. and so it will pull the right information about those different things and give you a really well informed answer. And so at the moment we're developing the various integrations for Buzz Sidekick to make it super useful and to get it speaking like the company as if it knows everything and because it's kind of connected to different parts of the tech stack. Does that make sense? 
+
+20:57 | Laura
+It does, but what is the difference between this one and the Buzz Facilitator? 
+
+21:03 | Camille
+Yeah good question. So Buzz Facilitator is where you might so it's more of a kind of organized structured part of a learning experience where we're using Buzz Facilitator. So we will create specific facilitator examples based on what you feel you want. So I mentioned actually there's a couple of ways of using it. One of it is you have a role play or something like that fits within a Buzz Curator program that you've developed. We also have a couple of clients who want to build a Buzz Facilitator bank. So they use the Hive platform and it's just basically loads of different examples of Buzz Facilitator. Different role plays that people can dip in and out of to practice those skills, to sharpen those skills and you know we can even use Buzz Facilitator as a way to kind of run a quiz to check the knowledge. But we would design each example or each scenario of Buzz Facilitator. With Buzz Sidekick this is where you say you would have it you could say help me design a needs analysis for this person or for this particular project. And it would do that but it would also pull what it knows from the company files that we've connected it to make sure it does it in a company specific way. Does that make sense? So you kind of ask Buzz Sidekick anything. 
+
+22:18 | Laura
+Right it's like instant information that is connected to your company intranet, company search drive etc. Yeah exactly. And then last but not least we've got. 
+
+22:32 | Camille
+Buzz Insights. So Buzz Insights is designed to turn that data from the platform into insights and this is the tool that I was speaking about just a moment ago that will help us help you to communicate with your stakeholders internally. So it will identify any gaps based on the data points that it's picked up from a Buzz Curator program or from a Buzz Facilitator scenario it will give us real time insight so we can pull it part way through a program or we can pull it at the end of a program. And it will help us understand those precise areas that we still need to continue developing within a cohort. As well as giving us some of those important stats, engagement stats, completion data etc. So that's been really useful for our clients to understand what it is that we've been working on and the impact that it's making. 
+
+23:24 | Laura
+Amazing and is it in the form of a presentation? 
+
+23:28 | Camille
+So so it's a web link and I can give you a quick sneak peek at one now. Is there one of these tools we've got about five or six minutes is there one in particular that you're really keen to see? 
+
+23:40 | Laura
+I would probably say the bus curator. Awesome, cool. 
+
+23:46 | Camille
+Just whilst I load the buzz curator this is an example of what one of those reports would look like for Buzz Insights. So we could pull this for any group, you've got your top line stats up there, we've got insights down here, we've got recommendations of trainings that we could go to next, we've even got things like it will tell us who the influencers are, who's speaking the most, who's communicating things of the highest value, We can also look at things like behaviour change and some of the insights that we can pull from there and how willing are our participants, what areas of improvement do they have. So loads of different data points there. But let me do a very quick demo of Buzz curator. Yeah. So this is just one of my test groups in Hive. I head into sprints, create a new sprint, create a sprint with Buzz and then I've got two options. I can either upload a doc or I can start creating one without. So if I was going to upload doc, I'd just click there and I could upload a PDF or a Word document. So say you've got a PDF that's all about inclusive leadership and you want to use that to help kickstart the conversation, you could do that. We can also upload stuff like visions and values documents from your company and those kinds of things as well. If we just do a very quick chat with Buzz you can see that Buzz has kicked off the conversation. Am I ready to build a sprint? A sprint is what we refer to as a time boxed program. So a program with a start and an end and it's managed in quite a bite sized way is so if you see the word sprint that's what we mean. Okay. Is there anything you'd like to see Buzz start to create a sprint on? 
+
+25:30 | Laura
+Just an example on a training that you've created before. How does it come? 
+
+25:36 | Camille
+So it literally could be on anything. I've built so many trainings recently. Let's. 
+
+25:41 | Laura
+Let's go. I don't know. Learning and development frameworks, for example. Yeah. 
+
+25:50 | Camille
+So I want to create a sprint. 
+
+25:54 | Laura
+Okay, so do you use it like chat GPT? Kind of. 
+
+25:59 | Camille
+In a sense like in you know you feed it the information for it to build but what Buzz will do that chat GPT won't is it will question to get the right information. So already let's dive deeper. What specific goals do you want participants to achieve by the end of the sprint? I want to train a group new learning and development. 
+
+26:26 | Laura
+So a sprint was a course that has a beginning and an end? Say again, sorry? A sprint, yes, yeah. Yes. 
+
+26:36 | Camille
+Yeah, that's exactly right. And so as you can see here over on the right hand side, it's starting to build out based on the conversation that we're having. And as we give it more and more, it will start to do more and more of that. So specific frameworks. Please choose the top five frameworks like that. So if we're actually doing this in real time, we might give it more information. But actually it's picked some pretty relevant ones here. So I'd say, yeah, great. And then more the audience, more details about the managers they have. no more than let's say four years. 
+
+27:19 | Laura
+experience. So it builds the it builds the content on the right hand side. 
+
+27:27 | Camille
+Yes, exactly. 
+
+27:28 | Laura
+So you can download that as a presentation or as a document. 
+
+27:32 | Camille
+So it will actually start to create that once it's got enough info. And so I'm just kind of like speeding the process along and just kind of agreeing. Yep, this is great. Yes, great. And then over here you can see it's building out the objectives, the audience background. It will now once I've sent this message start to build out the cadence. It will also then start suggesting pathway titles. And this is where you as the learning designer can kind of play around with it. So if you're thinking Actually, I don't want to use Bloom's taxonomy. I want to use a different method. I'm always not a fan. I don't like the word mastering. So I always say to ChatGPT and always say to any AI bot, I don't like the word mastering. Please change it. So let's see what else comes out with. Ah, that's better. Yes, great. 
+
+28:24 | Laura
+It's funny, isn't it? 
+
+28:26 | Camille
+Yeah, it's really good fun. And I've started creating some of my own trainings just for things I'm interested in personally. So like doing ones on skincare. You know, ones on red wine around the world. You know, it's really good fun as a little resource. So we can start to build our sprint. And as you can see, it's just kind of generating that content there. It's starting to build out the text, which is what these grey lines here. That's it thinking and starting to create the content. It will usually take a couple of minutes for that to create. I can hang on for probably about five more minutes ahead of my next call if you've got five minutes. 
+
+29:04 | Laura
+Absolutely. I've got a much better understanding on what this is. So I guess while these charges my next question will be, very upfront. What is the cost for these? Because whatever I go next, I need to know if we can afford it. Yeah, we can afford half of the platform or just one product. But definitely this is a good thing. 
+
+29:29 | Camille
+Yeah, so it's a really good question. And so we usually start from around five K a month and so be 5,000 pounds a month. We try and be flexible. And so we want to understand what's most useful for you within that. We work in a modular sense. So if you're just interested in the buzz curator tool, then we can work out something there. Or if you're interested in using the whole full suite, then it would be a slightly higher price that it equates to per month. We also do proof of concept. So if you wanted to trial it at your new place for three months or six months, we can offer packages for that so that it's less of a commitment to the longer term contracts whereby we usually go with around it's 12 months plus for our standard term contracts. But yeah, from a monthly perspective the minimum is around about five K a month. 
+
+30:27 | Laura
+That's good to know. Do you sell the different products individually? We try and approach it in quite a modular fashion. 
+
+30:43 | Camille
+If you just wanted the buzz curator tool to help you create programs, then we could we I'm sure we could work something out for you where we come in, you know, potentially even slightly lower than five K a month. If it was just buzz curator and you wanted to kind of just run with it and you needed low support from Hive, that's no problem. If you wanted to add in buzz facilitator, then that would be a slightly higher cost because we would create the buzz facilitator scenarios for you. It requires quite a bit of prompt engineering you see. So, you basically would say Hive team, I need some scenarios on XYZ to go in this program or to sit separately. We would go away and create that for you. Then again, like an additional cost if you wanted to utilize something like sidekick insights we would provide for you. So, if you wanted the insights, we could provide those for you usually on a kind of monthly basis. If you need them more regularly, then we can get those reports to you more regularly. So yeah, insights kind of comes with the buzz curator package. 
+
+31:45 | Laura
+Okay, okay. So, the five K a month, that's the monthly cost but is there a price that you pay to set this up on top of that? 
+
+31:56 | Camille
+No, no. So, we would just start from yeah. So, so within that and again, this is why we work mostly on a 12 month basis because we kind of include that within the fee but having said that where we're doing a few more proof of concepts because it's new tech, people like to try it out and explore it for most people tend to do a six month proof of concept and then move into a 12 month contract. Some people prefer to do a shorter three month proof of concept and then move to longer That's fine and again the proof of concept three months starts around 15 K. 
+
+32:29 | Laura
+Yeah. Okay. That's good to know. And it's also good information that you can actually integrate these with other HR platforms or LMSs because most companies will prefer that option, I think. 
+
+32:45 | Camille
+I think, yeah, it's definitely seeming that way because I think previously, I'd say around sort of just kind of around the sort of COVID time, what we were actually finding was quite the opposite. People were kind of adopting new tech. They were bringing new things into the tech stack and now it's shifted and now people are wanting to integrate much more heavily. They still want those different parts of the stack but they want it to feel like a one stop shop and so that's something that I'm certainly hearing a little bit more of now. 
+
+33:13 | Laura
+Yeah, I think that's the trend now. And are you thinking about linking this to performant or progression somehow? Well What do you mean, sorry? So, you know, some element platforms link course completion or training completion with performance KPIs or smart objectives. 
+
+33:38 | Camille
+Yeah, yeah. Actually, the piece where that we're integrating there is with Buzz Sidekick. So, Buzz Sidekick can integrate with yeah, wherever you store your documentation, maybe a lot of for a lot of companies, it's SharePoint and so anything like frameworks, career development frameworks, et cetera. Yeah, it can pull from all of that information and give you real time data. It gives you real time insights, help you create the right kind of feedback structure and you know, use things that are really well informed to help you manage those team members in that kind of example. 
+
+34:11 | Laura
+I understand. Okay. We did. Shall we? 
+
+34:16 | Camille
+Take a look at what we've got so far. So it will take us into our sprint manager section and you can see it's split up and it's got five different weeks for each of the learning frameworks. So, first up Addy and then we've got Patrick's model, Bloom's taxonomy, 70 20 10 and the cold theory as well. So, I just hop into introducing Addy. And then it's already created polls for us. So, this is where we can check for learning. We can pull the data from this. People might say I've heard of it but don't much about it. We can pull all those insights and it's given us all this info breaking down exactly what the ADDIE model is. We've even got diagrams that we can use if we want to. We can also upload our own and then we've got more info on the analysis phase. Another poll to check for learning. I'm just gonna go back and show you another one. So, let's go into Kirkpatrick's four levels. And then we can see again it's built some more images for us. And you can see it's really bite size approach. We like to have an over to you because it brings it back to them in the comments and so I might wanna tag one of my friends and say Dan have you seen this? It's really great. I can tag him and make sure that he's seen that or I can tag everybody in the group and say has everyone read this yet? All their experience to that. I can also amend the content that it's created. So, if I click on edit, really simple and easy to use for a learning designer. And I would just add in, let's say I wanted an image here. I could do add an image and I could say learning design and then very quickly create one or pull one from the web. I might wanna pull something like this. Super easy. And then if I wanted to add a video or something like that, I can embed one from YouTube or just use a video link. Yeah, really straightforward and easy to use. Very intuitive. 
+
+36:33 | Laura
+And does it bring questionnaires at the end? 
+
+36:38 | Camille
+So we can include that and again, this is when you're playing around with Buzz Curator. You can you know say make sure you include a quiz at the end to check for learning. Or we can include our own here by using the quiz feature. I can insert my question. I can add the options, pick the correct answer, leave feedback here. So I might wanna say try again for the ones that are not right. I might wanna give them more hinted there. Great work for the ones for the one that's correct. Really simple. 
+
+37:09 | Laura
+I see. Okay. And is IMI and all this is to be done online? Is this if you ask if you ask Buzz Curator, I want to facilitate a face to face training. Yeah. Will that work as well? IMI and so right? Yeah. So. 
+
+37:30 | Camille
+as in using it to design a face to face training. Yeah. I think you could certainly do something like that. Yeah. I think you might actually use Buzz Sidekick for something like that to help you kind of understand you know kind of have more of that conversation piece without it necessarily creating the content in the same way because this will create what it knows to be a sprint. So we'll follow that kind of digital program journey that you saw an example of there. 
+
+37:57 | Laura
+Okay, I understand. Great. 
+
+38:02 | Camille
+Any other questions before we wrap up? 
+
+38:05 | Laura
+Appreciate you've gone slightly over time there. No, I think I've got an understanding. You will send me the slides so I have that. Yeah, of course. Yeah, no problem. That's that's really good. Thank you so much for your time. No worries. 
+
+38:18 | Camille
+Really lovely to meet you. I'll ping over the slides later today but if you've got any other questions, yeah, I'm always happy to hop on a call or just ping me an email. And yeah, 
+
+38:28 | Laura
+best of luck with finding a new role. I'm sure you'll be snapped up in no time. I hope so but thank you so much for your time and I'll hope to talk to you soon. Awesome. Thanks, Laura. See you soon. Bye. Thank you, Camille. Bye bye. 

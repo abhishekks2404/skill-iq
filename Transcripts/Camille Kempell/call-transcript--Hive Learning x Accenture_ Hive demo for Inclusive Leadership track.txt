@@ -1,0 +1,278 @@
+Hive Learning x Accenture: Hive demo for Inclusive Leadership track
+
+Camille Kempell with Accenture
+Recorded on Jul 22, 2024 via Microsoft Teams, 34m
+
+
+
+Participants
+
+Hive Learning
+Camille Kempell
+
+Accenture
+Aroti Tugnait
+Daniel Coco
+Alissa Hillman
+
+Other
+Phone Caller #1
+
+
+
+Transcript
+
+0:00 | Camille
+hi, how are you? 
+
+0:02 | Aroti
+How are you doing? 
+
+0:03 | Camille
+Good. Thank you. How are you? 
+
+0:05 | Aroti
+I'm doing well. Thank you so much and huge apologies for having to cancel last week. 
+
+0:11 | Camille
+No problem. How are you feeling? Are you on the end? 
+
+0:14 | Aroti
+I'm feeling. Yeah, I know. I'm absolutely on the men, feeling a squeaky clean and absolutely new. 
+
+0:21 | Camille
+Good, good. I hope you had a restful weekend after not a, 
+
+0:26 | Aroti
+I did. Thank you so much. You know, the other challenge of being on this side of the globe is also that a lot of calls fall towards the later half of the day and go and where into the later part of the evening as well. So, on a normal day as well, if you start early by the time, you know, you're at four or five in the evening, your energies are depleteng. And if you're not well, it just makes it worse because now you're just holding on by, you know, share will power. 
+
+0:52 | Camille
+Yeah, it's so true. Remind me whereabouts in the world you're based? 
+
+0:56 | Aroti
+I'm based out of india and I'm based out of the northern part of india. So, hey, Dan, how are you doing? 
+
+1:02 | Daniel
+Hi, good. How are you? 
+
+1:05 | Aroti
+Good, good. Good. Happy Monday to all of you. 
+
+1:08 | Camille
+Yes, happy Monday. Do we have Alisa coming as well? 
+
+1:13 | Aroti
+She is, yeah, she is on another call that, we were on together. So, I think she's just closing, and coming in but we can get started because we have, I think all of about 40 minutes. 
+
+1:24 | Camille
+Yes, awesome. And Dan, hi, great to meet you. I don't. 
+
+1:26 | Daniel
+I think we. 
+
+1:27 | Camille
+Have had the pleasure of meeting before, but yeah, really excited to be working with you and hopefully mapping out some work that we can do together. So, yeah. 
+
+1:36 | Daniel
+Thanks. 
+
+1:38 | Camille
+Great stuff. So what I'll do is I'll just give a quick overview as to what I understand. We'll focus on today and then we can launch straight into the demo. So Dan, it would be really good to hear from you before we do that a little more about your role, and your part in this particular project. I'll just let you know a bit about myself. So, hi, I'm Camille, I actually recently moved over to a different role in Hive. I was previously in the partnerships team. So I was looking after managing lots of our accounts and working with clients including bloomberg legal, in general, boots, marks. And Spencer. And so I'm bringing over a wealth of client knowledge with me to the new business side. A really exciting time or Hive is we're rapidly scaling the business. So, yes, just a little bit about me. But over to you, Dan, if you wouldn't mind. 
+
+2:27 | Daniel
+Awesome. Thanks. Yeah, it's nice to meet you, Camille, Dan, coco, I've worked in learning experience design. It's it's a smaller group within accenture learning. And what I do is I help our internal accenture teams on the very upfront learning design, you know, how are we going to meet learning needs, business needs with any type of curriculum, we develop any type of product, that kind of thing. So, I've been working for a little less than a year with art and Alyssa on people leadership credential. And so, yeah, I'm more of a design focus, the high level of design. 
+
+3:08 | Camille
+Awesome. That's great. Thank you so much that's really useful to know. And rota, we met a couple of weeks ago now wasn't it when I think when I think we had Chloe on the call as well, who's now left, our business? But yes, she sent her best and she's just started in her new role. So, yeah, we're keeping very close in touch. She was a good friend. So, yeah, fab. So then just to recap sure where we were. So I understand that you're building out inclusive leadership, the level two track and that's where you're looking to get quite creative. Rota, you mentioned that the level one was very cool and it's something you really excited about. And so, yeah, really good to hear a little bit more about that. Hopefully we can create something with you that feels even more innovative and exciting and just a really cool learning experience for those leaders. What we'll do today is we'll focus on actually showing you the higher products that we've built in action, centering around Jenna and how we've used that to accelerate what we build. I'm just gonna do a quick screen share. And then I'll run you through what our AI tools landscape looks like. Can you see this? 
+
+4:21 | Aroti
+Yeah, yeah, yeah, I can. And I think last time of first, you took us very briefly through the curator, the facilitate and the insights, right? And the cyclic is new. And and so essentially, I wanna see how a product could possibly leverage all three, four of your parts of this suite and what do we get towards the end of it? And the other part also for us is, you know, the kind of timeline that we're looking at in terms of, you know, if we start with you, let's say next week, then typically, how quick can you get something for us up and running? 
+
+4:57 | Camille
+Yes, awesome. So I suppose I'll answer that last question first. If that's okay. We can work as quickly as you can. As soon as you're ready to press go on this. We can start building things out. If you say that you need content ready in the space of a couple of days, then we absolutely can do that. We'll just need to work with you on how you'd like to approach that content creation. So suppose there's two different avenues for tools like buzz curators. This is where you create the programs just in the space of a few minutes. You can see hopefully those five modular products there on my screen. So looking at buzz curator that's the tool that we use to develop programs in the space of a few minutes, we can plug in documents, it will ingest those and use that to inform the program that it builds in a really agile way. So as I said, yeah, if you want us to work very quickly and start to get something together in the space of a couple of days, then we can very much do that. What we, what we'd like to do at Hive is we don't so whilst you can see that these are modular products, we want to combine them to help create that really exclusive learning journey that is very innovative and it's excise siting. So you might remember from our last call in how we combine buzz curator and buzz facilitator. So Dan, not sure if you're too aware here but where we create the programs with buzz curator and then they sit within the Hive platform. What we might also do is embed examples of buzz facilitatorand at its most basic level, this is essentially like an AI coach. But what we'll do is we will create this as part of a buzz curator program. So for example, if you a, yeah your tracks about inclusive leadership, then one of the buzz facilitatorscenarios that the individual would work through on a one to one basis, might be role play a conversation about helping your individual who is not feeling as included to feel included or something like that, you know, be much more fluent if we actually made something like that, but you get my drift there. And then I suppose, yeah, on top of that, something that you wouldn't necessarily be too familiar with, it's a brand new product that we've just developed at Hive and it's in testing at the moment is buzz sidekick. So this would be where the individual can go to access on demand information, knowledge resources. What we would do with buzz sidekick is we would use, so. You'd send us over any knowledge resources that you think are relevant for this base group of leaders might be certain documentation, power points. Yeah. And any of those kinds of bits that are really specific to accenture. And then what we can do via buzz sidekick is your individual could say what's the best way to approach giving challenging feedback in the most accenture style way or something like that really relates to the knowledge and resources that we've plugged into it. And then they can access those answers in a much more agile way than trying to sift through the documentation. So that's the tool that we've built in sidekick. And that's how I could imagine that your leaders may want to kind of use that if they're really thinking about how to action things and access learning in the moment. Whereas what we'd like to do with buzz facilitate is that sits within the learning program. Does that make sense? 
+
+8:16 | Aroti
+So to be clear, the facility is like an AI coach and I could ask a sort of have a conversation based on a scenario and the scenario plays out for me with a I'm paying it out with an AI coach, right? That's correct? 
+
+8:29 | Camille
+Yeah, yeah. Yeah. I'm really right. 
+
+8:31 | Aroti
+Sidekick. And the side kick is that then more of an integrator, of content, is there a content integrator? 
+
+8:40 | Daniel
+Not. 
+
+8:41 | Camille
+exactly a content integrate, but I suppose in a sense, you might approach it in that way. So where we see sidekick fitting and I suppose kind of thinking about more broadly different use cases as well. We have quite a lot of sales trainers who are now implementing that. So they'll upload all of the sales resources and documents and then their sales reps in real time can say what's the most uptodate pricing model and how do I tailor it for this particular client? So you can upload you know, information on your different clients that you might be working with in that sense. In terms of the leadership examples, it would be those documents that you want them to have ease of access to. That perhaps might be quite lengthy where we can then help them. Yeah, as I said, access them in a slightly more agile way. And then of course, you'd be familiar with but insights you mentioned it earlier, it and that's where we pull data from Hive, very data Rich platform and turn it into insights. So rather than just hear your completion rates, it will give us insight as to what those completion rates mean. So it might be that people's interests are peaked in the middle of, you know, in a particular pathway in the middle. So we can say, actually this is something that they're finding really valuable. It will then look at things like comments and insights that have been left by the individuals and say, actually this is an area they're really understanding well in psychological safety, but they need more support in managing different personalities from E, from this analysis of the different comments. So that's really helping us to help you communicate with your stakeholders in the value of programs which can be quite difficult. Notoriously I think, in learning and development, proving the impact of a learning and development programs. So that's really helping us to do that. Does that make sense that all clear? 
+
+10:27 | Aroti
+Yeah, absolutely. I'm gonna go back to the side kick. I'm sorry, it's. 
+
+10:30 | Camille
+yes, of course. I. 
+
+10:32 | Aroti
+Robin, and at a kind of situation. So I get that right? Is, is this I think one more like a information library that we, that's available and you can go find your stuff in all of that. Or is this since you mentioned it's in the right time and performance support when you need. It? Is this also while I'm going through my content with the us curator that's been collected. Or while I'm going through my AI coach the right, according to my requirement, it's hyper personalized to what I might need. Is, is that what this is doing? 
+
+11:08 | Camille
+Yeah. So let me just, I can show you an example, of how I might use my side kick. So you can see some of the conversations that I've had here, and will be based on. So I wanted to I'm working with ubs at the moment and I wanted to understand what LMS they use and I'd already plugged in the information. So the documents, all my ongoing notes about ubs as a customer. They're already kind of plugged into the background. It can then also pull what it knows from ubs that's available widely on the internet. And I actually don't think, this is something that, so I can show you this because it's more broadly speaking and I, so I can plug in on my notes that's me sort of playing around with it, but we can plug in so that the user doesn't have to do that part. And then it will pull out potential next steps for me. You know, I've asked it about questions that I can help that might help me uncover any more information. And then in another chat, it will check in on how anything I'm discussing. So I'm discussing a negotiation at the moment for quite a large size contract. This is something that I've had the conversation with sidekick about. And so it will remember that and say, you know, if you need any further assistance, you know, let me know. But then if I wanted to ask here what's the best way of approaching… feedback conversation with a direct report? It is not receptive to feedback, something like that. So this would be an example of where it's less specific to what we've plugged in, and this is kind of more of that sort of chat gpt style. So this isn't necessarily how we want people to be using it. But what we might want to say is tell me about the ways of giving feedback at accenture. And in the background, what we will have plugged in is maybe things like your vision, your values, and then it will use that to inform the answer that it gives? Does that make sense? 
+
+13:12 | Aroti
+Yeah, yeah. Yeah. And, and so what sits in terms of the database for your side cake is what we provide or does it also, is it also learning from what the users are doing? 
+
+13:26 | Camille
+The, the directions? 
+
+13:27 | Aroti
+On its own or? 
+
+13:28 | Camille
+Yeah. So, so it learns in that space. So as you can see, it's kind of remembered that I've spoken about a negotiation conversation I've asked for advice on. So it will remember things from your account and it will take information from what we plug in. So any accenture related docs that you send us that you want it to learn from, and then we can update and refresh those on an ongoing basis. And then it will also pull what it knows from what's available on the web. So where I asked for best way of approaching feedback and it's mentioned the spi model that will be something that is pulled from the wide web. Does that make sense? 
+
+14:03 | Aroti
+Yeah. Okay. Understood. Sorry. 
+
+14:06 | Camille
+Can you see that working for the level two for the level two track? Is that, are you kind of your co, wearing there as to how it might be useful? 
+
+14:16 | Aroti
+Yeah. So of course, I'm thinking in that direction. I'm also a little very usually, to use… pieces like this, but Dan and Lisa, what's your thought? We'd we'd love to see a little more of how this whole thing flows. But initial thoughts so Elisa that. 
+
+14:37 | Daniel
+It's interesting. So it's like a gen AI, but it also, you feed in your own content into it as well. All right. And then it pulls from both sources. 
+
+14:47 | Camille
+Yes, yeah. Exactly. Yeah. So it elevates that purpose of, you know, where you might be using things like copilot in the flow of work now or chat gpt, it's taking that to an extra level and make it making it much more specific, to accenture essentially? 
+
+15:04 | Daniel
+Could it reference like web based trainings that we have internally? 
+
+15:10 | Camille
+Yeah. So what kind of trainings were you thinking of? So would you, as in, we would share, you know, a web link and it would understand that and. 
+
+15:19 | Daniel
+Yeah. If someone said I need a little more training on, you know, this aspect of leadership. 
+
+15:24 | Camille
+Yeah, very much. So, so again, we can kind of pull from whatever websites and upload documents that feel relevant. We could even pull bits from those specific web pages that you, that you're referencing and make sure that it's got all of that intel to be able to use that in the conversations that people will have. 
+
+15:43 | Aroti
+That's any thoughts? 
+
+15:48 | Alissa
+I'm still digesting it, trying to figure out where? 
+
+15:51 | Aroti
+Yeah. 
+
+15:51 | Alissa
+Exactly. We could plug it in or use that, but it's cool. Very cool. I. 
+
+15:56 | Aroti
+All right. And I'm also thinking that maybe, we can think of the prep pack, and some parts of the expedition to make it, you know, sort of like a conversation, or something where people can go and sort of look for more information for the expedition or respond to questions or just instead of telling them what to do, maybe this end up being a little bit of almost like a treasure hunt for the lack of. 
+
+16:23 | Alissa
+Yeah, yeah. 
+
+16:25 | Daniel
+Figuring. 
+
+16:25 | Aroti
+out and figuring out. And I particularly like your point than about could we then we have so much existing within the system? Could we then, you know, lead them to, you want to know more about coaching then go here and this? 
+
+16:39 | Camille
+This could. 
+
+16:39 | Aroti
+Be a good way of exactly platform for everyone? 
+
+16:44 | Camille
+Yeah, connecting the dots. Yeah, making it much more seamless for them in terms of how they, you know, where they're going for relevant bits of information. I think, yeah, that will really help to streamline things or from a user experience perspective. Yeah. 
+
+16:58 | Aroti
+So, sorry. Sorry. And also Alissa, Dan, and Alissa also supplement optional readings, right? This could be a good way to build see ways of saying you doing this. Go here. Do this, you know, a 30 minute quick, whatever and so tighten quite well together. Okay. Yeah, cool. 
+
+17:21 | Camille
+It's all of us. 
+
+17:22 | Aroti
+Looking very promising Camille. Yeah. And we haven't spoken, no, no, no, we haven't spoken pricing yet. So, yeah, it's. 
+
+17:28 | Alissa
+appreciate. 
+
+17:30 | Aroti
+Good. 
+
+17:31 | Camille
+Well, hopefully I can give you a bit of an idea of pricing just, yeah, we'll have a bit of a chat about what it might look like, and what you, yeah, what you understand, the timelines and things to be. And, and so I can hopefully give you some answers today. One thing I wanted to show you. So I think we mentioned in our last call or I might have included in some slides about a career conversations program that we've developed for inch cape who are a large automotive distributor. And I thought I'd show you this one with their permission because, it feels kind of relevant. And it also speaks to those examples as to how we can use buzz facilitator on a buzz curator program. So this, it looks very short and very sweet. We wanted to keep it really bite size in terms of the content that's available in this tool kit is what they've called it. So you can see we've got the first pathway which is intro to career conversations, then looking at their specific career conversations model and how to apply it and then accelerating the career conversations. They're going that step further. I'll just show you a couple of cards. So I'll pull out different conversations for different people. So this particular card is where they've mapped out a few different personas. So you've got persona one fresh in their role brimming with potential persona. One eager and hard working has yet to showcase their capabilities. And then you've got someone persona three approaching retirement, shown a decline and engagement persona five stand up for me. You get the drift. So we've got a few very different examples of personas. And so what we then have done in this particular example is we've used that to then… to kind of feed into what the career conversation buzz facilitate role play might be. And so there's a few different examples here. You can see that we've pulled out and summarized those. And then it maps out what the exercise is. So buzz will ask for your chosen persona. It was the scene for your conversation, take on the role of your direct report in the persona you choose, go through the conversation as you naturally would. And then remember those four steps which they've determined as being my aspiration, strength and experience development options and choices. And then we go on and we have that conversation based on the persona. So I think that's just a really clever way of how we can approach something like career conversations and use that information to feed that specific example. So rather than just an AI coach that sits separately, I suppose almost in a manner of how sidekick Wood where you're kind of using it for ad hoc bits and pieces as and when this is very much part of that learning experience in the inclusive leadership track that we would create that's very specific to helping them embed their learning. 
+
+20:23 | Camille
+Any questions? 
+
+20:24 | Aroti
+Essentially go through a card which is what, we saw about just, could you scroll up a little minute? 
+
+20:31 | Camille
+Yeah. So, so I'll just go back and then you can see the pathway that it's mapped out. So they would go through this in chronological order. So they'd start with understanding career conversations, tells them about the purpose of it. You can see it's really easy bite size content will include things like pulse and we can assess how comfortable they feel at the beginning and at the end or whatever we want those to be. Make it really specific to inch cape, pull out different elements from their survey that they'll be familiar with what happens every year. And then they click next, they go into the next section. And so, yeah, they flows in that sense. And then what we might want to do is we might want to release these pathways at different times. They thinking more about the logistics here but getting them to unlock these. So they would stay locked until they finish this particular pathway and then can move on. So there's different ways of kind of managing, their experience. If that makes sense. Cool. Any questions so far? Is there anything that's not clear or, any kind of questions you have about how this might work for accenture? 
+
+21:43 | Daniel
+Camille in those cards, I assume you can embed video clips, animations, graphics, that kind of thing? 
+
+21:51 | Camille
+Yeah, absolutely. So whether it's videos, gifts images that you want them. Yeah, we can develop those. What we started doing a lot of recently is we'll develop the images using AI. We can use accenture brand colours so that they really fill on brand for you. We can make sure that the images are really specific to what you want it to depict. And then as well as that, of course, you know, it might be things like diagrams that we want, to use there that you may already have or that we can create for or with you… good stuff. So, one of my questions was around how you would want to approach the creation of the content. So I'll go back into, let me just move that out of the way. So, so where we're creating sprints via buzz, which I think you may have seen an example here. And my question then is would you want to have that tool yourselves and you want to run away with the content and just go through it and create it with kind of low support from Hive or would you want to collaborate with Hive on developing the content? So essentially, you tell us what you need, we create it and then we kind of do a bit of back and forth until it's perfect. What would be your preferred way of using this? Because we have some clients who just want the buzz suite and they want to just kind of run with it and do everything themselves. And some who prefer for us to kind of do a little bit more of the heavy lifting, so to speak. 
+
+23:17 | Aroti
+I think it, it's gonna require some level of co creation while we are happy to provide the prompts and, you know, happy to provide direction and all of that. I think it will be preferred by us to as you mentioned, you know, look at the heavy weight lifting for us, and of course, co create along with us. And that's typically, I think something that will work well. Also, I think we'll be able to utilize our timing well in terms of, you know, meetings, some time lines that we have in mind. Yes, that's… right? 
+
+23:55 | Camille
+Thank you. And then my other question is, so I'm not too sure about just kind of, the timelines and the logistics of what the program would look like. And that will help me to give you more of an idea on the commercials. So I suppose then the questions are how long is the program running for? How many people would need access to Hive? So, the number of leaders who'd be on the program? And yeah, I think, of the tools that you've seen of Hive, would you want to kind of work on a full buzz suite basis? Or would you like to focus on just curator and facilitate? It? Might be a quite early start thinking about this, but then I can help shape those commercials for you. 
+
+24:38 | Aroti
+Okay. So first question first, in terms of timelines, we're we are launching one of our pilot groups as early august and but by the time they actually get to the content for expeditions, and all of that is going to be sometime in late september, early october. So, so where we are trying to plug in what we are seeing with you, is that's the time frame that we are roughly looking at? I think we'll be interested in the entire suite. And I think what got us excited the last time as well was, the curator part of it, is something that most organizations are doing now, right? I mean most people system partners are bringing that to the table. The fact that you are being able to tie this together with an AI coach. And now, of course, with your Robin situation of psychic and then the insights which I feel are going to be very… you know, impactful for us. I think that entire sort of suite is what is drawing our attention to begin with a, so if it all, then I think, we are looking at the entire suite… in terms of numbers that's why this is the tricky part at least for our first year into the launch. And the reason why I say this is that we are, this, is this the entire people leadership credential is a multi lead multilevel program. The first level which is already launched in about 30 or 1,000 people have been through the program already. It is the level one which is open to all which is the brilliant basics of leadership development. And that's, the very cool part that I was talking about where, it's a, very good integration of, you know, information on point. We've used a lot of AI and there's a videos and, you know, it's just a very good, well integrated program, that is getting a lot of love from pretty much, you know, everywhere across globally. And our level two is really supposed to be this in depth… sort of in depth knowledge of a particular track that the learner gets to get to choose, right? So the intent here is slightly more cohort driven personalized, but yet cohort driven. So there is some social learning as well. And the intent trick is that you're learning with, you know, you're learning… there is personalization of what your trends are at the same time. It's going to be social learning at the same time. We also want them to be able to… sort of focus on the learning, in a work learn fusion sort of way which is really front and center of our entire methodology of learning… and dive into, you know, aspects of a particular tracks. It could be the inclusive leadership, or change, which are the two that we're looking at right now. And in all of this, of course, we are hoping besides, the knowledge part of it and the practice part of it, we are also hoping to provide, you know, additional support and all of that, the usual stuff. So… so that's where I, if at all that's where, it fits in for us. And yeah, in terms of numbers, then how this would get tricky is that for example, let's take the sample size of 30,000 that we have today on board, right? Those are the ones who are eligible for level two… out of that eligible number, whatever number actually then starts to register for a level two within that. Also, there will be a split of the two tracks, right? Some will go for change and some will go for inclusive leadership. So within that number, also for example, just, you know, often if we were supposed to say that out of the 30,000, 3,000 will actually sign up for a level two, that means then, you know, we have a 1,515 100 split. If at all we go going to look at an equal distribution there. Having said that this is the first year of the launch, right? We, we launched the PLC program only in september october, last year. It's not been very many months. This also is a, very high visibility program when it comes to the sponsors and the leadership of an is getting a lot of light from that point of view. And we are a 750,000 sort of, across the organization, that many number of people, right? So, and this is open to everybody and the intent is to, at some point in time make this so scalable that pretty much everybody has been through the program. So what looks like today could be smaller numbers of lets say 1,500 to maybe 3,000. We know it's going to only snowball across any many years. 
+
+29:49 | Camille
+Got you. That makes sense. So I'll just run through roughly how, yeah. So, so how our commercials work. So we, as you may be familiar with work on a license based model. So one license per user per year is how we would work. So what I would maybe look to do next is I can put together some commercial options for you looking at sort of, you know, our minimum number of licenses is 1,500 as you mentioned there. And then sort of 3,000 going up to 30,000. And then what we can do, you know, you're happy to proceed is we can include some terms within a contract that states if you need to plug in any more licenses, then, you know, that's what the kind of rate would be. We do use economies of scale. So the price per head comes down the more licenses are purchased. So I'll make sure that is really clear, and mapped out for you. Do you have a particular budget that you're working with? I appreciate that Hive is not necessarily the only element of the level two. And there'll be a few other things to consider. So interested to know if you've got a budget that you're working to. 
+
+31:00 | Aroti
+No. So we don't have a figure that we could possibly quote. There have been times when we've looked at a proposal, and the proposal has been so high that our jobs jaws have dropped. But we are hoping that that's not gonna happen. So why don't, we do this? We send us your first thinking on, you know, what this could possibly be in terms of pricing. Keep in mind of course, that this will whatever numbers we commit to it's only going to grow from there. And those are some, very initial and very sort of, you know, shy numbers that we are playing with right now. So, and so let's see, what it is for now and second round of conversation, then we can do post that. 
+
+31:42 | Camille
+Yeah, that makes sense. I'll start from. So as the kind of basic option being 12 months, 1,500 licenses. And then we can also look at your cost savings on a three year, 30,000 licenses upfront just so that you've got that for comparison sake, just thinking if there's anything that I'm missing, is there anything that's not clear for you in terms of what you'd be looking to get from Hive? Or yeah, how can I make, how can I make this process easier for you? 
+
+32:15 | Aroti
+Is there like a sample sort of something that we can go through and play on our end in terms of how the curator will work and how the coach will work and all of that? 
+
+32:25 | Camille
+Yeah, great question. What I'll do is I'll set up a little demo group for you so you can have a play around. I'll add a few examples of content in there and some buzz facilitatorscenarios that you can kind of test and play with. I'll try and get that sorted for you later today and you'll receive an e-mail from no reply at Hive Learning dot com. If you just click through that, you'll be able to join the group, and then you can just kind of explore a bit of content and get familiar with it. And if you want, you can build your own sprints as well and have a go at the buzz curator tool as well as buzz facilitator role plays. 
+
+32:58 | Aroti
+Okay. That makes sense. Any questions, Dan, Elisa? 
+
+33:04 | Daniel
+Not yet? 
+
+33:07 | Alissa
+A good, no flipping forward to diving in? 
+
+33:10 | Daniel
+Mm. Hmm. 
+
+33:11 | Camille
+Awesome. Okay. Fab. I am just so that you're aware I'm on annual leave from this Thursday and then away until next Monday inclusively. So I'll be back on Tuesday, but in the meantime, yeah, just pop me an e-mail if you have any issues logging on or anything like that over the next couple of days. I'll get some commercial options to you. I'll aim to do that by Wednesday end of day and then, yeah, just keep me posted if I can help with anything. In the meantime, I appreciate you're going to want to work quite quickly on this. I think, yeah, really excited about, the opportunity to work with you. So, yeah, I'll get those numbers to you in a couple of days. 
+
+33:48 | Aroti
+Absolutely. Likewise. Thank you so much, Camille. And we'll see you once you're back then. 
+
+33:54 | Camille
+Perfect. Thanks very much you. 
+
+33:55 | Aroti
+All right. Have a good holiday. 
+
+33:58 | Camille
+Thank you. Take care bye. 
+
+34:00 | Daniel
+Right. 

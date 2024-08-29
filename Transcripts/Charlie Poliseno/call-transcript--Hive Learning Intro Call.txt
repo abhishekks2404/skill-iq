@@ -1,0 +1,306 @@
+Hive Learning Intro Call
+
+Charlie Poliseno with Verra Mobility
+Recorded on Jun 10, 2024 via Zoom, 44m
+
+
+
+Participants
+
+Hive Learning
+Charlie Poliseno
+
+Verra Mobility
+Brittany Gill, Director, Talent
+
+
+
+Transcript
+
+0:00 | Brittany
+a little bit of… a little bit of background from my end. So Vera mobility is a new or company. I would say they went public about five years ago and looking at kind of their leadership landscape, we don't necessarily have very much leadership development support. Currently, I'm a team of one for over our talent department. I came to Vera in october and… prior to me coming in, we had a gap in our chief people officer for a while and then there was one from like June to december. And then we had another gap and cpo. Now we have our new cpo that started in April or may. And so I would say that due to that, a lot of kind of those nice have HR items versus like getting people paid and getting us benefits. We're kind of put to the wayside and so now we're coming in and seeing that we do have gaps and wanting to see what the lay of the land is from one, our leader, one, one new to Vera as well as recently promoted people leaders, from individual contributors, how do we best support them? And then also from that high potential leader to general manager, getting that pipeline more built because I would say that's potentially a watch out that we have. And so how I landed on connecting with you was our new cpo had sent a webinar or something on Hive. And so then looking at your website and everything, I just wanted to learn a little bit more of what the company does, what the offerings are. And we're very much. I would say in fact finding stage of like what do we want to offer? Are kind of those two populations as well as I feel like we're landing on more or less a hybrid approach of some inhouse, what does it mean to be a very leader and our business units and kind of giving that introduction. But like this soft skills wanting to see kind of what is out there from those offerings? 
+
+2:29 | Charlie
+And so across those two… populations that you strive to get, I was going to make sure I repeat it back to you and tell me where I maybe missed something as it sounds like first time leaders. So managers that are growing into their role as people leaders, and then also your high potentials trying to drive towards a general management or, you know, more executive leadership style role. 
+
+2:57 | Brittany
+In the hub? 
+
+2:59 | Charlie
+So we're thinking about, you know, what does it mean to be a very leader across those two audiences? What is your anticipated size? Like how many people do you think are gonna go through? 
+
+3:12 | Brittany
+I would say all depending we would probably want to start up smaller kind of pilot and then scale from there off the top of my head maybe 20 to 50 potentially. 
+
+3:32 | Charlie
+Awesome. And is there thinking about your current HR tech stack that's in existence right now? Is there a current LMS or lxp that you're utilizing? 
+
+3:44 | Brittany
+So we currently utilize to… right now, but it's only more or less for our compliance trainings. So we don't necessarily have like an LMS that we launch other trainings off of. 
+
+4:01 | Charlie
+Okay. Not a problem. The reason that I asked that is that we are not a it's actually special. The way we are not per SE, like we don't place an LMS a lot of people to look at Hive learning and they think that we come in to replace the can or place an sap or what it might be. We, we integrate with it and we bolt onto it to go faster and help it go faster or we can stand alone as our platform for these types of projects. Love leadership development. And then in terms of you had mentioned soft skills, are there any particular skills that thinking about getting in the bare way that is particularly top of mind? Is it, you know, emotional empathy and I, you know, emotional intelligence is their communication style is like a, when you're thinking about what does a barrel leader look like? What does that like to you? 
+
+4:55 | Brittany
+Yeah. I would say a few top of mind would be definitely that communication as well as having those tough conversations or uncomfortable conversations and being transparent, being able to say delegate and provide feedback. I would say the more highlighted ones. 
+
+5:19 | Charlie
+And do you already have existing training content on that material? Are you looking for content to be either available off the shelf? Designed the spoke hybrid of the two stuff that's maybe older for bara that you'd like updated and broad more the 20 first century kind of what's the lay of the land in terms of content you already have? 
+
+5:43 | Brittany
+Current state, I would say we don't necessarily have any current content that would cover that. I would say we would probably either do off the shelf or a potential hybrid of let's Vera a few items but not necessarily create anything from the ground up? 
+
+6:05 | Charlie
+Sure, of course, that totally makes sense kind of looking to utilize something that's ready to go but make it sound and look and feel like barrow so that you're. 
+
+6:16 | Brittany
+yeah. 
+
+6:16 | Charlie
+Idea of Vera culture. I'm hearing you're right? Perfect. All right. I'm just thinking about some other items that would be helpful before I start, you know, giving you my slides which are conscious of this is 1,245. You know, we're backing up two hours, 10 45 on Monday morning. I'm not going to slide deck you to death. What's why it just kind of house. 
+
+6:40 | Brittany
+Perspective? 
+
+6:41 | Charlie
+What we're thinking about, but you had mentioned looking to start small, do a pilot opportunity and then, you know, potentially scale it up a little bit more as things start to demonstrate value and demonstrate return on investment. I'd be curious to hear and conscious that this is relatively new role for you, your CEO and for be looking at it as well. Do you have an idea about how long a proof of concept you'd be looking to run would be? 
+
+7:10 | Brittany
+I'm not completely sure on that front. I would say for our launch, we are looking to launch say 2025 and ideally maybe a Q4 potential soft launch if you will. With a certain amount of population, I would say that we ran a soft talent review to kind of see where our potentials or who they would be. And we're doing a more thorough calibration session, august september time frame. So we would have at least that hypogm potential population outlined around there. But yeah, I do, I don't necessarily have like we want this to be a year long program. We want this to be six months. I would say they're slightly different depending on the population. That first time leader is probably gonna be that rolling. Hey here's a few things that you should learn or these are kind of the self lead items versus the high potential might be more of that cohort based now that we've seen who our high potentials are in august. Do we want to kind of put them through a program or have a more programmatic approach for the next year? 
+
+8:31 | Charlie
+And in terms of the, so from what I just heard from you, sounds like high potentials is gonna be like priority number one. And then first time managers, first time leaders be probably priority number two. 
+
+8:45 | Brittany
+Potentially, I think if you ask our cpo and our CEO, they would be very much the same. But I would say, yeah if we had to prioritize one over the other, it would be that high potential. 
+
+8:58 | Charlie
+Okay. Yeah. I'm just starting to build a scope of how we can, you know, lay out a proof of concept for, you know, relatively lined up with what you're thinking about. Would you want to or just out of curiosity, would there be an appetite to potentially run a proof of concept? Both of those things running in tandem side by side? 
+
+9:19 | Brittany
+Potentially. 
+
+9:20 | Charlie
+Okay. Cool. Because we can definitely build something out that looks very similar to that where you can maybe get two tests running at the same time? 
+
+9:29 | Brittany
+Yeah. 
+
+9:29 | Charlie
+And be able to on a small scale. I'm just at the, you know, at the same time up running on a small scale, be able to start getting data and getting input and feedback and provide based on those two things at the same time and then be able to potentially at the start of 2025 or just after be able to have a pretty robust data set up where are things working? How to iterate for the future? And then in terms of what do steps in terms of like bringing on an outside vendor at Vera look like? Is this something that, you know, you yourself and your chair have the decision making budgetary authority to, you know, make sign off? Or is this something that we're gonna want at some point to bring in additional brains to have a, you know, deeper more robust team conversation? 
+
+10:20 | Brittany
+Yeah. It would definitely be a broader conversation either between my manager and the cpo, I would say full disclosure. We're also still trying to figure out what that process they with procurement looks like from those checks. And balances. And so like I said, I'm just trying to figure out the lay of the land here of like what are our options? And then kind of figuring out from there, where do we want to go? And kind of what are those next steps, hurdles? Whatever? 
+
+10:52 | Charlie
+Cool. And my last prickly question for you, is there, so you mentioned potentially end of Q4 rolling into Q1 of 2025 is that something that's kind of like set in stone for there at this moment in time or is there something like if, you know, the right opportunity presented itself that it could be something that gets explored, you know, a little bit earlier if there's something that fits all the right tick boxes? 
+
+11:20 | Brittany
+Yeah. I would say… it's not a set timeline whatsoever. I would say what for the hypo, it would be a set timeline of that calibration session and that august september, wanting to wait to know what our true potential population looks like before moving forward but not to say that first time leader population we would be stuck to that. I would say if anything is more of a bandwidth perspective on my end, what other things are happening from there? 
+
+11:54 | Charlie
+Cool. And you mentioned around compliance, you utilizing the for compliance based training, thinking from a, you know, compliance or regulatory standpoint, how does far feel about utilizing generative AI? Is it something that Vera is looking to innovate and be part of? Or is it something that are maybe has a little bit more of a risk averse type of mindset for? 
+
+12:17 | Brittany
+Yeah. I would say that I've definitely heard it being looked at within the confines of Vera. I think with a lot of companies, it's this apprehension of having their information in outside sources that are then sourced versus kind of that internal body where our information doesn't essentially get leaked out to all of the AI pulse versus just having it within Vera. But I would say with these soft skills for example, with Linkedin, recruit, totally leveraging what they have from the AI capabilities. So I would say if anything, it's more of that apprehension on Vera specific items being leveraged in AI versus like what is a leader do? Like how do I follow these steps being the leader kind of thing which is a lot more in general? 
+
+13:13 | Charlie
+Yeah, absolutely. So it sounds like utilizing AI is something that's on, is on the radar on the prison but want to make sure that it's closed instance data information is protected whenever the AI is playing with it's. In Vera sandbox and only playing virus to. 
+
+13:30 | Brittany
+Yeah. 
+
+13:31 | Charlie
+Got it. Okay. Cool. So it sounds like I've got a good picture to start off with like what you're thinking about where the road map is starting to kind of twist and on its way towards? And so I think it's probably my turn to share with you a little bit about who we are. We're thinking about working just like I mentioned, the rain is coming in. So if it, you hear the rain in the background, let me know and I could switch over to a different microphone. 
+
+13:57 | Brittany
+No worries. Cool. 
+
+13:59 | Charlie
+Gonna share my screen and like I promised, I'm not going to slide back into them. But hopefully you should see our two little as accelerate here. Cool. So a part learning we are a specialist in terms of delivering these types of leadership development transformation… innovative types of approaches to solving for these, you know, kind of sticky cultural questions, having brain leaders, all these journeys and how do we do so in an innovative and time effective way? But also make sure that learners are getting a personalized approach to what they actually want needed and give a moment. And so how we kind of came to be and how we got to this point that we're at today is we've been listening to our client. We've been listening to, you know, folks like yourself and be sharing with us what are the things that are top of mind right now? And we've heard, I think part of what I think ties into what you've shared with us banat, it is that some folks are really frustrated without having a one size fits all. We promise you the mood for a leadership development. We're going to apply the same thing that we would apply at Vera, to company, a company by company. And everybody should see the exact same result of a just, you know, copy and paste over an overview. Then that's not the case. Leadership development especially is one that is tied into each individual organization's, culture, their values. What are we thinking about? How are we developing people to be the top, you know, person or persons for a particular role, for a particular subset of skills and that needs to be tailored for a specific role, a specific seniority and specific organization and sea of something that we pride ourselves. We utilize AI just to be able to create content which we know is a low and fro, using AI to build learning programs which, you know, can pretty much be done on a particular software but utilizing it specifically to tailor to conceptualize and be able to deliver something that an organization really wants and needs. And the way that we got here was over the past 12 years worked with organizations like the ones that you see there to be able to deliver like 25,000 plus learning programs over the course of the past decade. Plus in doing so, we've not only developed our own content in house on things like leadership development, diversity, equity, and inclusion, mental wellbeing, sustainability, those types of soft skills and those cultural items. But we've been able to do so over and over again. And Bill down a playbook that has our best manage practices baked in. That gets us to 80 percent sustained engagement with that learning to make sure behavior. Change actually starts to take place as anybody that does learning and development, talent development, nose, behavior, change takes time and it takes repeated iteration and repeated coming back to the program. And if we're not driving engagement, then learning can't happen. So through the past 12 plus years, we've learned how do we actually get people to come back to the platform? I'll give you a little bit of a taste of what that secret sauce is. It's baked into social learning? The social learning theory. You know, for instance, my master's degree is actually old education. And so we know from research from learning education is that the forgetting curve, we can debate about it every single day until we're blue in the face. You know, people can argue the science one way or the other. But we know that when they walk out of the training, they forget what, they forget what they've learned, they forget. I think, this is like 85 percent of what they, the first 45 minutes. So how do we get people to keep coming back and keep practicing the skills and the content that we've given them? And a big part of that social learning, adults don't want to learn by themselves. They want to learn in a group, they want to learn with their peers, and they want to be able to practice those things in a safe and psychologically state environment where they can hash out ideas especially around things like leadership development, where it's context. It's how does something get applied day in day out? And we've done that for like I've mentioned over 12 years. But in the last year, a year and a half, we've been able to bring AI into, the equation to make the development of the programs faster easier and more efficient for folks like you especially in a team of one where there's a lot of heavy lifting. How do we take that load off of your shoulders and allow technology to kind of come in and provide the repetitive work of writing, synthesising, building out a scoping and saving you time in the role that you're doing. So that you're able to dedicate that time elsewhere where the business really needs your expertise in your insights. So not only does the AI help with that, but it also helps in doing things like coaching opportunities and coaching scenarios like the conversations that you mentioned, how do we practice giving? How do you manage the opportunity to practice? Excuse me delivering those difficult conversations? And part of that is utilizing an AI coach bot on. We call those facilitators to actually come in and give folks that opportunity? Does that start to, you know, give a picture any questions? I know I just kind of want to like a four minute monologue there. So I've cause my try out for send live and see if there's an opportunity, you know, if any questions, anything that I can start to drill in a little bit more? 
+
+19:42 | Brittany
+Yeah, no, I'm interested when you said the AI coach bought like how does that work? Or what does that look like? Yeah. 
+
+19:51 | Charlie
+I'm glad that you asked. So I actually had a video that will start to answer some of those questions for you and then we can go into a deeper dive with it in just a moment. Let me make sure that I can share my audience. 
+
+20:25 | Charlie
+All right. I think this will work. There's no spoken word of this is just music that plays over it. So if there's anything that you feel like, is sure. 
+
+20:37 | Brittany
+Okay. 
+
+20:49 | Brittany
+So, 
+
+21:53 | Brittany
+I don't know. 
+
+21:54 | Charlie
+Here, that wonderful spot kind of audio that was playing over there. 
+
+21:59 | Brittany
+But it. 
+
+22:00 | Charlie
+starts to give a little bit of a taste of what it looks like. Are… I'm gonna ask this? Like this video gave a ton of amazing information. But was there an item in there or any questions that you saw based on starting to see how it comes to light that sparks any curiosity? 
+
+22:22 | Brittany
+Yeah. For me. So, is that just kind of the one of the portion or the follow up of the training? So there's like a, is there a elearning a, coaching, an online session? And then like this is kind of like the follow up work or how does that work? 
+
+22:38 | Charlie
+Yeah. So that's a great question. So let me pull up… test. 
+
+22:53 | Charlie
+So. 
+
+23:02 | Charlie
+So, this is what the platform actually looks like. It's just a second. So to answer your question, Hive learning is its own platform. Like I mentioned, it bolts onto your LMS like it or integrates with it or can stand on its own. It's both mobile first as well as laptop or desktop accessible. So we do have a mobile app for really focused on having something that's accessible on phones and. 
+
+23:30 | Brittany
+Create learning. 
+
+23:31 | Charlie
+That looks like this. We create sprints to put them on the button. And within those sprints are bite size lens. The other piece secret sauce that I didn't tell you earlier here micro learning we have found with adult audiences, especially starts to really overcome that forgetting curved folks have really important pieces of their jobs that it feels oftentimes at taking away an hour, two hours, three hours of their working day or a working week feels like a big ask when folks are working on projects especially in organization where things are moving quickly. We have changing objectives, changing goals every day every week. So we design our learning to only take about 15 minutes of learning each week within a given pathway that's you know, one of the weeks of a sprint, they're only going to engage with about 15 minutes of learning. And in order to help make that learning stick, we get to provide them with the buzz facilitators bought within the content or it can live within its own standalone card. And actually I think I've picked of course, an organization that does not demonstrate add… but to answer your question buzz fail together, be turned on to answer your question, buzz facilitate does both. So it can live within the content itself like a in the moment practice or folks to be able to, on this card, you learned about how to effective conversations around. You. Saw the example that was kind of export those types of situations and that can live right there within its own card. Or it can live as a follow up card as a post program, post event, type of follow up to practice or give feedback and capture that type of sentiment of it back to them. Does that answer your questions a little bit? 
+
+25:28 | Brittany
+Yeah. And so are there any like online facilitate led trainings or is it truly just online bite size courses with the AI bought support? 
+
+25:44 | Charlie
+Yeah. So at Hive, we are focused on the elearning piece. It sounds like there's an emphasis around that hybrid learning. You mentioned to me at the top of the call as well about hybridizing, having stuff that's facilitated as well as an E learning piece. Something that we specialize in that we'd like to focus on is wrapping the elearning content around what you're doing in a lot of contexts. So what we're able to do utilizing our other tool buzz curator is if you have content that you're utilizing in your inperson or your virtual sessions that you're doing live, we can take that program guide notes facilitation material. We can put that into the above curator piece of the aon that will build learning programs, those sprints and pathways that I showed you. It will build those pieces of learning and those elements with the instructions to give it as a follow up and allow people to practice and get that behavior change, constant drift feed of the stuff you've already covered in those live sessions. So it's not a repetitive piece, rather it's a building on a fundamental piece. 
+
+26:57 | Brittany
+Okay. And so this would be all there as materials, yeah. 
+
+27:04 | Charlie
+And then to your other point that you gave earlier about how you have some material at Vera and then you're also potentially looking for stuff that's already ready off the shelf set to go. And then can be customized textualized to Vera. We have our own library of leadership development content that we can supplement, fill in, provide as part of the use of the platform to build out exactly what you need. We have our own inhouse learning experience team as well. So if there's a content card, I know you mentioned our own delegation of duties. And so we actually have content that's already built on delegation. And then we can have, you know, you and your customer success person that gets dedicated from Hive, work with our LX team to be able to say, all right here's how we're going to customize this to be as relevant to Vera as possible. And that is 100 percent verified. It's funny. It's created for Vera delivered for Vera and it lives within Vera use of the platform and no other organization is getting access to that. 
+
+28:10 | Brittany
+And those are all elearning, right there's. No facilitator high facilitator lead. 
+
+28:18 | Charlie
+Yeah. So we are the E learning piece. We, we just know that that's where our strategy and, our strengths and our ability to leverage our strengths beat into other people's strategies. 
+
+28:30 | Brittany
+Okay. Gotcha. And so this seems slightly similar to Linkedin learning. So how does this set apart from say Linkedin learning with their pathways and everything? Is it the AI side or what differentiates you to? 
+
+28:48 | Charlie
+Yeah, that's a great question. So, Linkedin learning is a great content resource. The couple of key differences between us and Linkedin learning is number one is the specificity of the content. So, Linkedin learning has a mass massive robust library. However that content is not specified and gotten granular down to the company values level. It's really great for teaching skills, is really great for the high level introductory pieces. However it does not drill, excuse me down to E, what makes Vera better? And how do we make it detailed enough that it's relevant to each cohorts roles within Vera as an organization. So specificity and, you know, uniqueness to each organization and customization is one piece. The other piece of that Linkedin learning is a kind of like an all you can eat bump a type of situation where folks are able to go in and access whatever learning they want. And a lot of the feedback that we've gotten from some organizations that we've worked with that have access to Linkedin learning is they get great use out of Linkedin learning. They see 100 percent use everybody's in learning. But when they dig into the data, they're seeing that their people are utilizing it to learn things that are really interesting to them as an individual. But it's not necessarily relevant to the organization as a whole. So people will utilize Linkedin learning to get photoshop certified or to get, you know, AI certified, which is great if that's the business of strategy. 
+
+30:23 | Brittany
+Not something that's. 
+
+30:24 | Charlie
+pertinent to that martyr's role or the learning that they're looking to take on as a rating. It's a spend that's not going towards the strategic objective of the learning. So whereas that's like an all you can eat, we'd like to think of ourselves like you're going to most like we're gonna help you go through the line and we're gonna tell you all right, in this section, you can pick your rice, you know, your beans, your vegetables or however you're gonna do that. But at the end of the day, you're gonna end up with a barrio, no matter pretty much no, no matter how you're gonna shake this. You're gonna end up with the same thing, but you're going to customize it your way. 
+
+31:00 | Brittany
+Okay. That's fine. 
+
+31:02 | Charlie
+First time I've ever use that analogy, I have no idea if that landed or not… still kind of hungry sideways with the mosash. 
+
+31:11 | Brittany
+Fire fire right now, it definitely makes sense. I think that other question I'm sure that most people have is, you know, the cost and the structure and what does that look like as well? 
+
+31:23 | Charlie
+Yeah, absolutely. So we're a license based pricing structure. And so what we do is we work together to figure out a couple of things we figure out obviously that's around why I was asking what the total number of the audience would look like. So it depends on how many licenses we're gonna utilize and then also based on the scope of the work. So if we're gonna do multiple programs running at the same time, there is gonna be a little bit more of an additional cost rather than running one program at any given time. But by working together after we get an opportunity to I'll show you a demo, maybe have a brainstorming session where we start to flush out. What does success in a proof of concept look like with Vera, we'll give you a tailored pricing option that shows out where does everything line up in terms of what you're getting for the dollar value? But also it shows economies of scale. So if you go with a larger number of people going through it, your price per head is going to come down significantly. So is a, is that something that is relevant to Vera? What you're thinking about? Or are you looking for something that's kind of like, here's, the sticker price we take it or be the type of situation? 
+
+32:37 | Brittany
+No, I totally understand the flexibility with the sugar price depending on most likely length the contract, how many people that we're going to do and everything like that. But I think it's also helpful to say it's 20,000 dollars versus 500 dollars. And just kind of knowing what kind of that wall park is to start out with is also helpful. 
+
+32:58 | Charlie
+Yeah. Is, is it better to show indicative pricing with a total cost of the project? Or is it better to show pricing based on price per alert? 
+
+33:09 | Brittany
+Price for leader, did you say? 
+
+33:11 | Charlie
+Leader learner price? 
+
+33:15 | Brittany
+I think it would be helpful for kind of that price per learner… but potentially it could be also the overall project because you're gonna have those other ancillary costs that aren't necessarily covered by the price per learner. So I would say ballpark if we do a high potential program for a year for 20 liters, kind of what does that price per leader kind of equate to? Would be helpful? Because I don't know if we would necessarily want to sign up for multiple years at the beginning just to kind of figure out, hey, is this pilot working? Is it not working? Do we want to pivot and I would hate to be locked in to something from the kick? 
+
+34:03 | Charlie
+And that's exactly how we design our fruitful concepts. Is therefore a specific time box, most of our pocs run from six to 12 months, right? So one you six months to a year is our bread and butter for these types of opportunities. And then at the end of it, we utilize this piece of our AI tooling is buzz insights. It's our data analysis tool. And so what's unique about buzz insights is that it doesn't just do your quantitative analysis. So that your survey resolves your quizzes, your poles is actually able to do qualitative sentiment analysis. So I showed you the platform very briefly where people are a share, they're putting stuff into that buzz facilitated tool. All of that stuff that is open dial, it's not closed ended responses. Buzz insights, be able to analyze that and surface up not only insights but also suggestions on how to iterate learning for the future. And so at the end of the proof of concept and throughout the life proof of concept. And then especially at the end, we can lean on buzz insights to give you not only data that shows what your learners are taking away. It can show the ROI piece as well. And then that can also help color the context of, you know, is a sign that we want to keep growing with building and iterating for a future, you know, like of the contract. 
+
+35:22 | Brittany
+Awesome. 
+
+35:24 | Charlie
+What we usually do from here, I'll definitely if you have any more questions, but, you know, consciously, we only have about five minutes left. What we usually do from here is our next steps are typically to, you know, set up some more time for a demo where I can actually take you in depth, into the product into the platform, show you the bells and whistles, focus on the things that are really important and relevant to you. It sounds like both facilitators is a big one. And then also where does the platform actually come to life? What does the user experience look like? And then after that demonstration will have us, you know, a session where we sit down and brainstorm will, you know, throw some sticky notes up on a digital light board, figure out what is a proof of concept, really look like? What do we want to? 
+
+36:08 | Brittany
+Drill. 
+
+36:09 | Charlie
+Down upon what's top of mind for you, for Vera and for your runners. And then once we have that kind of big picture scope of where does a poc want to go from here? I'll take that away. I'll build you the Vera specified proof of concept including indicative pricing and what all is gonna be within any particular poc option. And then from there, we can sit down with your team, our team and actually start to figure out if a next step sounds like it's if it's appropriate. Does that sound okay to you or did I totally muddy the water there explanation? 
+
+36:45 | Brittany
+No, no, that makes sense. I think two things that came up this one we are going to be integrating our implementing workday in a year or two. Is that something with birthday learning that you plug into? 
+
+36:59 | Charlie
+Yes, absolutely. So this is realize this slide that I didn't get a chance to show you. But where we actually live within an HR tech stack, is it in between all of these things? So thinking about workday as your HCM, you know, having its learning function as well, we can integrate with it's learning function as well as with its HRIS piece so that we're building learning cohorts, you know. So like you mentioned, you know, your high potential, your POS might live across a, you know, variety of different departments. Our integration can talk with workday and help you very quickly identify your learning cohorts and pull them through at once rather than having to go in and click all the boxes and do all the tedious work of moving people over one by one but we live as an integration partner to workday to do to all those other, you know, pieces. 
+
+37:51 | Brittany
+Awesome… is because I know an initial question will be price. Is there any way to give me a ballpark before going through two to three more steps? 
+
+38:07 | Charlie
+I can do my best to put something together with a ballpark. It sounds like price is gonna be a particularly important piece. You had mentioned that Vera is, you know, going through a lot of transformation right now. So I think what would help me do a really good and fair approach to any sort of indicative pricing was if you have any visibility or ballpark number are as far as budget availability, that way, I can come in with an opportunity to show you how we can fit into what you're thinking about rather than us come in and show you. This is what we would charge. And then you feel like I completely stepped on, you know, step on something that's completely outside of what your scope is gonna be. 
+
+38:52 | Brittany
+No. And I think that's where we're both kind of the chicken or the egg where we don't necessarily have an outline budget right now, that's where it's like, hey, do I need to ask for a 1,000,000 dollars or do I need to ask for like what does that look like in starting in 2025? So unfortunately, I don't have like a ballpark to be able to give. 
+
+39:15 | Charlie
+So what I can do is take away from this conversation, I can talk with my team over here with, the brief notes that I have and knowing like you're looking at potentially around 50 people is, your potential starting point? I can put together a, really high level proposal of what indicative pricing would look like. The more obviously that has a lot of room at this stage to be subject to change? 
+
+39:47 | Brittany
+But I can just give you. 
+
+39:50 | Charlie
+an idea of what, the scope is. Does that, does that sound fair? 
+
+39:56 | Brittany
+Totally. I think that's very helpful. And I'm definitely not necessarily wanting to take this quote and being like, nope, that's what you said, like we can't go over it's more of like what is that landing area look like? Obviously having items that are going to be updated, changed, added deleted are going to also change that price, which I'm totally cognizant of. 
+
+40:22 | Charlie
+Sure. And I wonder if in order to make this as relevant to the scope that you're describing here and giving me an opportunity to better understand a little bit more of the scope, that way I can get this as close to accurate as I can possibly do. It, would it be, would it be pertinent for you to have to sit down and do the demo piece, show you where the platform fits in and show you how it all works? You can we can start to like talk actually, I see where this piece of the puzzle might fit in with what I'm thinking about. And then after that demo, I can send over. So rather than going through like two or three steps, what we're seeing in, you know, indicative pricing, you think we could do one more step where we show you a little bit more and then I can show you something after the fact. 
+
+41:12 | Brittany
+Yeah, that's possible. That's a possibility. We're currently going through a little bit of a reorg or restructure with within HR just because the new cpo did come in recently. And so I would say the next step if and when we do that demo would probably be early july because that's when my say new manager will be official. She's currently offloading other work at the moment. I think we could do that as well. Let me connect with her to kind of see what her thoughts are, where we're going with this and kind of that time frame. And you and I can definitely be in touch. 
+
+42:00 | Charlie
+Yeah, that sounds great. I'm just looking at my calendar if you wanna put, if we want to put a placeholder in the week after july four? 
+
+42:08 | Brittany
+Sure. Let me see. 
+
+42:10 | Charlie
+And then if we need to Booth but we absolutely can. 
+
+42:13 | Brittany
+Okay. What about… the 11 through the twelfth? 
+
+42:21 | Charlie
+Yeah, am wide open on the eleventh anytime after 11 am eastern. So it'd be nine am mountain time? 
+
+42:35 | Brittany
+Can we tentatively plan on 10 am mountain time, noon, your time on the first on the eleventh? 
+
+42:44 | Charlie
+Sure. And are you good for 60 minutes for the demo? Awesome? And if you'd like we can, I'll send you the invite and feel free to forward that to your manager. If you'd like for her to join us as many people more the merry or you by as many people as you'd like, to join us to sit in and ask questions. And then in the meantime, I will work on talking to my team on this end to see if we can get some indicative pricing before that. I'm not sure what I'm not sure what the feedback will be there, but we'll be happy, to make the ask for you. And then in the interim, we add a couple more. I know that you've been sent one of our webinars. We have another webinar coming up. And then we also actually have a data group that's getting some free hands on time with… they are actually launching in 10 days. They're gonna launch that data group on the twentieth. If you're interested in doing the data that's totally free, just it's an opportunity to give some feedback to us so we can keep betting better. And then an opportunity to tend to get a play, with the landscape at that. Feels like something that you'd be interested in. 
+
+43:55 | Brittany
+Sure. Absolutely. Cool. 
+
+43:56 | Charlie
+I will send your information to your name and e-mail address to our data team and they will send you over it'll. Probably come from someone named izzy or someone named Anna in our, from Hive learning. So if you see come over from them, that'll be the deeper information on the basis. 
+
+44:18 | Brittany
+Sounds like a plan. I do have to jump but I appreciate it. I appreciate your time and I'll look for those few things to come over my e-mail. 
+
+44:27 | Charlie
+sounds great. Thanks, Brittany. Have a great rest of your week. 
+
+44:30 | Brittany
+Thanks you too. Bye. 

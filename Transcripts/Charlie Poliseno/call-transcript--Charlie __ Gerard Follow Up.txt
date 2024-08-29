@@ -1,0 +1,156 @@
+Charlie <> Gerard Follow Up
+
+Charlie Poliseno with Wright Service
+Recorded on Jul 9, 2024 via Zoom, 31m
+
+
+
+Participants
+
+Hive Learning
+Charlie Poliseno
+
+Wright Service
+Gerard Krupke, Talent and Leadership Development Business Partner
+
+
+
+Transcript
+
+0:00 | Charlie
+so the last time we chatted, we talked a little bit about and you gave me a good insight into kind of the leadership development dynamics at right service, the fact that you've got a ton of different organizations all under the right service umbrella and some of the leadership focuses that you have and particularly leaning into things and correct me if I, if I'm misremembering around particularly like new hires onboarding, bringing people on that leadership journey to get them kind of brought up to speed on right service and those values that they were that you're pursuing. Am I a little bit far off there? 
+
+0:39 | Gerard
+I wouldn't say it's related to onboarding so much. There are new programs being rolled out this year or kind of one program is being revamped, rebranded and another one is just rolling out. So level one leaders, these aren't necessarily new to write. They might not even be new to their role, but their level one leadership in the company, you know, and some of these guys, they might stay in that role for a long time if they really enjoy what they're doing and don't feel like they need to move up to middle management. So this is that's the brand new program that we're rolling out. 
+
+1:19 | Charlie
+And then the one that's getting revamped and rebranded, what's that one? 
+
+1:22 | Gerard
+That's the executive level and the executives. 
+
+1:31 | Gerard
+Awesome. 
+
+1:33 | Charlie
+The last time we spoke, I know we got a little bit cut for time in terms of being able to just making my note there, being able to talk a little bit about how Hive has come into play and been able to work and help some organizations be able to utilize AI to help some of those leadership transformations go a little bit faster. I'm gonna go ahead and share my screen… and I believe, correct me, if I'm wrong, but we were talking and I was able to show you a little bit about the… virgin money use case. Was that right? Does this? 
+
+2:13 | Gerard
+I don't think we got into this at all. We got a, we started a little bit late and then we got time cap before we started sure. 
+
+2:23 | Charlie
+Perfect. So I'll we'll kick off with a little bit of an explanation about what exactly Hive does, who we are, and then we'll I'll tell you a little bit about like the tools and how they sort of start to come to life. But hopefully you can see my screen and we are gonna kick off by talking a little bit about… an example of where Hive came into play to help with a leadership program within a large organization. So hopefully this resonates a little bit with you. But virgin money is a retail bank in the UK. So not the same as right service but… virgin money, part of Richard bransons, virgin empire, it says banking arm and they came to us with a challenge that was they had a merger and acquisition process that brought three new businesses under the element and the arm of virgin money. And you have three different leadership cultures coming together, a three different leadership and they all needed to get moulded under the a life more virgin mantra vision and ethos that virgin money was putting forward for all of their employees. Their leaders were under more pressure. They needed to manage an entirely different set of employees, some of which were coming from cultures completely different from their own. And they needed to be able to make this leadership transformation more uniform, more easily accessible and allow people to actually wanted to see people actually engage with it. And so what we did with virgin money was we built an 18 month program that was able to embed those critical leadership capabilities within their flow of work, doing so by utilizing learning sprints to have people actually go through a time box learning journey that met them in the flow of, the work that they were doing. So five minutes of learning a day typically capping out at 17 to 18 minutes of learning a week and focusing on across the six part that were key to virgin money's mantra and ethos each of those sprints were designed to prioritize learning and make sure that people weren't going side track, you know, like you can easily do and things like Linkedin, learning where, you know, can kind of go down a rabbit hole that takes you away from the work that you know, or the learning that's important to your work and being able to implement learnings between sprints that kept people engaged as the new learning plan was being implemented. So what actually shook out from that was that we had kind of a natural control group come out of this. So we had 47 percent of the leadership population actually self select to participate. This wasn't compulsory. This was completely voluntary, 47 percent self selected to join that, you know, represented 564 people and 882 total actions were taken across for 75 percent taking part in self selecting a challenge and actually tackling it within their learning. The number that I want to call out here. These are great statistics showing, you know, massive statistically significant improvements. But the one that I think stands out most is that leaders who were active on a sprint, their direct reports demonstrated double their engagement rates in terms of faster growth and particularly in building trust than their peers whose leaders did not take part in the leadership development or the leadership program that version money went through with high. The, the reasons for that coming down to really the fact that their leaders, their middle managers play such a significant role in developing the leaders that sit beneath them. And we were able to make sure that this learning was able to be easily accessed and highly engaging. Does that particular use case in stories sort of resonate with some of the stuff that you're working on at right service and stuff that's important in the future or does this sort of not align? And we need to take a conversation a little bit of a different direction? 
+
+6:23 | Gerard
+It sounds like it aligns with some of, the things that are happening. 
+
+6:28 | Charlie
+Excellent. The, I think one of the questions that I asked in our last conversation coming back to some of my notes were the idea around utilizing AI. And I know that being a new… piece of the tech stack puzzle for a lot of organizations. Is AI, something that right service is leaning into at the moment? Is it something that's being explored? I know that was something that you talked to me quite a bit about your, you know, involvement in other aspects, and other groups, you know, helping make decisions with AI. Has that conversation kind of continue to evolve and change for right service group? 
+
+7:06 | Gerard
+Right now, the conversation is not happening. We were told that there there's like, I don't know how many parts. It is a roll out of workday that is in conjunction with… I guess you could say rebranding and fully onboarding, several different company acquisitions fully into rights… processes, operations and workday in was a new platform for us before I started this was already moving and it's pretty heavy lift in the next few months. And I said basically the conversation would start up sometime again in october. And that conversation as I'm aware is probably limited to more like, well, at least the plan, maybe there's nothing else on the radar in terms of generative AI use? 
+
+8:07 | Charlie
+So being able to utilize AI, if I remember our conversation from last time, it was like wanting to see what workdays capabilities were in terms of gna, making sure there's not a duplication of effort as well as making sure that it's a seamless roll out for right service that it doesn't like interrupt what's going on already. 
+
+8:26 | Gerard
+Well, I think in more, there's just a caution about, you know, all of E, what seems to be uncertainty over data that's training on and bandwidth for the particular role, in the it department. There's there's one guy who kind of oversees the data risk for the it department and he made it somewhat clear that his bandwidth is not able to take on what would be kind of company policy regarding aid. So, I think that's the conversation that's going to happen in october. My, my department head knows about, my interest and my experience with generative AI, and wants me to be involved with as much as I'm able to seat at the table or those conversations. But I think in general, it sounds like that's going to happen all at the director level even in october. 
+
+9:28 | Charlie
+Okay. So it's gonna be probably a conversation if something here is compelling enough to explore something that we maybe want to bring in not only your director but perhaps, your it partner as well to hopefully demonstrate that there's not a major lift on that capacity. Is that, am I close on that? 
+
+9:48 | Gerard
+Perhaps, yes. 
+
+9:49 | Charlie
+Okay. Excellent. Well, I just want to show a little bit about what we're thinking about in Gene definitely would love to get your feedback on some of the stuff, knowing your expertise and your background would generative AI particularly in the learning and upscaling space. What we're focused on at Hive is providing tools for learning development, talent, upscaling, that makes the job so much easier by taking some of that tedious aspect of program development and delivery and allowing that to be managed through AI simplicity. So, we've got our five tools that kind of exist all under the buzz umbrella. And at the foundation level is the Hive Learning platform, the secret sauce to, the learning and development and the engagement and those results that we saw with virgin money and our other clients is utilizing social learning. So being able to engage folks in a psychologically safe environment where they can come in and share the aspects of their leadership development journey with each other? They get that, you know, fear of missing out aspect of I see my friends, my coworkers going through this learning journey. I don't want to be left out or perhaps for a lot more of our professional colleagues. It's that fear of being seen missing out. It's my manager is a part of this. I don't want to be seen as being the guy who's not participating. I want to engage in this as well. And that helps make the learning a little bit more sticky. What builds off of the top of that platform are the AI tools namely being a buzz curator, which is our information synthesizer. And what bus curate aspect, is we're able to utilize bus curator to take those pieces of leadership development material that you and your team have worked really hard to create or perhaps previously invested in that live across an entire, you know, google drive or cloud or sharepoint, and being able to bring those into one easily accessible space and then be able to build cohesive learning journeys off of that data and information. So basically being able to utilize it, type right into it and say build me a six week learning journey on the Patrick lenses five dysfunction of a team just to pull something off the top of my head. And then it can do exactly that, build you those, you know, micro learning journeys for those participants. Bus facilitator then takes on the role of our coach box. So it's our AI coach where people are able to go in practice having difficult conversations or never let a one to one before. How do I help my direct reports? Go on this, you know, journey towards growing trusts? What are some of the things that I can talk about? And utilize buzz facilitator in that fashion to actually practice those conversations. Buzz insights is our data analysis. So not only being able to do the quantitative data but being able to also do qualitative analysis of feedback that's being pumped into the platform whether that's through the social learning construct or through buzz facilitator feedback and show you where are people leaning in and leaning out of their learning? Where can we iterate to improve our learning functions for the future? And then buzz sidekick is our newest piece. Not sure that it's super relevant for our conversation, but I'll let you know that it's there. Sidekick is our copilot type of tool that is able to similar to curator on board and ingest existing documentation and then be able to access it very quickly and easily from anywhere. The material that you're looking for. So for a leadership development example, if you have leadership cards, if you have items that are needing to be pulled up at a moment's, notice, you know, prepping for a leadership meeting, being able to type right into buzz sidekick and say, bring me up the profile for, you know, XY and Z leadership strategy that we're executing right now and put it in front of me. And then it's able to access. Is any of that a relevant tooling that you think is particularly interesting that you'd like to learn a little bit more about? Or is there something that you have some questions on at this moment in time? 
+
+13:51 | Gerard
+You mentioned like a unions training, how much, what is your ability or what is, you know, utilizing copyright of content look like, how does that work within your platform? 
+
+14:05 | Charlie
+Yeah. So that was probably not the greatest example. Just the one that came round on top of my head. So. 
+
+14:09 | Gerard
+Is. 
+
+14:10 | Charlie
+the, is the content that you would O, that you already have owned and created. So, if you and your team have built a leadership curriculum, a powerpoint slide deck, a leadership ethos and mantra handbook, playbook, whatever that might be and be able to host that the IP, you know, is owned by you as the company who's provided created built, it just hosts and exists within our platform for easy accessibility. 
+
+14:37 | Gerard
+Yeah, leadership space is such a weird space in terms of copyright because some ideas, it can just be repackaged and then it's a different, you know, it's the same idea, a slightly different wording right now. I think, we tend to utilize a lot of pre packaged content or… local vendors that run some of the leadership development within those programs. I'm not aware that we have a lot of, you know… right? Created training resources. I think most of what we do is pre packaged content or developed in partnership with local learning vendors. 
+
+15:26 | Charlie
+Gotcha. So it sounds like the ability to synthesize, you know, some of the content maybe isn't the right aspect is, right? Yeah. 
+
+15:36 | Gerard
+Yeah, I, it's hard to avoid the word, I mean, in meetings. I've just stopped acknowledging it, but every time somebody says, right, I, yeah, something pops up in my mind. Yeah, it's hard to avoid. 
+
+15:49 | Charlie
+The, the unintentional pun and play on words assign. It sounds like bus curator is probably not the right piece of the puzzle but being able to, I'm curious, you know, even if this is taking it out of the right service context, but like a tool like a coach, but like bus facilitators, being able to have leaders. I'm thinking about, your level one leaders that are, you know, perhaps, I know you said some of them have been leaders before, but perhaps or new leaders or first time leaders, being able to practice things like difficult conversations, being able to practice one to one being able to, you know, kind of model, and test flight, their skills and get feedback before taking it live with a direct report or a colleague. Is that something that is a tool that right service would find particularly helpful? 
+
+16:40 | Gerard
+I think we have probably two, maybe three different groups of people that I can imagine it would either be helpful or not helpful. We have a large contingent of our population are like blue collar on site. I'm cutting a tree down. They do all their communication through mobile devices. They, they have a computer, level one leaders have a computer. But I imagine a lot of the work that they do is they're driving in their truck going from site to site, talking to people. And that's the largest contingent of… rights worker population. I think we have somewhere we're north of 5,000 total employees. And I want to say that components more than three of that. It's a large it's well over. Yeah. So, and then we have that are maybe office workers, people with clinch degrees, advanced degrees. So I think there's a couple of different groups right now. It feels like… I'm just not aware of it. There's not a lot of discussion around utilizing generative AI tools. I think there's a, and one of the things that I'm just curious to know more about. Hopefully as we get closer to october, these are things that we can discover is what is the general interest understanding experience currently? Because, I would hope that people are like, wow, this is a cool tool. You know, it's almost like people have to get sprinkled with the idea over time before they can really dive in and get everything out of it. In terms of the tool itself. There's almost maybe a level of… maybe mis trust is a strong word, but I think it seems like it, right? Because a lot of the company works in this blue collar sort of industry, even VPS that kind of came up through that pipeline. They don't… I guess maybe proper, they're not early adopters of tech tools just. 
+
+19:01 | Charlie
+Sure. 
+
+19:02 | Gerard
+So there's probably a barrier to a larger contingent, but I mean, obviously, I look at stuff like this and I think this is the future that even if it doesn't happen now, it's probably five, 10 years down the road. Everybody's using something like this. And I'm all for like doing a pilot program, you know, there there might be a group of people that would find this useful. Well, they would find it useful. I'm sure they would find it useful there's… so, I don't know if that a, I circled around the question enough to answer what you originally asked. 
+
+19:45 | Charlie
+Yeah. And it set up a good segue for, my next question which was, you know, the around a pilot type of setup, which would be, you know, I know that a lot of the conversations are kind of predicated on what happens in october. My, my follow on to that would be if there was a, an option that you could put in front of your director and your it, you know, partner, that was a small pilot group of, you know, and call it 50 people that you could test, you know, test, fly this out. You're getting your data insights back, your being able to show them genuine concrete numbers of this is really how impactful a tool like this has been. This is what this is the insights we're cleaning. These are how people are using it. We've got qualitative quantitative coming out of this. Is that something that, you know, you hand pick, your pilot group? Is that something that you feel like is more in the appetite of what right would tackle to start off? Or is, I guess I'm learning about rights culture as well, you know, is a, are they more of an organization would want to go whole hog? 
+
+21:03 | Gerard
+Right now, because of the giant undertaking in… workday, I think the appetite for taking on another thing who, would be low. The, I think the other maybe a bigger barrier it is we use a lot of pre packaged content and, I just don't know what it would look like… utilizing this tool without being able to… have any of that copyrighted or proprietary content available for use. I just don't know what that looks like? 
+
+21:43 | Charlie
+Right. So, would it make, would it make sense for me to go into, and ask our, both our legal and our tech team about how do we net challenges of copyright and material for potential partners that are utilizing? 
+
+22:02 | Gerard
+I think there's an opportunity, for you to become experts in navigating, like I said, the leadership space is kind of an odd space in terms of idea repackaging that, you can basically say this thing in a slightly different way. And… yeah, because… obviously you want to fly in the opposite direction, of being out of compliance and particularly that's, the fear worry hesitation barrier around a lot of AI tools is the uncertainty of training, of that showing up in other places. Obviously, that's why you would use any copyrighted data because it's not ours to train the model, et cetera. But what does it look like if you are an organization that tends to use pre packaged content and even like what are the most common prepackaged content that tend to be used for leadership development? Are there even… existing materials out there that are more like open source, or public domain type things that can mimic those ideas? Does make it more, yeah. Appetizer. Does? 
+
+23:20 | Charlie
+The calculus changed? And, and, I didn't bring this up, and pre suppose it with buzz curator because I didn't want to step on, the work that, you know, you and, your co or your vendors have done in building right leadership development, you know, curriculum. But through, the work that we've done with some of our leadership development partners, virgin money being one of them, we've built a repository of our own internal leadership development curriculum that buzz curator could utilize. So we do have content that we own the IP to that have the opportunity to leverage for other partners? Is if there was something that was coming with additional content? So you didn't have to, you know, step on the toes of IP and copyright utilizing additional content that we've created. Is there an appetite to take on additional leadership development content and deliver it in that fashion? Or is there less of an appetite for that azure, you know, existing relationships are already, you know, kind of in flight? 
+
+24:28 | Gerard
+I was not a part of the development process for the roll out of ascent. The basically showed up and then the next month it was kickoff and I know there was probably more than a year's worth, of iterating of getting needs analysis of talking to leaders and all that back and forth. So, I'm not sure all of the content providers, or different training modules they looked at. We ended up using Franklin covey material because it… it's ubiquitous people know about it. It's it's language that can be used at kind of any level, but it didn't seem like there's, a marriage to it. This is a pilot. We're doing a lot of, a lot of surveying, a lot of gathering of data to see if it's truly effective. The needs analysis they did was really good. And so there is a lot of detailed attention towards. Are we hitting these marks that leaders within right? Kind of told us for priorities for this level one to development program? Okay. I don't think there's a strict marriage to the content necessarily more. So if we find something appropriate that meets these goals and also delivers impact, then I don't I, yeah, I don't think that's like where we're now connected to because we even had the conversation recently, are we ready to re up for Franklin covey at this point? Or are we going to wait and see? 
+
+26:04 | Charlie
+What, what came out of that needs analysis? Like what are the areas that you're focused on? 
+
+26:10 | Gerard
+Man, there's so many things swirling. IU, I mean, I would say it's a lot of like emotional intelligence, understanding both business relationships and managerial relationships… how to handle those effectively, particularly in difficult situations. And also how to set up and how to set up your team for success and manage well. So, I think it's a lot of people management, soft skills, sorts of things. 
+
+26:39 | Charlie
+I wanna let me pull up something here and see if this resonates with you at all. 
+
+26:52 | Charlie
+And, my follow on ask at the end of this is going to be if a demo, is relevant. So this will give you, a taste of what some of the content looks like. And maybe a demo of how does this actually come to life… start to answer that question? Let me reshare. 
+
+27:23 | Charlie
+Right. So this is a, so this is just our internal resources page. So it doesn't look particularly pretty. It's not branded. It's not been re colored or anything. But this is where we have our leadership development resources house that can then be re surfaced for any particular clients utilization. But we've got, you know, to your point around emotional intelligence, you know, demonstrating what a psychological safety as one example. And then within this pathway or four cards that touch on, yeah, let me pull up this first card just to show you an example of what the content looks like. So this is what the, you know, your end learner would see. This is a card that was built obviously in 2023 so utilizing buzz curator, we can go in and update it for, you know, new or current events may contextualized whatever we want to, you know, do to design it. But the idea being that a particular card that a learner engages with is no more than five minutes to seven minutes long. So they don't feel like there's a major lift in terms of having to come in and engage, but being able to start diving into psychological safety, providing them with resources, you know, multimedia fashion. So for those people who don't like something that's particularly text heavy, giving some points that they don't have the ability to watch the actual video poles, buzz curator can actually build these poles through AI. So you don't actually have to go in and type these out… coming through and providing some more information. And then to the point that I was sharing with you earlier, the social learning aspect, you know, coming in and being able to provide commentary discussion, what resonated, what doesn't resonate? And then that gets pulled into buzz insights to surface up some of those insights about how do we actually iterate this for the future? I'll go back to the resources page so you can start to see a little bit more of the depth of what goes in… inclusivity, time management, knowing your people. I think we actually have an entire pathway on difficult conversations built in here somewhere. But this is like our like I was saying, our leadership content library that we've built. So this is all stuff that we own that we can share. And I'm not sure if this is something that would resonate with you, as you're looking to build out that future plan? Would it make sense to find a time to show you how the actual tools come together? What it looks like with this stuff in mind for a future roll out for right? 
+
+30:01 | Gerard
+I think I've seen enough to kinda understand what this is and I can discuss it with my manager. I don't think it would be appropriate to schedule a full demo though at this point where we're on the early ends of rolling out ascent, we're building our other leadership development programs, but it doesn't seem like… this would maybe fit the needs or the operations for those two programs is as much as I know, but, I can pass some of this on in our one on one. 
+
+30:36 | Charlie
+Yeah, absolutely. If there's you know, if there's any information that is lacking that you'd like to share, you know, with you with your director or have any additional questions, totally happy to answer for those. But it sounds like what probably is the best follow up would be to reach back out after your october meeting, you know, maybe before thanksgiving, see how things went. And if there's an opportunity to, you know, have that conversation around the gnaipce, when the time is a little bit more, you know, relevant to the conversation is going on wider at right? 
+
+31:09 | Gerard
+Yeah, that's probably appropriate. 
+
+31:11 | Charlie
+Okay. That sounds great. I appreciate your time this afternoon. 
+
+31:17 | Gerard
+Likewise, thanks for showing me all the stuff Charlie. 
+
+31:19 | Charlie
+Of course. Have a great one you. 
+
+31:21 | Gerard
+Too. Bye bye. 
+
+31:22 | Charlie
+Bye bye. 

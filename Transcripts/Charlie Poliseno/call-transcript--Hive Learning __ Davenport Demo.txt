@@ -1,0 +1,246 @@
+Hive Learning <> Davenport Demo
+
+Charlie Poliseno with Davenport & Company
+Recorded on Aug 15, 2024 via Zoom, 51m
+
+
+
+Participants
+
+Hive Learning
+Charlie Poliseno
+
+Davenport & Company
+Tammy Kane, Head of Training
+
+Other
+Brent Mistr
+
+
+
+Transcript
+
+0:00 | Brent
+That's a tough question. You know, I guess one thing at Davenport that I've come to notice in being here is that everybody's situation is a little bit different in terms of what they're looking for and how they want to run their practice. So I guess in a broader sense, it's more of like fine tuning all the existing programs we have to better help people in all their different situations and how they run their teams and how they're organized. 
+
+0:31 | Charlie
+It sounds like it's tailoring and personalizing that learning for different branches, different locations and practices and being able to have people access kind of what they specifically need for their area that they need the most focus in. Am I hearing that right or is there a little bit more of a nuance to it? 
+
+0:49 | Brent
+No, that's a good way of putting it. Okay. 
+
+0:52 | Charlie
+Cool. So I'm just going to do, Tammy, this will look familiar to you. I'm going to kind of breeze through it a little bit, but I just want it for Brent's sake to give a quick intro as to who we are and what we do, where we're coming from. And then I can actually go into a quick demo of some of the pieces of the puzzle here. But hopefully you can see my screen. It's got my two little tablets leaning on each other. Are you able to see that okay? Got it. Wonderful. Got it. Cool. So I'm happy to explain a little bit about our history here at Hive Learning. So we touched on a little bit about how do we make that learning actually stick. And basically at Hive, we've been around for just over 12 years and we've been, really lucky to be able to work with organizations like AT &T, like Barclays, like M &S, which is a grocery retailer over in the UK, being able to work with those organizations to bring learning to life and make it stick so that it stays in the flow of people's work. And it doesn't feel like an overwhelming ask. A lot of folks that we've spoken to have shared some challenges around what learning looks like currently and how do we make that feel and be perceived a little bit better so that folks are more engaged with what they're focusing on. So I'm not going to read all of these bullet points. I'll let you guys kind of take a look at them. The one that I think we hear most often is that folks are, really frustrated with that one size fits all type of upscaling solution that, you know, Brent, to your point that you've got folks in different locations and in all of those different locations in the various buckets of an organization. like. You've got needs that are, very different. And so offering a one size fits all approach leaves a lot to be desired because different folks at different stages of their careers or at different points in geographic location are going to need different things. And so how do we make that learning personalized and tailored? Also, while keeping in mind that big bottom box there that shows that the World Economic Forum shows that 50 percent of all employees are going to have to get upskilled or change their skilling starting in as early as next year. And that's kind of where we try to lean in and bring AI into the learning space in a way that makes sense in a way that's easily applicable and digestible so that people actually get that type of customized, personalized learning tailored to specifically what they need. I highlighted that one size fits all piece. Brent, Tammy, are there any pieces on this slide that stand out to you as well as that one size fits all? Or did I completely miss my assumption on that one size fits all piece? 
+
+3:37 | Tammy
+I like the third bullet too about completion versus skill development. 
+
+3:45 | Charlie
+Yeah, so the focus on Yeah. Like the tick box, right? 
+
+3:50 | Tammy
+Yes, exactly. I was just going to say that. I was going to say check box, but. 
+
+3:55 | Charlie
+So I ordinarily would say check box. Obviously, we're headquartered in London, so a lot of my coworkers are British, and so they use tick box, so it's rubbed off on me. Brent, is there anything on the slide from your perspective that stands out as well? 
+
+4:15 | Brent
+I was just going to mention what Tammy said with the completion versus the actual skill development and knowledge of when they need to do something and why they need to do it, things of that nature. 
+
+4:26 | Charlie
+How does that come to life right now at Davenport? Are you guys focused mainly on completion metrics? Are you measuring skill development versus completion? Is there a way that you guys are trying to get through the status quo right now? 
+
+4:44 | Tammy
+When you say measure, I don't know as if we have a really systematic way to measure right now. So right now, it really is, and we're heavily focused, our priority right now is our client service associates and training new client service associates. And that's one of our priorities. We're slowly changing that, but up until recently, 
+
+5:17 | Tammy
+it really was, they would go through several hours of somebody just showing them how to complete different activities in the system, in our different systems, and then go ahead and go by yourself, really almost, and try it yourself. So it was kind of a check the box of, okay, I showed it to them once, and then, they had to rely on their peers and teammates to build that skill. 
+
+5:52 | Charlie
+And did that leave the door open for a lot of need for retraining and having to go back and revisit what they've already learned because multi hours, they're only going to retain so much, you're going to have to go back and do it again? 
+
+6:09 | Tammy
+Yeah, I actually went through that training the way it was in the past, and it was really hard for me to pay attention for hours and just sit and stare at a screen while somebody else did it. So that was really difficult. And then when I actually got back to my desk to try to do some of the things, I just really couldn't even remember how to log in at that point. So I think a lot of other people were in the same boat that Where they actually did a lot of their learning, unfortunately, has been with, was sitting with their teams or, other CSAs. And which is, you know, it's not a bad way to learn, I suppose, but it creates a burden for, those CSAs that are taking the time to do that. And, or our turnover rate at that, in that specific job, gosh, the last time I pulled the numbers, we had turnover rate of more than, gosh, I want to say, it's like, 20 percent a year. Wow. So, and I think that's a really good, I think part of the explanation for the high turnover rate is they're just not prepared. It's a very complex, very demanding job, and they go into it, not very well prepared. 
+
+7:34 | Charlie
+I can empathize with how, that must come to life and how that must feel for both, you know, yourself in a training role, but also for the CSAs that are feeling like they, they've got, you know, data overload, that they're trying to remember a 1,000 different things of how do we actually do this job properly. And I think that there's a couple of avenues that Hive might be able, to, Provide some value, and how do we actually improve that? I'm just starting to put together a plan in my head about what a potential pilot, or test case might be. Does, it sounds like CSAs are maybe a high priority area for you right now. If we're thinking about how it might come to life to test out something, would CSAs be that population that would be a natural kind of test and incubator, type of population for us? 
+
+8:27 | Tammy
+I would say so. A close second would be the financial advisors, but they, financial advisors probably would not be interested in testing too much. Would you agree, Brent? 
+
+8:38 | Brent
+Yes, I would definitely agree with that. 
+
+8:41 | Charlie
+Cool. Well, I, let me start to show you a little bit about what the tools actually are, where they start to fit in for these different types of uses. And then I'll actually go, into the platform itself and show you a little bit about how, it actually comes to life under the hood. So at Hive, we've got five different tools and they all center around our learning platform. So Tammy, you had mentioned kind of looking for a LMS type of product, or platform where people could, come in and access the material from one centralized location. And that is our platform. And the platform is focused on being a social learning environment for people. We know in adult learning theory, adults especially hate learning by themselves. They hate learning in a silo. They hate feeling like they're by themselves and just kind of in their own echo chamber of I'm giving to the computer, but I'm not really getting much back. And I don't feel like I'm doing this as part of my team. And so the platform is designed to facilitate that social learning, to generate comments and conversation around what we're learning, what's standing out, what's working, what's not. and allowing people to go on a learning journey together. And I'm going to show you exactly how that looks like. It's very social media ask, and that's very much by design and by strategy so that people feel like they have a native platform that they're familiar with how the layout comes together. And it feels very inviting and very intuitive from the get go. Moving to the left hand side there, I want to call out Buzz Curator. So Buzz Curator is our content development tool and our content synthesization tool. And so with that, if you've got those internal training documents, if you've got those slide decks that you've put together for these training type of modules, if you've got PDFs and employee handbooks, thinking about onboarding and retaining new hires, those types of things. If you have that material, we can ingest that into Buzz Curator and Buzz Curator can actually rip it apart and build it into a cohesive learning plan so that people can actually go in and access the learning modules and the learning cards in a fashion that's very native. They can travel through it in a very got, you know, common sense type of way, we can path it so that they can actually go through and get a learning journey that makes sense. And they don't feel like they're jumping back and forth and having to find something in SharePoint or in a Google Drive, trying to unbury them in all these different folders. Buzz Facilitator is our coach bot. It's our AI powered simulation tool. So if you've got, let's say you've got CSAs that are trying to figure out how do I have a difficult call with a client on the line, we can actually prompt the Buzz Facilitator coach bot to play that difficult customer. And you can actually have them walk through a call with the AI. The AI will then Play out the role play and then give feedback based on the metrics that we, you know, we've worked with you on building like what does good look like? And the Buzz Facilitator tool will actually give them that feedback so they can continue to practice and iterate over and over again. So you see those metrics start to tick up on customer satisfaction, on hopefully employee retention as well, because they feel like they're doing a good job in their role. Buzz Sidekick, I think would be particularly useful for your CSAs. And that's just our innovative type of lives, the co pilot type of product that your folks can, again, we can ingest any sort of documentation that your folks have access to or would need access to. Those could be compliance documents, they could be promotions, they could be, you know, material on the different financial products that you're offering. and have that material ready to go so that they can go in and type right into their internal comms platform. If you're a Slack or a Teams organization, it can integrate right into those tools. They can type right in. I'll show it to you in just a moment and ask any sort of question about the product that they're offering, and it'll surface it up for them so they have instant access to the information they need when they need it. And then Buzz Insights finally is our data tool. So being able to surface up the information and the data that will help guide future iterations of the learning plan. So it's not only the quantitative data like surveys, polls, NPS scores, those types of things that I'm sure you're probably familiar with, but it's also qualitative analysis. It's reading and it's generating its insights based on the interactions with the platform and Buzz Facilitator that your people are putting in very organically. it can surface up that qualitative data to show this is where people feel really good about their learning. This is where people perhaps need a little bit more time and attention and handholding. And these are some suggestions to help you achieve those metrics that you're looking for based on what we've coached the AI on. Does anything there stand out? Anything prompting any questions or maybe some brainstorming items? Is there anything that really stands out as potentially being super helpful and useful for you? 
+
+13:46 | Tammy
+I feel like there's a lot of things that we'll just keep going with CSAs or client service associates. I feel like there are a lot of activities that they perform that they don't do very often. So training on how to handle the death of a client and going through the checklist for that and distributions and things like that. You know, they may not need to know that day one walking in and they may not even need to know it in the first year that they're here. So training on that when they as soon as they walk on the door, they probably won't even need it. Hopefully, hopefully everybody stays happy and healthy, but they may not need it for a long time. Can you walk us through, and maybe it's later in the presentation, Maybe some of those, some on demand content like, oh, here's everything I need to know when there's a death of a client or, okay, cool. 
+
+14:46 | Charlie
+Yeah, absolutely. And I'm going to jump right into the platform here in just a second and show you how that might start to come to life. I just want to give Brent an opportunity. Is there anything for from your perspective, Brent, from the tools on the screen here that I've talked about briefly that stands out that you can see coming to life for the folks that you're working with? 
+
+15:06 | Brent
+I'm sure there's things on here. I'm just unfortunately not familiar with Hive or anything. So I'm just trying to absorb it all right now and get a good understanding of it. 
+
+15:17 | Charlie
+Yeah, absolutely. So I think I'm sure that we'll start to prompt some additional questions and some moments here as we switch over. So I'm actually going to jump over to. 
+
+15:27 | Tammy
+Oh, I do have a question for you, Charlie. Oh, sure. Does Hive Learning have access to lessons or content that are kind of almost stock content? Like if somebody wants to learn Java or if they want to learn how to deliver a great presentation or if they want to learn how, you know, any of those kind of stock training sessions, if you have access to those. 
+
+15:55 | Charlie
+Yeah, so we have an LX team here on staff that we can help in creating just about any of those bespoke type of technical skill type of trainings that you'd need, as well as specifically in things like leadership development, DE &I, those types of things. We actually have a library of content that we've already built in those areas. So I can actually show you really quickly an example of our leadership content. 
+
+16:32 | Charlie
+Here we go. 
+
+16:43 | Charlie
+And so this looks very, you know, very bland and very black and white and orange, I guess I could say. This one isn't white labeled. This is just our internal library for us to access and move resources around. But I'll show you in just a moment how some of that personalization starts to come to life as well. But as you can see, this is our internal library for leadership development content. And we have them broken out into sprints. And the reason that things are broken out into sprints is we know that learning curve is, very, excuse me, that forgetting curve is, very real. And that as people, to your point, Tammy, are going through these multi hour training sessions, it's really easy to forget content and really easy to forget the bottom line message that you want your learners to take away. So our pathways and our sprints are built to be broken out into these very small learning cards. So we'll start with this one just as a matter of example. Why does self awareness matter in leadership? And so you can see up here, this card was built to be only four minutes long. And so your learners can access this both from our web based app that I'm accessing it through here or on their phones, through our mobile app, wherever is easiest for them to access. But the content is designed to be super short and concise. this. It highlights the material that we want them to learn. We can embed polls and quizzes and other interactive elements so that people feel like they're engaging rather than just reading a whole big block of text. We can also embed things like videos and stuff to really hammer home the important pieces of material. And then as we come to the bottom, as you see, we have like embedded this video here. as we come to the bottom, you can see these tryout techniques, so things that they can remember to embed within their daily work. And then their key takeaway, if they've done what a lot of learners do, myself included, I've skimmed the card. I kind of got a couple of the key points, but I don't really know what my learning manager really wants me to take away and actually think about as a product of this learning. We've got our key takeaway section here. So if you remember nothing else on this card, we want you to remember this last little element. And then once they've completed this particular card, they can hit next and it'll automatically advance them to the next card in the pathway. I'll go back to that library page so that you can see a little bit of the depth on how this leadership development library comes to life. And like I mentioned, we can quickly create customized and bespoke learning content based on what you're looking for. But as you can see, we've got this depth of leadership development. It's going to load so I can infinite scroll here as well. So leadership development, sustainability, DE &I, we've already got a pretty robust library. And then as far as technical skills go, we can work hand in hand to build something that's bespoke for what you need. 
+
+19:32 | Tammy
+OK, so this looks like it's maybe your dashboard. And did you go ahead and assign these to your sprints or something like that? Is that kind of how it works? 
+
+19:44 | Charlie
+Yeah, so this is so this is just our dashboard for where our resources live. The actual platform I'll show you here. So this is a live sprint that we actually have running right now or a live program that we have running right now. And this one is based on DE &I. And so getting people up to speed and upskilled in terms of DE &I basics. How does it work? How do you prompt it? And what are some of the ethical concerns when it comes to implementing something like DE &I into your organization? So this is the dashboard and the home page that your folks would see as soon as they log into the platform. Here we have it personalized for our own internal innovator sprint. This can be white labeled to all of the colors for Davenport. We put the Davenport logo here and really make it customized and bespoke to what your organization looks like, feels like, and sounds like. This is designed to look sort of like your newsfeed page on Insert Social Media site here. And so you can see what's the most recent stuff that's gone on in the platform since my last login. I can see where people are commenting on a particularly popular post or card, and I can see exactly what's going on latest and greatest in our learning sprint. I can share if I've had a particular takeaway from a learning, something stood out. If I had a question for the group, I can come up here and I can make a post and that'll show up across the organization's main page here. I can add, you know, channel. I can add a particular group. And I can make sure that people are tagged there as well. I can share resources, links. I can hyperlink out to an external site if I had a brain blast and I wanted to share something across that I thought resonated with my team. I can build my own polls. I can really post similar to how I'm posting on like Facebook. Any sort of content that I want here to spur some thinking within my learning group. But if we actually wanted to take a look at the sprints that are going on within the program, this is our sprint that our learners are going through right now. And it's built up of one, two, three, four, five pathways that are focused on all the different elements of AI within our organization. And again, topic can be based on whatever you're looking to implement for your team. Within those pathways, again, are the learning cards. And as they get assigned these different pathways and these different sprints, it'll go in chronological order. So they'll progress through sprint one, they'll complete, and then they'll get access to sprint number two. We can time box the card. So if you don't want people to skip ahead and jump around, if you want it to be very chronological, we can make it so that these different cards don't get unlocked until they've completed the card before it. Again, the content, similar videos embedded. So this is one that our, my colleague Gemma built for this particular sprint. And so she's got our video embedded here and starting to create the intro to, our learning objectives here for this particular pathway. down at the bottom is where the magic starts to come to life for that social learning element. We've got people that can come in and comment, allows people to share, oh, this element actually really stood out to me, this element, not so much. This actually resonated with me from a past work experience. And you start to get that social collaborative learning that really makes it stick rather than, you know, that set it and forget it type of mindset for those checkbox type of exercises. sprint. Does that make sense and start to seem like it could come to life at Davenport? Or am I missing the boat on what you guys might be looking for? 
+
+23:23 | Tammy
+I think that's a good, I think that's a good, kind of overview of, the elements of the bespoke training and what could be possible. So, yeah. Yep. You know, our, our culture and our teams is, I mean, these, the people who are, You know, the CSAs and the advisors, they are very, for lack of a better word, and just, incredibly busy. So honestly, I don't see them. I don't see them playing around too much with, polls or sharing knowledge, sharing information. They might share within the team, but a team is usually only, maybe three or four people at the most. So, and it includes, advisors and advisors probably aren't going to be, interested in reading polls or looking at posts and learning. So, yeah. 
+
+24:35 | Charlie
+so it sounds like, the social element is maybe a little bit less important. 
+
+24:40 | Tammy
+I think so. I think so. Yeah. 
+
+24:42 | Charlie
+Okay. Not a problem. It sounds like perhaps, especially with the CSA population that you're describing that maybe the, buzz sidekick and buzz facilitator option is a little bit more relevant. Getting the access to information when and where they need it and being able to practice some of those like live call options. Is that, am I, 
+
+25:05 | Tammy
+Probably so. Yeah, probably so. 
+
+25:08 | Charlie
+Okay. And the, sorry, working from home, you can hear my dogs barking at squirtles. So let me pivot really quickly to showing you that. And what's really cool about, what we have to offer here is that it can be modularized. So if, If this doesn't really resonate with what you're looking for to deliver, we can just do the, facilitator and sidekick element, as something that, you know, would be a little bit more relevant to what you're looking at. Let me bring up my slack. Are you guys a slack organization or a teams organization by chance? Teams. Okay. So this will look very similar in teams. We're a slack organization, so I'm going to demo it here in slack, but it integrates with teams the same way. Let me pull up my slack and share this with you. So hopefully you can see my slack here. Got it. Perfect. So, this is our buzz sidekick tool. Again, it integrates directly into your comms tool and it can be accessed again from the mobile app from the desktop web app of your comms tool. So for teams and being able to log right in here and just ask it exactly what I need. So To give you a little bit of context. What Buzz does is it builds what's called the vector database. We'll build that on your behalf for Davenport so that any material that you upload into Davenport's, Buzz sidekick and Buzz facilitator tooling only gets accessed and played with by Davenport. It doesn't bleed over into another organization's database. I use the sandbox analogy. If you're bringing toys to the sandbox, only you and, your friends get a chance to play with your toys. They, they don't bleed over into other people's boxes. So for a good example of how does that actually surface up? So we've got our, all of our internal sales and, customer service material uploaded into our sidekick. And so for example, me asking a question of something that I needed to prepare for a conversation or just for better understanding of our products, I can ask, Buzz, what platforms do we integrate with here with sidekick? and so Buzz scraped all of the information that it has available to it. And it was able to pull all of the different areas and, programs and tools that we integrate with it. Similar thinking about how it would come to life for some, an organization like Davenport. If you've got products or financial services type of information or things that your CSAs might be answering on calls, they could have this open, in the background. And as they're interacting with their clients, they can be asking Buzz sidekick any sort of questions that it might need in order to surface up the most accurate and relevant information we can upload documents at any time. And that information would then be immediately available. So there's not a two week waiting period for something to get accessible by your CSAs. As soon as it's uploaded into, Buzz sidekick, they have access to the most accurate and up to date information. Again, super easy to scale. Cause all it does is need people to log in and integrate it with their Slack or excuse me, their teams in this case. As far as the practice and these, you know, having, you know, some call simulations go, this is one that I did for, a role play that I was doing for another organization. They do financial services in Canada, and I was asking it to have me walk through a potential demo, like I'm doing for you guys today. And I asked it to role play as my counterpart in the conversation. So being able to ask Buzz to live in that role of the person that I'm pitching to, I'm able to dive in and actually start asking it questions, treating it as if it's my buyer and going through. And then at the very end, I asked Buzz if it would give me some feedback on how I did based on our metrics and give me a score on a scale of one to 10. So it highlighted the strengths of what I did well, it pointed out areas where I could improve, and then it gave me a score out of 10 showing me where I did really well. But then also I leave a lot of room for improvement so I can continue to improve every day. Does this tooling start to feel a little bit more like what you're looking for, especially for that CSA population? 
+
+29:29 | Tammy
+I think this would help them in handling conversations with clients, give them a little bit of practice maybe before they actually had to handle a conversation live. So I think it would be useful. 
+
+29:47 | Charlie
+And in terms of the those like instances that you mentioned like perhaps a death of a client or another one sets of those like one off type of piece of information that are super important when they need it but they don't necessarily need it every day does this start to solve that problem that you shared where they could type in and access hey this is the scenario that i find myself in now bring me up my checklist for what i'm supposed to do in terms of this particular situation do you feel like this clears that hurdle. 
+
+30:19 | Tammy
+well a couple of things so i would love it if we could get there we are so far away from a solution like that right now that it's hard for me to kind of connect that dot like number one you know start a company number two make profits so we've you know we've missed all the other steps in between you know what i mean so that's i'm having trouble kind of getting here and then also i have done a little bit not a huge amount for some volunteer stuff that i do outside of work i'm using ai a bit and i mean we just have to be incredibly careful that ai gives us correct information so it would be horrible if we use this and then you know buzz sidekick were to give incomplete or inaccurate or just wrong information. 
+
+31:26 | Charlie
+yeah and i actually i had i wonder if it's in this chat i had one where i purposely asked it a question that i knew it didn't have the answer to i wonder if it was in this thread yes okay so for example to that point i asked it what is our latest pricing for buzz sidekick so if we were just offering this tool what buzz sidekick does not do is just hallucinate out random information we know that what we've put into our buzz sidekick vector database does not include our pricing because our pricing is bespoke to each individual use case so i asked if it would surface me up what a pricing would be for a pilot for buzz sidekick and he made sure to tell me i don't have access to the latest pricing information because i haven't been taught that information so we we've purposely put those guard rails on it so that it doesn't hallucinate. 
+
+32:24 | Charlie
+we also have pioneered and i think i mentioned it in our last conversation tammy but i may have i may have glossed over it we were picked up by hr trend institute for our aha principle which is ai assisted human led ai generated but human checked So the material and the vector database and all of the stuff that gets built behind the scenes for the AI is double and triple checked by human beings so that any of the material and the learning content that your folks are accessing, they're not just getting it blind from the AI. It's being double and triple checked by human beings. Obviously, in this instantaneous type of tooling, it is being generated by the AI, but it's only pulling closed scenarios so that It doesn't have access to just go to the World Wide Web and say, oh, this is what some random website said was good information. This must work for you. We put those guardrails in place to make sure that stuff doesn't happen. 
+
+33:24 | Tammy
+Okay. All right. 
+
+33:27 | Charlie
+Awesome. And so this is where that bus sidekick and that bus facilitator tool creates some of that live practice and live scoping. Does the data piece resonate? Is that something that you feel like is relevant for you right now? Or have I given you a little bit too much or just enough to chew on before we progress our conversation a little bit further? 
+
+33:49 | Tammy
+Yeah, I think we can continue on. Yeah, sure. 
+
+33:52 | Charlie
+I'll show you the last element that I had pulled up for you, which was just our data piece. And how does it actually surface? 
+
+34:05 | Charlie
+All right. So hopefully you can see my little bar chart there. Is that coming through for you? It is. I got it. Perfect. Okay, great. So this is one of our live current customers. They're Kantar. They're a market research company based in EMEA. And they came to us with a use case that they wanted to use that bus facilitator tool, have their people interact with it, have some coaching conversations, and then surface up some insights about where do their people actually fall in alignment with their corporate values. So you can see across the top here, these various corporate values that they wanted their people to align with. And then based on their qualitative responses to the Buzz Facilitator tool, they're able to start to see where were people actually visiting? Are they starting? Are they completing? And then what are some of the insights that they're generating based on the interactions with the Buzz Facilitator bot? So they're able to start to put in their objectives of what they wanted people to learn and take away from. And then down here, after looking at the numerical data, some of the qualitative insights that they're able to generate, and how do we actually iterate and improve the learning process for the future? So being able to very quickly ascertain what do our learners actually want to lean into and lean out of? is, really helpful for our learning folks because they understand that learning is only as successful as the programs that people are paying attention to and listening to. So it helps them move that learning needle quite a bit faster in terms of being able to provide what's relevant for their learners instead of continuing to bang their head against the wall of offering something that they're just not resonating with. So being able to make that data come to life and then looking at the social aspect of that data Being able to surface up who's commenting on different things. If you wanted to go the platform route, it sounds like it's probably not the right answer for you. But just showing you the granular level of that data, being able to see who's commenting on what, you know, who's driving people to actually interact and engage with the platform. And then again, some insights about how do we actually start to iterate our learning program for future use cases? Does that data picture, particularly the bar chart side where it was that Buzz Facilitator aspect, does some of this data start to be able to answer some of your questions about how do we improve and iterate learning in kind of a live scenario rather than it being static moments in time? 
+
+36:40 | Tammy
+It does. Is there any element of, but you know, like, is it level four of Kirkpatrick or, something? Yeah. 
+
+36:51 | Charlie
+Yeah, so they actually have the learning, the adult learning theory that's baked into the prompting for Buzz is based on the Addy model. And I believe they baked in Kirkpatrick as well. I can go back to my LX team and confirm that. But I believe both of those learning models have been baked into the prompting so that the material that comes out of it is generated with those elements in mind. 
+
+37:19 | Tammy
+Okay, cool. 
+
+37:21 | Charlie
+Awesome. Brent, I know that, you know, you've just kind of been taking it all in, getting kind of familiarized and understanding kind of what Hive does and where we sit in that ecosystem. Is there anything that I've shown so far that really stands out to you? Is there like a wow moment? Or is there anything that you're like, kind of missing the boat? I need a little bit more explanation. 
+
+37:43 | Brent
+No, I'm just following along, trying to, as I'm seeing these things, kind of visualize to myself how we could potentially, how Tammy and I could potentially implement this and stuff. So again, I'm ignorant to all this stuff. I haven't seen it before. So I'm just trying to gather as much as I can. 
+
+38:02 | Charlie
+Sure. And I'm going to, I'll start asking just a couple of questions. I'll stop sharing my screen here. You mentioned that you had spoken to another vendor. I'm curious. I know that the key element there was that they had access for outside users, you know, apart from Davenport employees to be able to access the learning content. Is there enough here that you've seen if the external user element was accessible for Davenport and their clients? Is there enough here that potentially moving forward to scoping out what a potential pilot would look like would start to make sense? 
+
+38:42 | Tammy
+I'd probably have to think about it a little bit more. Let me just put my thoughts together for a second. 
+
+38:59 | Tammy
+You know, the learning content, kind of the bespoke learning content, there was yet another vendor we talked to and they had They had access to over thousands, of, lessons or courses. So, I mean, that was kind of attractive because then that would allow people to develop in any way that they wanted to. And there was also, there was already also even some financial literacy stuff that we could offer to clients and retirement planning, and things like, that we could offer to clients. So, both were internal and external. I mean, it would be great if we could, if we could tap into that somehow. I know what you showed me was just a demo. So, but it didn't look like thousands. 
+
+39:52 | Charlie
+So, let me, I realized I missed one piece. Let me see if this starts to, provide a little bit of insight to that. And if I'm totally missing the mark again, just let me know. So while we don't have the library of pre created content, What Buzz Curator does, and I realize again, I apologize, I missed this piece of, walking you through this is it allows you to create any sort of learning that you might want to provide for your folks utilizing the AI. So again, we can ingest any of the material that you already have. If you have retirement planning and material that either you've created at Davenport or you have access to, it can be uploaded and ingested into Buzz Curator and you can actually create your own learning content. So for you can do it manually, but for this instance, I'm going to use it and create with buzz. I won't take the full 10 minutes because I already have a, Julia Child's ask, cooking show. Here's one that I made earlier example for you. But I'll show you how it starts. So you can start creating your learning sprint here. And if I had some documents that I wanted to upload for buzz to work from, you know, so if we're working on like financial literacy, if you had some PDFs or, you know, documents that you already had in your hard drive that you wanted it to build a learning plan on. you can hit here, upload the documents. This will open up my browser, my document browser over here. When I could just drag and drop my files in here that I wanted to have access to. And then from there I can, I'm just going to say continue without uploading for this moment in time. Then we'll actually start having a chat with the curator bot. And in just a second, he'll pop up his little intro message. And then from there I can start building a sprint. So just for example, 
+
+42:01 | Charlie
+just typing to it, like it's a normal human being. And then over here on the workspace, as we break down a little bit more of the, the sprint, it'll actually start to build out what that sprint will start to look like because I don't have any of the documentation. It's going to be, really lacking here, but let me pull up my, sprint that I wanted to show you that I built using that tool. 
+
+42:40 | Charlie
+So I built this one focusing on communication and navigating difficult conversations. And so based on typing in, you can, I can hit review BuzzChat. So I can show you the exact conversation that I had with Buzz to build out this learning plan. I've started to focus on what pathways we need to have, what content I want it to pull from. And in this instance, it has access to, the internal leadership development library that I showed you just a little bit ago. And then being able to do that, I can come in and show you the actual content. I didn't type any of this content. This was all built by the AI. So this is bespoke to what I needed it to be. And so while I don't have a library of thousands of pre made pieces, I can create exactly what I need when I need it. And I can customize it to answer any of the questions or any of the, learning scenarios that I'm looking for my learners to take away. So, does that start to address the, you know, looking for thousands of customized pieces, of learning content, knowing that it doesn't exist in the background, but you can create your own. 
+
+43:52 | Tammy
+Yeah, that's pretty interesting. Yeah. So, you would see that users, would almost create their own training. 
+
+44:00 | Charlie
+Yeah. So our best practice wouldn't be to give every single user access to buzz curator to create exactly what they want, you know, over, you know, 450 people. What it would be access for you, Brent, and your other learning managers or your other training folks to be able to understand exactly what their learners need. And then utilizing your expertise in designing and making sure that this thing comes together for your folks to be able to access. So it w it wouldn't be every single person in your organization can create thousands and thousands of different learning things on any given whim, but based on what you and the organization's learning needs are as you know, in your roles as learning experts, that would be where you have the workspace to be able to create what your team needs when they need it. 
+
+44:49 | Tammy
+Okay. All right. Thank you for showing me that. Appreciate it. 
+
+44:54 | Charlie
+Yeah, of course. So typically from here, we would look to understand a little bit more of, you know, what is your decision making process as you're kind of choosing between vendors? What does that decision making process look like? And, you know, would a next step in terms of like what scoping out what a pilot and what success might look like makes sense at this point. 
+
+45:22 | Tammy
+Well, to be totally honest, we're still going through, and looking at some demos with other vendors. So I just, you know, we just need to be sure that we're doing our due diligence and that, we find the right fit. Davenport's a rather small company. So, this is a lot of money, that we would be spending. You know, if it was like some big company, like. I don't know some other big company then, you know, the decision might be a little easier, but, it's a really big investment for us. So, we just really need to make sure we're making the right decision. If you can, if you can send me, can you. And you may have already done this because I know we've been talking for a while as I've been, you know, trying to get through some projects, but, can you send me any documentation you have, that really, kind of thoroughly outlines, facilitator, and all the other elements. I'm sorry. I can't remember the terms, but all of the other elements, that Hive has. And then, and then I'd also. If you have a demo already made for how it integrates with teams, I'd kind of also like to see that. To be totally honest, I know that. Our, tech department, is very hesitant to, sign up for anything that's incredibly heavy usage of AI. So, I might have to talk through some of that. So if you can maybe also send some, anything that may allay their concerns in terms of AI, any of the security, How, how you make sure it doesn't have errors, you know, all of those things, I think would be helpful in making that case and providing, justification. 
+
+47:28 | Charlie
+Yeah, absolutely. I can, pull some material together for you and send that over. Out of curiosity, you know, would you be willing to share who we're, potentially competing against so that we kind of understand the lay of the land? 
+
+47:45 | Tammy
+I can't right now. Only because I don't remember. The names of the systems, but, cause, yeah, anyway, but, but yeah, let's keep the communication open and, any, anything that you can send me would be great. And I'll look back at my calendar to see who we've already talked to. And, and I'll send that over to you if you want. 
+
+48:08 | Charlie
+Yeah, that'd be great. And what I'm happy to do is, you know, if it makes sense to have another conversation where, you know, perhaps your it folks, you know, if you've got a, a head of it that would want to sit down and ask us some questions, happy to facilitate a conversation with, our product team as well, to be able to get them talking together and answer all of those questions. Do you have a timeline on when you're looking to make a decision? 
+
+48:35 | Tammy
+I think that's kind of fluid right now. So, we just want to make sure that we make the right decision, and, talk to a good number, of different people. 
+
+48:46 | Charlie
+Absolutely. And is there, a particular, budget that you're looking at? So I know that if, if we do get down to those, you know, those details and the nitty gritty, if we're looking to compete on price with anybody, making sure that we're coming in as close to, what your team is looking to invest, as possible. 
+
+49:08 | Tammy
+Well, I'd like to know a little bit more about, yeah, I mean, we'll spend as much as we need to spend, on this. So, I think, that would kind of, that would kind of vary. So, if it's a relatively simple solution that meets our needs, then we would probably be looking at spending less if it's a, A rather complex solution, then we'd probably be looking at spending more. But, if there's something that is just completely like, my gosh, we must have it, then, then, you know, I mean, we can make a case for it. So. Sure. 
+
+49:54 | Charlie
+Yeah, not a problem. I will go ahead and, pull up a recap email, send you over some of the additional information that you've asked for here. And then, we can, kind of keep that line of communication open about, scheduling a follow up conversation and seeing if there might be an opportunity to pilot with you. 
+
+50:11 | Tammy
+Okay. And do you know how much like per user or, does it vary? Is it pretty highly varied depending on the solution that you propose for a company? 
+
+50:21 | Charlie
+Yeah, it would vary based on which of the tools that you want access to. I could give, you know, if you only wanted, facilitator and sidekick, I could give you that kind of price per head. But as we start to build in like the curator and the platform elements of it, it's going to impact the, the price per license. So if, after I send over the, The additional like white paper on the different products and you have a moment to think about it. You know, I can start to put together a high level proposal. If we were going to look at a pilot with just the CSAs, I know you mentioned in our last conversation, Davenport's about. 450 heads. You know, company wide, what does the, CSA population look like? 
+
+51:07 | Tammy
+Right between 102 100. 
+
+51:13 | Charlie
+Excellent. Yeah, I can put together, a high level pricing. You know, if you get a chance to look over, you know, the white paper that I send over, you kind of identify what tools would maybe make sense in a pilot. I can tailor that pricing a little bit better for you. 
+
+51:32 | Tammy
+OK. That sounds good. 
+
+51:34 | Charlie
+Tammy and Brent, I want to be respectful of your time. We've hit our, we've hit our top of the hour. So, I'll shoot this over to you and then, we can work together to find some time to continue the conversation. 
+
+51:45 | Tammy
+All right. That sounds good. Thanks so much, Charlie. Thanks both. Have a great afternoon. OK. Thanks, Charlie. 
+
+51:50 | Brent
+You too. Thanks. Bye bye. 

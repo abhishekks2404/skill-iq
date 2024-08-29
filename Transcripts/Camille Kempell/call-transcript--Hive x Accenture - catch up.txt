@@ -1,0 +1,194 @@
+Hive x Accenture - catch up
+
+Camille Kempell with Accenture
+Recorded on Aug 5, 2024 via Microsoft Teams, 20m
+
+
+
+Participants
+
+Hive Learning
+Camille Kempell
+
+Accenture
+Aroti Tugnait
+Alissa Hillman
+Daniel Coco
+
+Other
+Phone Caller #1
+
+
+
+Transcript
+
+0:00 | Camille
+Hi, Roti. How are you? 
+
+0:02 | Aroti
+Hello. Hey. How's things? Hi, everyone. Hi. Happy Monday, everyone. I have no idea why we say that. Happy Monday. 
+
+0:17 | Camille
+Well, we've got to bring some joy into a Monday. I think that's what it is, isn't it? 
+
+0:22 | Aroti
+It seems like a little bit of an oxymoron, right? 
+
+0:26 | Daniel
+Thank you. 
+
+0:26 | Aroti
+But yeah, OK, never mind. 
+
+0:28 | Camille
+I think you're probably right there. But, you know, we've got to try and fool ourselves sometimes, don't we? Into thinking that we're, you know, give that Friday feeling to a Monday. 
+
+0:39 | Aroti
+Yeah, indeed. 
+
+0:41 | Camille
+Good. So it sounds like it's been a busy start to the week for you then. 
+
+0:46 | Aroti
+No, actually today it's been okay. We've been doing Happy Monday all day and I've been wondering and saying, okay, yeah. 
+
+0:53 | Camille
+So yeah. 
+
+0:56 | Aroti
+But it's been a good day. 
+
+0:58 | Camille
+Good, good. And so have you had a chance to have a look through the commercials for the inclusive leadership level two? 
+
+1:07 | Aroti
+Yeah, we did. I don't have a comment, but yeah, we did go through the commercials. 
+
+1:15 | Camille
+Great. So no reflections on which option you might prefer? 
+
+1:21 | Aroti
+No, at this point, no. And you know what? I'm going to open it up again because I remember we having some first few reactions and then and I think it's been a while that we've met on site. 
+
+1:47 | Camille
+Have you got it? Do you want me to re forward the email? 
+
+1:49 | Aroti
+No, no, no. I'm just opening it up. Okay. Yeah. It's interesting. It opened right on the slide. Oh, 
+
+2:01 | Alissa
+Bye. 
+
+2:02 | Camille
+Okay. So, so yeah, so what I tried to do was pull together a few different options depending on the number of licenses that you wanted. So I think with, the lower number you mentioned, you'd start like it would be a minimum of 1,500. So you can see that on slide 13. And then you said, but it might also be 3,000 that we would start with. So they are the two that are presented on that first commercial slide. And then just so that you've got an idea as to what it would cost to scale the program, I've included 5,000, 10,030 1,000. Sorry, Rosie, that's a really good idea to actually present myself. 
+
+2:41 | Aroti
+Great. That's okay. 
+
+2:45 | Camille
+driving the slide to you. Wow, it's been a long day. 
+
+2:49 | Aroti
+Yeah, never mind. 
+
+2:51 | Camille
+Thank you. So, so what we do is we'd include the full use of the Buzz Suite so that you have the capacity to run the program however you see most suitable. We can talk about that program design once we're kind of, a bit closer along. And then we'd also include SSO free of charge for you. It's a decision that I think is just quite important. I think it makes things easier for you. And it's something that we usually tend to charge for, but I'm trying to push us as a business to include it free of charge because I think it's the way that most companies tend to work to make it really easy for people to access. And then I've also included a Teams integration at a reduced cost as well. So this is where your employees would be able to experience nudges happening just whilst they're in the flow of work through their Teams. They could even view some of the content through Teams. So for those people who prefer to just have it sit in the flow of work rather than going to the platform, there's an option for them to do that. So yeah, we've come down on the price for that. That's usually seven and a half K, but we can include it and additional three if that's something that you wanted to do. And then yeah, you can see that the difference in pricing really kind of depends on the number of licenses that you go for. One of the things that I haven't accounted for here, so if you start on 1,500 or 3,000, but you know that you're looking to scale at some point within that 12 month period, you're just not sure when it might increase to, let's say, 5,000 or 10,000. We can develop a few clauses that sit within the contract. So if you ever need to activate any licences, you can do that at a reduced rate at any point because we'll have agreed that, pre agreed it within the term. So, yeah, that's one thing to bear in mind. And then if you hop onto the next slide, 
+
+4:43 | Aroti
+just before we do that, typically, how much time does the SSO integration take? 
+
+4:49 | Camille
+So really, yeah, good question. It's usually as quick as your team can work, so we can prioritise it for any new project that we have coming over the line so I can get our team working on it quite quickly. I think usually we say we can get that implemented within the space of the week, provided your team are able to work quickly on it as well. Sometimes it can be even shorter than that, depending on how quickly we can get through any approvals that are needed. Accenture side. 
+
+5:17 | Aroti
+Okay. And when you say Microsoft Teams integration, does that mean, so essentially all our material typically sits on Workday and that's the platform we're using. So how would something like this work? 
+
+5:29 | Camille
+Yeah, good question. So that's a that would be a different integration that I'd have to charge for separately. So we have only recently built the function of being able to integrate into Workday, but we've got a few cases live where that's working really well and we integrate via SCORM. So Hive would sit in an iframe on Workday. And so the user would be able to experience the Hive content. At the moment, I don't think the comments functionality, I think that might not work within the SCORM integration. So they would need to click into the platform if they want those peer learning elements to it. But yeah, we're continuously iterating what that integration looks like. So if that's something that's important to you, I can definitely get pricing. I think it's roughly around 10 to 15 K for Workday. But let me see and I'll get back to you on that one. 
+
+6:20 | Aroti
+And that will essentially mean that from the material sits on Workday, but they're getting nudges and they can also access the material through Teams? 
+
+6:30 | Camille
+Yeah, yeah. So they'd be able to read the content via Workday, but then they could still have the platform experience by going into Hive. And that's where we can still, you know, they can leave comments and whatnot. With the Teams integration, that's where we'd be able to tag them. And so then they would get a nudge in their Teams. And then if they click on it, they'd go through to the Hive platform, if that makes sense. 
+
+6:54 | Aroti
+Okay, so another entry way to get on the platform and also be able to sort of get your nudges and all of that on. 
+
+7:04 | Camille
+Yeah, exactly. Yeah. So it's important that we try and we try and approach them and try and make the comms as clear but broad, I suppose, as possible in that we want them to be accessing the platform. So the more nudges that they're experiencing, whether it's via the Hive mobile app, which would be free for any users to use, or whether it's via Teams integration or whether they're seeing it via Workday. We know that they're going to be hearing and seeing those comms. So it means they're more likely to engage in the platform and in the content. 
+
+7:36 | Aroti
+Okay, all right. 
+
+7:39 | Camille
+And then this slide here is just giving you costings for a yeah, essentially more licenses that you've got there. So I've included options for five, 5,000 licenses, 10,000, 30,000. And then there's a few additional extras. So I'm not sure if you would want to use language translation on the program or whether it would just run in English. I wasn't sure about that one. 
+
+8:03 | Aroti
+So far only in English, but at a later date, probably something that that's been spoken about. 
+
+8:11 | Camille
+Yeah, okay fab. So we can keep that in mind. We tend to price per project, but it can start from as little as two and a half K depending on the language, because we have some languages that are already built in to the platform. So it's quite easy for us to switch on that different language architecture. And then we get the translation, we get the content translated by a third party and then upload that. So it kind of is a full experience in that separate language rather than it being auto translated, which we know can come with some issues. And then Teams integration, which I've mentioned, SSO will be free of charge. And there's also discounts for longer term partnerships. So I understand that this your level two won't be going anywhere anytime soon. So actually, it might be worth having a look at making the most of the 10 percent or 20 percent saving for two and three year partnerships. And then I sorry, go on already. I was just saying got it. Okay, cool. And then in terms of getting started, so some of this might not actually need to happen because we're already working with Accenture on another project. But this is just a few things that you might want to consider that can sometimes slow us from getting to the ideal start date. You might need to engage with tech security teams on And the use of the general tools that we've built, there may be other stakeholders. I'm sure that's something that you'll be communicating with them anyway. But if it's valuable for me to speak to anybody else within your team who would need to be involved in the decision of adopting Hive, just let me know. And then legal as well. So There might be statements of work that are Accenture curated that we would need to use instead of using Hive ones and certain supply onboarding questionnaires, which I think we probably would have already done because we're already working with Accenture. But if there's anything else there, then yeah, good to get ahead of the game now. 
+
+10:09 | Aroti
+Sounds good. You're working with the IND team or is that the one that acquired leaders or something else as well? 
+
+10:17 | Camille
+it's allies in action i think is the program. 
+
+10:19 | Aroti
+Okay. All right. Okay. Yeah, that's good. All right. So I don't have any questions on the pricing model or otherwise, I think it's more about for us, trying to understand. So we are also in that mode where our designs are not yet signed off. And so we're also exploring all possible options of what can be and what will enhance our Learners experience and at the same time not that put a lot of pressure on the internal team to be able to either built it or you know created and so on and so forth. So trying to understand that balance and of course, there's the cost factor as well. So I think at this point in time, we are one of the reasons why we wanted to meet you as well was also about we've experienced the Hive platform in the past. The material is something that we're going to be using anyway in terms of you know, three C's and everything else that you already have for acquired leaders. And so this felt like a good lift and shift for us as well, right. And now of course, you have all these very exciting AI tools that can be played around with. So while it's looking very promising, I think for us, it's also about how are we how could we possibly integrate Hive as a part of our design. And I think that's our own back end work that we need to do, which is why we wanted the pricing and everything else and so you're going to figure that out. So give us some time we want to sort of also congregate at our own end and you know, sort of figure out and get a sign off on the basic structure of the design, which is really leading itself to from here on where and you know, what ecosystem partners and all of that. So allow us some time to come back to you with this. For now, team any questions that might help us to Sort of any questions otherwise from what you've just seen. 
+
+12:14 | Daniel
+No, thanks for the private group. Oh, no problem. Yeah, there's a lot. There's a lot of content I want to still work through. But it's great to give me all of us the feel of the platform and the content. So that's great. 
+
+12:29 | Camille
+Oh, great. Thank you, Dan. I'm really pleased with that. I'm glad you're enjoying the experience. I think yeah, just keep me posted if there's anything in particular that you want to chat about there. But it was just to give you a flavour of some of the content that's pre existing within the Hive Library. And worth bearing in mind that for you, for when, if when we work together on this project, The content that we create will be bespoke. So we can pull from any content that you like that is pre existing that you can see examples of. But yeah, when it comes to designing the content with and for you, we'll approach it in a way where we put Accenture at the heart. So it really feels like it's coming from you. The language is exactly kind of hitting your tone of voice and all those sorts of bits and pieces. So yeah, do you keep that in mind? Well, yeah, we'll approach it in a very tailored and bespoke manner when we come to create the content for you. 
+
+13:20 | Daniel
+Great. 
+
+13:22 | Camille
+Is there anything missing in that demo group that you would appreciate me including in there? 
+
+13:30 | Daniel
+Not that I can tell. Cool. 
+
+13:33 | Camille
+Awesome. Fab, thank you. And I suppose just as a reminder, really, when did you say that you would be looking to start the inclusive leadership track level two? 
+
+13:48 | Aroti
+We were, we were planning for sometime in the September end timeframe, October beginning. But at this point in time, I think they're going to be a couple of delays in terms of the way forward. And you know, there's been a lot of everything at our end for some other things that are going on. So I think that's taken off the focus of all the focus that we had for ourselves and for the leadership as well on level two. So I think it's going to be slightly further down, but not too further out as well. I know that for a fact. But I don't think we have exact timelines right now. And I think the next couple of weeks is going to tell us, you know how that might pan out. So yeah, I don't have a conclusive answer for you yet. But, we're as anxious to find out as you are. 
+
+14:44 | Camille
+And I suppose really a final question for me, is there anything that, you know, just I'm really keen to understand if this is the ideal solution for you? Does it feel like there's anything missing? Or is there anything that you wish was slightly different in the way that we have approached the, yeah, the partnership and how we feel like we could fit with you on this programme? 
+
+15:08 | Aroti
+I think, for now, we've just explored what you have, and what you could possibly propose, which you have very well. I think going forward, it's the success is really going to lie in how much are we able to sort of co design together, right, or co create together. And, and I think Accenture is, very big on, you Pivoting, right? So I think we're forever in the midst of a change, and things change, very quickly. So we do expect our ecosystem partners to sort of, you know, be okay with that kind of change or be agile enough to sort of, you know, co create by the same time, you know, when winds blow in a different direction than sort of, you know, partner with us accordingly. So that doesn't go to say that there's going to be a lot of scope creep or anything, I'm just saying, I think it's all about the partnership going forward. and how well we can approach it from that point of view. So all of all the in the past, all the ecosystem partners that we've really worked well with are people who intrinsically are very comfortable with change, right? So I think, that's the, that's really what we require. But for now, I don't see any missing links. I think we're going to deep dive a little more from our end and come back with questions, if any. And I think I'll take it from there. So, nothing that I have on my mind. Alyssa, anything that comes to your mind? Anything that we need or anything that we need more information on? I think that's missing. 
+
+16:51 | Alissa
+No, not that I can think of. This is great. Great. Have you worked with our vendor management team before? 
+
+17:03 | Camille
+Not personally directly, but as Hive, I'm sure we will have because of the work that we're doing elsewhere. So I think we should be set up Okay. Yeah, we should be set up as a vendor. But I can find out. I'll see if that because it would it be just a kind of group level? Or is it different for different departments? I'm not too sure how that would work your side. 
+
+17:26 | Alissa
+It's what we have one vendor management team who manages the relationships with all the different vendors. So now that I think of it, if you're working with inclusive leadership, I'm guessing there's already they're involved, but we can check on our end just to make sure we're covering all that. The right stuff. Yeah, that's great. 
+
+17:44 | Aroti
+I think last I heard there is an MSA already. That's, that's there. And I think the rest would be more like a SW that we might need to do for this piece of work. Yeah. 
+
+17:57 | Camille
+Yeah, I can send you an example of an SW template if that's useful. And we can use ours or if you would prefer to use an Accenture one, that's totally fine. And but yeah, I can pop that across an email. So you've got an idea as to what one of our statements of work might look like. Great. Good stuff. So in terms of when we next connect, would you say it would be the week commencing the nineteenth of August or the 20 sixth? What might be better for you? 
+
+18:27 | Aroti
+I want to actually sort of take stock with the team here and a parallel team that we're working with and see where this is going for us. And then only come back once we actually have something to commit to you in terms of, oh, this is a great way to go or here are the timelines or We know a little. We want to come back to you when we know a little more than what we know today. And we don't know how soon that's going to happen. So I'd urge you to give us a little more time and we'll come back because for inclusive leadership, that's the other thing that I think if we are looking for a ecosystem partner, Hive's definitely, you know, one of our top priorities at this point in time. We would love to partner. I think everything we've seen so far and what we're picking and lifting is also a lot of material that you guys have created. So I think there's a little bit of comfort for us there. But having said that, we have nothing signed off yet. And, you know, we don't we're still slightly for the lack of a better word, directionless. we need to do. So I think let's come back to you once we know a little more and we can comment a little more on where we're going with this. 
+
+19:42 | Camille
+Yeah, that makes sense. Thanks, Amoti. Yep. Great. Well, I'll send over via email an example template of the statement of work so you can have a little look through that. I'll leave you to connect with your team. If there's anybody who hasn't seen Hive before or would appreciate hopping on a demo to see the Gen AI tools in action, just let me know and I can yeah, I'm happy to demo to them if that's useful. But yeah, other than that, I will leave you to crack on and have a few minutes back. But really good to connect with you all again today. Thank you. 
+
+20:13 | Aroti
+Absolutely. Thank you so much. And yes, we might take you up on that offer of having a few more demos to be done if required. So yeah, we will take it from there. 
+
+20:24 | Daniel
+awesome sounds good thank you really good to see you thanks camille bye. 

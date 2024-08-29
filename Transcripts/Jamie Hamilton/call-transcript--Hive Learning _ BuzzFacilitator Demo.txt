@@ -1,0 +1,471 @@
+Hive Learning | BuzzFacilitator Demo
+
+Jamie Hamilton with DUAL Group
+Recorded on Jul 23, 2024 via Microsoft Teams, 38m
+
+
+
+Participants
+
+Hive Learning
+Jamie Hamilton
+Daniel Edgar
+
+DUAL Group
+Samantha Hunter, Head of Online
+Wesley Timothy, Senior Underwriter
+Ross Nicol
+
+Other
+Phone Caller #1
+
+
+
+Transcript
+
+0:03 | Jamie
+eight good morning. Good morning. Can you hear us okay? 
+
+0:09 | Wesley
+I can, yes, yeah. 
+
+0:12 | Jamie
+You never know, in these rooms. Were we're sitting quite far away from? 
+
+0:17 | Jamie
+Nations say how much? 
+
+0:20 | Wesley
+Is actually, I mean, 
+
+0:25 | Jamie
+Les. 
+
+0:28 | Wesley
+yeah, not bad. It's not bad Thursday back after a long weekend so much. 
+
+0:32 | Jamie
+Was it? 
+
+0:35 | Wesley
+It was good? It was a holiday park in marcom… sent to down the kids, of course. So I'm exhausted today. 
+
+0:47 | Jamie
+Not very relaxing weekend there. Did you get up to any like climbing or go karting or anything like that or is it not? 
+
+0:53 | Wesley
+Yeah, no, we were just watching young kids prance around in costumes of ridiculous characters. 
+
+1:03 | Jamie
+Okay. Cool. Any, any particular characters? Was it like a theme or was it? 
+
+1:07 | Wesley
+Star and crazy crew? 
+
+1:12 | Jamie
+I'm not familiar myself. 
+
+1:14 | Wesley
+Yeah. Keep try and keep that way Jamie excel. 
+
+1:19 | Jamie
+It. 
+
+1:20 | Jamie
+sounds like. 
+
+1:23 | Wesley
+Hi, Ross. I thought, I could hear him chatting and, 
+
+1:27 | Ross
+no, it was more that I didn't realise. I had all the stuff plugged in. So… I was at here and couldn't hear anyone too. 
+
+1:36 | Wesley
+Have you met the chaps from Hive Ross? 
+
+1:40 | Ross
+I haven't no. So, hello. Nice to meet you. 
+
+1:42 | Wesley
+So, we've got JM, Dan and ashlan here in that order. 
+
+1:47 | Jamie
+Yeah, we'll do a quick introduction as well. We'll we'll wait a couple of minutes to see if anyone else can come along and then we'll do a quick introduction. And then we'll jump straight into it because yeah, very excited. It's always nice when Dan is on the call because he's a complete expert in these kind of things so you can explain everything so much better than I ever can. But yeah, yeah. Just if you want to do a quick introduction for yourself, us, while we're here, we're very well acquainted with we, but yeah, if you wanna give us a quick intro. 
+
+2:17 | Ross
+Yeah. So I head up the England wales commercial team so effectively doing the like title insurance for the larger commercial transactions all across. Yeah, England and wales. That's basically it losing the title really? I won't go into the borrowing details because you guys have been trying to figure out what we've been doing for the last, god knows how long… yeah, how is it? 
+
+2:46 | Jamie
+Great. Well, it's lovely to meet you Ross, very interestingly I'm actually, I'm looking to learn a little bit more about sales in underwriting and in insurance because it's just a little bit different than obviously a traditional if it's a sales product, for example, you have a sales team, business development team. I know the insurance, well, it's there's different names and things. So, I'm actually, I'm sending a couple of questions over to fergus. I believe who's also ahead of commercial somewhere, but I'm. 
+
+3:15 | Ross
+under rating director. So, yeah. 
+
+3:18 | Jamie
+Yes, got you. May show you a couple of questions over on Linkedin at some point if that's all right Ross. 
+
+3:22 | Ross
+Not a problem yet. 
+
+3:24 | Jamie
+Fantastic. Thank you. Just trying to get a better kind of idea of, the industry as a already all right. What it looks like. Potentially, this could be it. Samantha was saying she may be able to make it maybe not. 
+
+3:39 | Wesley
+It's a shame if she doesn't maybe we could record it for her? 
+
+3:45 | Jamie
+Yeah, that's no problem. Let's try that. 
+
+3:48 | Jamie
+Yeah… yeah. 
+
+3:54 | Jamie
+Yeah, yeah, sure. So I just. 
+
+3:58 | Wesley
+Yeah, I was just a, well, there were quite a few on the invite. Weren't they, from what I remember. 
+
+4:03 | Jamie
+Yeah. So. 
+
+4:04 | Jamie
+It should have. 
+
+4:05 | Ross
+Yeah, Adam has literally just come out of a meeting but had to dash into another one. So he might make it and I don't know who else was invited. 
+
+4:12 | Wesley
+Are you putting on as a courtesy? Ros, fair enough and. 
+
+4:17 | Jamie
+Potentially Naomi and Jessica as well anyway. 
+
+4:23 | Ross
+Jesse is in a meeting and I don't know about Naomi because she works in addition to. 
+
+4:29 | Wesley
+Yeah. What we're the call like? 
+
+4:31 | Ross
+I would just, yeah, record it and crack on. Yeah. 
+
+4:34 | Jamie
+All right. Let's go for that. Okay. Well, we'll yeah, we'll do that. We'll very quickly start then that should be recording. I can't remember if it pops up with something or does an announcement on teams that should be recording there we are. So, yeah, so very quick introduction then just to let you know who we are. So my name's Jamie Hamilton. I'm a partnerships manager working with Hive learning. So I'm the main point of contact between Hive learning and jewel asset at the moment and newly focused on making sure that gets the absolute most out of, their contract. So that's pretty much me. I, and then with me is the wonderful. 
+
+5:17 | Jamie
+Hi. So my name is Dan. I work in the learning experience team here at Hive. So designing the content as well as at the moment using our tool bus facilitators to deliver AI powered learning conversations, which is pretty exciting. And that's what we're going to be talking about today. Yeah, been really fun working with this use case, of dual asset because I'm learning about underwriting which I never thought I would do. It works, it's been really good fun. 
+
+5:44 | Jamie
+Yeah. So. 
+
+5:45 | Samantha
+My name is ashling. 
+
+5:46 | Jamie
+And I'm a customer success manager at health learning. I've got a background in education and customer success as well. And I generally deal with the daytoday working on the platform. So if you've got questions about accessing it or data or like that, I'll be the one to talk to. So Jamie and I tend to work together quite a lot on this. So usually comes. 
+
+6:12 | Jamie
+Yeah. So that is one team, no worries. And it's a pleasure for all of us to meet you, Ross, and hopefully the team listening as well. Hopefully to the recording. Yeah, lovely to meet you guys too and hopefully speak with you soon. So the reason we're here very quickly is that we are on, well, we're planning on giving you a sort of free trial access of our buzz facilitate tool which is a chat bot. There. He is right there that can help you and your team do a variety of different things. So once we've done this little discovery design call, Dan will hopefully be a have enough go away and have some ideas about where we could implement it. And how we could implement it based off of, the needs of your team and where you think it might be the most helpful. And then as soon as we can, we'll get it implemented into the next learning sprint. So people can start testing it out, trying it, hopefully seeing a lot of benefit from it. And the plus side for us is that we then hope to get a lot of great feedback from you on improvements or changes or how useful it is for you. So it's a win situation and I think it's going to be a lot of fun. It seems like where's immediately had lost ideas about where it can be really beneficial. So, yeah, awesome. So I will hand over to the expert Dan, he can take you through the rest of it. 
+
+7:34 | Jamie
+It's not like the team big me up or anything like that. I'm at the head of the table there. So what do start? We just showing you what buzz facilitate actually looks like when it's in the platform and it is quite straightforward and simple. It is this, we call these chat blocks. So this is we, as you would have seen, this is the first time you've seen this kind of scenario. You have, the first message that's sent by our coaching tool buzz. And then the learner is just encouraged to respond to it. So in this example, this is about kind of helping the learner understand the process of calculating PML which we know is a big one. So I'll just quickly show you that the first question that buzz asks the users, are you ready to begin after having explained what this little scenario is about? So they are right? Yes. And then this is a sort of direct line into gpt actually, but it's kind of we structure a prompt behind the scenes to run this conversation. Now, I can only tell you this is a lot of text that we probably would normally have this much tax which is sort of the next stage, of conversations like these where we'll be talking to yourselves and really refining this for your particular learners. So getting to know a bit more about the needs, of an underwriter, what would be most helpful with these scenarios? Because what we found is that are actually really flexible as in we can build almost anything. And I'll show you how we do that in a minute. But basically, in this scenario, we've got a situation where we've given the learner an example of a case about a large commercial office building that they need to kind of figure out how certain risks might affect the pnl. And again, this which is very quickly ripped up by me. So the closer we get to looking at real life situations or examples that you think are really realistic. Yeah, that sounds yeah. 
+
+9:32 | Jamie
+So, the main purpose of this really is, we can structure this conversation however we like. So in this case, we're asking buzz to talk to the learner about reevaluation, the PML. So if I was to say, yeah, I understand the scenario again, picture me as an underwriter, buzz will then take me through the next step of the conversation. So it's actually asking me to start identifying some of the potential costs, that could be incurred because of those risks. Now as a non underwriting myself, I could say I can't answer plausible for this. But if I was to say, for example, I think it's on the so. 
+
+10:12 | Wesley
+So thank you. 
+
+10:13 | Jamie
+Delays for example, could incur. 
+
+10:15 | Ross
+A decimal cost. So, I think. 
+
+10:17 | Jamie
+Delay. 
+
+10:17 | Jamie
+Could cause additional risk. 
+
+10:21 | Jamie
+Obviously, an underwriter would have a clearer sense of what they want to talk to buzz about buzz will then kind of keep going through the conversation with banana. And so, yeah, as you can see, this is really just an example of how the back and forth nature of that conversation goes and we can kind of program buzz to be whatever we want. And I'm gonna talk you through some of the examples that we might use buzz for in a minute. But additionally, I just wanted to show you that's literally the back and forth nature of this. So if I was to say I don't understand for example, buzz would respond in a more kind of helpful way to sort of get me thinking about, the situation we've given it. So that's just kind of like the nuts and bolts of how this particular tool works. Like I say, this is so flexible that we can kind of program it anyway. We like if you've heard the word from engineering that's what we're doing behind the scenes. So as Jamie said, the first thing I have a today's cool is just to maybe shoot the breeze on what kind of situations do you think would be a good example for your underwriters to test out so that we can go and build that area for you? But this is eventually the kind of document that we'll send you. Once we figured that use case out, we'll send you this document that contains a learning objective. So that would be something like we want the learner to be able to calculate ML confidently. By the end of this conversation, it could be that subjective. It could be more objective than that. So for example, we want the learner to have successfully calculated PM after the end of the example. So, this is the kind of thing that we'll start to fill out together hopefully source information that refers to any knowledge that you would want, the buzz tool to have. So for example, if you had a case study for example, or case role, we can give that a source of information. So we put that there and then the actual conversation itself. So each of those steps is literally governed by simple stepbystep guidance. So these steps here are all parts of like a script. So when we start building these out, we'd love to sort of get a bit granular with you so that we can figure out what kind of snow is really going to help. Now that's all the scary part when we actually start building these things out. But I wanted to start off with kind of the more simple fun thing which is like what would be helpful. So as part of this kind of test process, we can essentially build whatever you think would be most useful with we're recommending building one out initially just so that you're really happy with the direction of travel and we can obviously try and figure out that this is gonna be helpful for you. I'll go into these in a minute, but I just wanted to send check first whether there's any questions that I want. I've shown you so far because I appreciate this quite a lot there to digest. 
+
+13:08 | Ross
+So, I guess… we're trying to, sorry. My question is what we're trying to achieve here. We're we're trying to help scope out the prompts? 
+
+13:21 | Jamie
+Yeah, like. 
+
+13:21 | Ross
+All these scenarios, like, what are we trying? Well, yeah, well. 
+
+13:26 | Wesley
+I a, I can take responsibility for that, with input. So we're not asking you to do to create the content is, what the purpose of this chat is to show you as a head of team what the capabilities of this system are, and how it's going to help. Obviously, we've started with a really complicated one and you can see, how good that's going to be in, the… as out, of the learner. But I mean, like a said, I thought of loads of ways we can use this and it could be something more basic, like someone in sam's team would chat to Sam in a minute as to an e-mail coming in or a phone call coming in and getting an underwriter to pick out what the details are, what the risk is, you know, what the, 
+
+14:27 | Ross
+okay. Makes sense. 
+
+14:28 | Wesley
+Yeah. So what information do they need? Or, Sam been very formal and Mason a hand? 
+
+14:38 | Samantha
+Yeah. I think from my perspective, obviously, I take on most of the new starts who have zero experience and zero experience in terms of risk but also in terms of just being in an office environment and actually how to answer the phone, how to respond to an e-mail so actually there's also a lot of soft skills. I think the call of skills that we, I would really like to incorporate in there. Sorry, I'm so sorry, I was late. It didn't pop up and I was needy from testing some updates to the website. So, but from what I saw, it does look really interactive and I think you know something I would like to broaden out for the whole of the start of the training, not yet, but picking out risks but also just other stuff that we kind of just expect people to know and they don't know GDPR training as well, when to give out information, when to give out information, consumer duty as well. So we can actually do that as well. 
+
+15:32 | Jamie
+Yeah. There's, the big challenge with this tool is that it can literally be whatever we want it to be, which is a horrible thing for allowing designer to offer because then there's no structure to which is why, thank you for suggesting some of those ideas. I guess, the key thing about this particular sort of as Jamie mentioned at the start is kind of like a test kind of experience for you and for us really. So whilst we can build all those out going forward, it we really cool to understand what you think would be a really good example of something that you really need that we could build. So like you mentioned that example of an e-mail coming in, would that one be particularly valuable for you as part of that onboarding experience that we're currently in? 
+
+16:13 | Wesley
+Yeah. I think, the key part on getting an underwriter up and running is to be able to be bombarded with some information and maybe some lack of information and then just try to analyse have we got enough to make a decision on it? What, what are we making a decision on? Would you agree, Sam? That's yeah. 
+
+16:37 | Samantha
+Yeah, I think, yeah, where to look for what, you know? Yeah, where to pick out things from where perhaps, and also kind of, you know, how to speak to how to respond to people, you know, we talk to brokers in a very more relaxed way than we talked to conveyances. So, yeah, but definitely picking out bits, information, things that are relevant, but things that aren't relevant. 
+
+16:57 | Wesley
+Yeah, that's the biggest. 
+
+16:58 | Samantha
+Challenge just get an e-mail that's you know, we all have it. You'll see an e-mail in the box and it will be paragraphs long and you think absolutely know, why am I doing that four o'clock on in the day? And then nine o'clock next morning? Our like I was just building to just give me a whole load of information I didn't need and it takes 10 minutes. So, yeah, that's quite a big skill that, we do. 
+
+17:14 | Wesley
+Yeah. And, I think that as an example would demonstrate us wouldn't it as a team. Did you know what I mean? That that would be something quite unique, to dual assets. You know, looking at a dual asset inquiry comes in. 
+
+17:33 | Samantha
+And. 
+
+17:33 | Jamie
+we can jump into the quite quickly, if you'd like to literally start talking about it because when we think about so by the way, you're already really advanced with this, like that idea is perfect. What would you say would be a sort of tangible outcome for this kind of scenario? So, for example, we could actually let me first ask, do you, when you say you get a lot of these requests by emails? Is that the main medium by which you would get those kind of that information from us like an e-mail. 
+
+18:04 | Wesley
+yeah, or is it an online with, we? 
+
+18:07 | Samantha
+Well, we get, I would say at the moment we're kind of 50 50 split. Actually we're getting a lot more referrals. But the difference is when you get referrals, you know, which statements of fact they can meet, which ones they can't and, the information you actually get is usually quite limited. Some people are very good. Most people are a bit poor. So I would say actually in my experience, this would be better for emails because someone's us and it's also going through the e-mail is it then standard terms to then be able to tell them to go to the website? Because that's the first thing is when it comes in the box, we're not doing it for them if it's standard. So it's those kind of things. So I'd say it's more akin to emails where you're. 
+
+18:41 | Wesley
+well, it sounds like, there's two examples there, Sam, there's, the e-mail and then there's the lack of any information through, the fray know, say on that latter one, it's what information do you want to ask for? What do you need? Because, to my mind, Dan, the learning objective will be getting a quote out with as little e-mail exchange as possible. 
+
+19:08 | Samantha
+Great. So I try and teach my team to do all they're underwriting upfront. So if it's adverse possession and they say it's registered, first point of call is go to map search, have a look, you know, usually you can identify the area they're talking about. So you can ask tailor questions. We don't have shopping lists, of questions that we ask. So it is kind of risk dependent, you know, if it's a planning issue, go to the planning portal. So, yeah, it's about trying to get that information upfront. You know, we do have a kind of a bit of a competition as to how many emails we can do stuff in. And, you know, you say one e-mail should be all you need a second one just to clarify that's it anymore than two. It should be quite complex. There's just, yeah, trying to get as much done upfront. So then you, the less emails you have, the better your conversion rate basically. So. 
+
+19:50 | Wesley
+And, and correct me if I'm wrong, Sam, but the, in my experience, if there's multiple emails asking for questions normally because the underwriter isn't understanding what they need. 
+
+20:04 | Samantha
+Yeah, it can. Yeah, people can fall into a little bit of a trap if they're not quite sure. So they'll just send a whole list of information and then they get it back. And then actually, they haven't really got on the right track either, and that's a hard one. Once you've gone down a track to then say, sorry, I actually need this information. And then they've got to go back to the client. So, yeah, I would say that's where. 
+
+20:21 | Wesley
+This is why, your example of the building mix inquiry with four pages of text is perfect because then we're looking at, well, how do we extract the information out? How do you get the underwriter to actually understand what the client wants? 
+
+20:39 | Samantha
+Yeah, exactly. 
+
+20:41 | Jamie
+So, there's a couple of ways we can go about building something like that. Do you have or would it be easy to come up with say five examples of emails with the kind of… outcome that you'd expect in terms of? 
+
+20:59 | Wesley
+Yeah. We, so we've got all the information we need to instantly quote on it. Do you mean Dan, or? 
+
+21:06 | Jamie
+Yeah. 
+
+21:06 | Wesley
+We relations. 
+
+21:08 | Jamie
+Yeah. So then, yeah, all we could do is in my head, I'm thinking of, well, actually best, do you have any learning material on that process on how an underwriter shouldn't be analysing an e-mail and then deciding or is it kind of based on your products, and, 
+
+21:26 | Wesley
+well, is based on products and solutions and knowledge over those. But as of documents for working this out there, there's nothing. It's all on the job training as far as I recall, okay? 
+
+21:44 | Jamie
+This. 
+
+21:44 | Wesley
+That's the shadowing element, of, yeah. 
+
+21:48 | Samantha
+Yeah. Basically someone has a buddy. So when they start, they have a body and then what they do is depending obviously depends on their experience. But, if we're talking about someone who's got zero experience and they will have a body and they will literally start with it will be, they will go through. What, do you understand about this? What product do you think is, first of all, then it's like do you think is standard terms and they have this, you know, the wordings open and it's basically about just getting them, to get familiar with the wordings, and then you kind of just reduce that accordingly as they grow in their independence and their confidence and their knowledge, you kind of then can reduce that to the point where they can then be independent and can deal with stuff without kind of input. So it starts very heavy and then it us, but that is usually on the job kind of case by case. 
+
+22:29 | Jamie
+Gotcha. In that case, it might be easiest for building this out. We do have some information about, the products obviously in the one of these sprints, which one is it it's in our products are set? So we could use that, as knowledge, for us to be able to help, the learner draw those connections, but is there a chance you might have some example emails that you've received and some example quotes that have been sent back or some way of being able to train our scenario on what good looks like, I suppose from your perspective because that would be, really helpful for this particular one. 
+
+23:07 | Wesley
+Well, I mean I could create some scenarios. 
+
+23:12 | Jamie
+Yeah, that would be far better. 
+
+23:15 | Wesley
+Ross and Sam, just to see if, okay. 
+
+23:20 | Samantha
+I can also a, milli can ask Sophie to keep her up. She's she's the person my team who allocates so I can ask her to keep an eye on if there's any cases where they are, they look really chunky but they're actually standard terms or they're actually really basic. I can just get her to forward them to you as I do to do that. And if we come across any of, 
+
+23:35 | Wesley
+yeah, that. 
+
+23:36 | Samantha
+Looks like it might be helpful whether you use it or not. We'll just start sending some stuff over that we think I would might be helpful in you. 
+
+23:42 | Wesley
+Tweak. 
+
+23:43 | Samantha
+We, yeah. Okay. All right. I'll. 
+
+23:44 | Wesley
+he just into them or something. Yeah. 
+
+23:49 | Samantha
+Yeah, we'll do that's. Absolutely fine. It's always good to use live examples because they're handy to use. I usually use them for testing and stuff. They're really. 
+
+23:57 | Jamie
+We can always anonymize them with if that helps in terms of. 
+
+24:00 | Wesley
+We're going to stuff. Yeah, but yeah, that's fine. Yeah. 
+
+24:05 | Jamie
+Yeah. It's really just about letting our, the one downside of Jenny is it doesn't know what it doesn't know. So, and in specific case as well as an experience with, the spread that we've been sending you over to prove it, rather does make things a, every so often. So just making it as basically, we can script these scenarios quite carefully. So, it says the same things over and over again. So, for example, it might give a very structured e-mail that we've given it. And then it has an idea of what the underwriters should be. 
+
+24:36 | Jamie
+It. 
+
+24:36 | Jamie
+and then it can give feedback to the underwriter based on what they have responded with. If that makes sense. So the be, the more I resumes, we… I think that's actually pretty much all I need really because what we would then do is I would take that information you gave me and I would go away and use the tools that we have to craft a step by step kind of description of how that conversation would go. And then what we do is we start by returning this document to you. So we wouldn't that you actually use what we could use, the chat log with that loaded in if you'd like. But we find that this is helpful because it gives you more control. So this is a bit part of the test is figuring out whether this is most helpful way to you instruct AI without actually having to build it yourself if that makes sense. So does that sound like an okay next step? If if you send me any examples you have of that process and then I can build this out, send it back. You can have a quick read over. It will be very human language by the way. So it'll read like, a script. And then when you're happy with that, we can go and build it and it'll be very quick to build. And then we can put it in the jewel group for you to basically how again and then you can iterate it as we going on just to make sure that it's doing what you expect into. 
+
+25:52 | Wesley
+Great. Brilliant. Are you able to send some real examples across? Did you allocate for your team? 
+
+26:04 | Ross
+Yes, I can find some examples. Yeah. 
+
+26:07 | Wesley
+Great. Thank you. Got. Yeah. And and again, I included name in this because the next stage would be to look at what happens when the claim comes in. And, you know, what information do you look out for? And how do you deal with it? Which I think would be very useful because that's not something generally that most underwriters see. Is it? So you don't have to put your hand up, Sam? 
+
+26:33 | Samantha
+I don't want to interrupt you. So I don't know when you're going to like finish. So I was just gonna say that we, one of the things we're building going to build on the website is that people will have a claims button on the website. So just to like make a claim and they can actually just click on it and we can actually start getting into prescribe the information we want them to give us before they just send some random e-mail to us. Sometimes we have good information sometimes Hive, none so. And then also, it kind of takes the pressure off kind of people when they have a call from them. So I think that would be, that will be quite helpful as well. But that, yeah, that will be, but it'll be good from a claims perspective. I do think it's really helpful for people to see that side of things. I think it does make people a better underwriters. So I think it'd be good to do some claims training in here for underwriters as well. So. 
+
+27:15 | Wesley
+Definitely. Yeah. So so, what do you both think you're coming up with loads of ideas already? 
+
+27:24 | Samantha
+Yeah. I got there's. Loads of stuff I want to incorporate in the training because there's you know, because obviously, it's so heavy on my team and obviously we're trying to reduce that. So the more I can build into something that somebody can send is interactive rather than just sit and read in paragraphs and stuff. I'm there. So yeah, I've got there's loads of stuff I would love, to get included. So. 
+
+27:44 | Wesley
+Good. 
+
+27:44 | Samantha
+And it's good that people can see that they're progressing and they're passing thing like I think it's really good for their develop. 
+
+27:48 | Wesley
+Actually see rather just get through. 
+
+27:50 | Samantha
+And I don't always have oversight of everything people are doing. So I'm really relying on saying how's this person getting on? Are they, you know, whereas actually this is really good for seeing someone's kind of progress and they can see it themselves. So they can, you know? 
+
+28:02 | Wesley
+Yeah, exactly. And, and Dan we discussed on Friday didn't we, that this information is recorded. So. 
+
+28:10 | Jamie
+Yeah. So you'll be able to either using… how to check, on the product as far as when it's ready. But the idea is to be able to analyse these conversations and scale so that you'll be able to extract insights. Like for example, in this example, we've just given a certain number of your team might be struggling with a certain type of risk for example. So we can start to extract that kind of insight as well. So, yeah, one of the things we're trying to figure out is how do we really make these tangible metrics? So in the example that I might build for you, I'd actually suggest having something like maybe five emails and five outcomes so that we can then say, you know, maybe tracking just how well they're getting on with all of those five examples and maybe a success for a user is they can confidently do all five without many errors or something like that. So, yeah, I think that's really good shout as you say where's. 
+
+29:02 | Wesley
+yeah. And I think we should even for sam's team, as new bees, I think if we Chuck some Ross inquiries in there, definitely. Yeah, not expecting to. 
+
+29:14 | Samantha
+Crossover. If you get a new build prop property, you're looking at the new build but actually you, the development could still be ongoing. So and it could be covenants needs, and stuff. So the, that is, yeah, it's good for them to have that experience in some of the development stuff anyway because a lot of the kind of theories you know, there, but, you know, like they're kind of the principals and stuff they will cross over. So they're definitely crossover. I'm really on board with that. 
+
+29:39 | Ross
+Yeah. I mean, ultimately, it's I synthesiseng information isn't it. So we'll get a four page e-mail that actually contains three pieces of information that we need. And the rest of it will be quite frankly noise. I know we're trying to get out is what are the main bits of information? Have they done something that we don't like them doing? And yeah, well, then say, well, that's the risk. We can then underwrite it accordingly and it's just pulling all of that information down into about three or four key facts so that we don't have to go back and perpetually ask questions because it's very easy to go down a rabbit hole of because it's a big long text saying we'll ask them questions about something that's completely irrelevant, not, irrelevant to our perception of the risk. 
+
+30:34 | Wesley
+Yeah, yeah. Agreed. Yeah. But equally, there might be something in that long amount of text that is a little nugget of information that may not seem relevant but. 
+
+30:46 | Ross
+Yeah, that's why I'm saying like it's taking out the key facts, but also have they gone and talked to someone when we would prefer they hadn't or have they, I don't know… previously had insurance denied or they previously tried to fix it in some way? So it is the key parts of, the, so like disclosure points I. 
+
+31:08 | Wesley
+Yes. Well, yeah, exactly. And on that note, as we, as we've all experienced, can you kind of tell they are with holding something because there is the, you know, I'm sure we can find some of those. Yeah. And one of the O, one of the other thoughts, I had is we could set up a role play scenario of a member of staff go into a networking event… you know, and introduce themselves to someone. Yes. 
+
+31:39 | Samantha
+Go out to stuff and they do speak to clients and things like. 
+
+31:42 | Wesley
+Yeah, I bracket isn't it is bracket is a skill in myself. I don't. 
+
+31:46 | Samantha
+anything like presenting and speaking to clients and things like that. It's it's a skill in itself that, you know, definitely we U, we should offer, you know, training for it's. It's it's very nerve wracking. So I would, we do expect quite a lot but it's good. It makes people really good. You know, it's good training to have. So, yeah. 
+
+32:06 | Wesley
+Yeah. So hopefully the pair of you will be thinking of all kinds of different stuff. Now. What do you, what do you think of it Ross? 
+
+32:16 | Ross
+I think it's a good system. I guess ultimately, it depends on the scenarios we give it and the information that we can provide to enable the script of the prompts to work. Yeah. So I think it's good. We just need to figure out how, to build it out. And I guess if our starting point is… something where they got a definite outcome like that? You know, I think sam's example of the talking to clients is good, but that's… harder to do because it could go down 900,000,000 different routes. Whereas if we can start by training it for something that or for example, the PML thing that you're saying at the start, something that should come down into a fairly certain outcome in terms of both the information and hitting the learning need, then that's probably the best place to start. So. 
+
+33:10 | Jamie
+But Mike, I used to. 
+
+33:11 | Samantha
+Do like training didn't, he did like training on basically how to speak to clients and stuff. And actually he was very good at being like, okay, so let's say you need to, but I obviously I'm a woman and I usually deal with middle aged men and I have nothing in common with them whatsoever they play golf. They like football, not interested in any of those things. And actually he gave some really good kind of role play about how to basically how to speak to those kind of people and stuff. So I do think there could be some scenarios we could put in especially when you've got like maybe junior under quite young having to deal with, you know, middle aged conveyancer who can be quite, you know, they can be a little bit tricky to speak to. So I think there's definitely some scenarios we could put in around that just to give some kind of like what do you do in this situation? We basically, you got nothing to talk about and you're sitting at the races and, you know, like, do you know what I mean? I think we could put some stuff in around that Mike, it was really good at doing some stuff around that. So, but I agree. I think we should start with the stuff that's more funnel that's got a bit more like you say a bit more certainty and then build out to the other bits. 
+
+34:08 | Wesley
+Yeah. It seems it's easy to get COVID wise. 
+
+34:14 | Jamie
+I've done that you, you're all technique of exact. 
+
+34:17 | Ross
+The 900 things I'd like it to fix. So I'm just conscious. Yeah, I think… because it is prompting with we're sort of helping it build that script and appreciate that, the AI is set behind there and it's learning the more we can give it a fixed outcome to start with. Then we can feel confident in relying on it before we try and apply it across my 900 ideas. 
+
+34:44 | Jamie
+It can do the other parts as well especially if we give it their instructions as far as, the personalities of people. So for a, that's a really good example where we could, we can literally adjust the prompts behind the scenes to make a role play as, you know, someone that's perhaps got a certain set of interests or a certain set of motivations or certain personality traits. So we've tested having conversations with really typical people that generally want to speak up. We've managed to test role paris about wellbeing where people are really have comfort with us speaking about those things. And the learners task is to try and help that person to speak about something that perhaps is a bit sensitive. So, you know, we can push the be I'm trying to these things but I think you're right there, it's good to test the more fixed in place ones early on just because that will give us a better frame of like what's working and one isn't so. But that example you've given is really good car on. So I think we can quite quickly, with that kind of insights and that you'll be able to use quite quickly… any of your smart, I think next steps obviously, if you can get, those e-mail examples to me as soon as soon as you're able to, then I could just start working on it really and, it can all happen quite quickly. But any other kind of things that you need from us or anyone that needs from John? 
+
+36:03 | Jamie
+From our side? Yeah, I think from our side as well. That's great. I'll send a quick follow up e-mail just with those actions. But I think it is fairly simple. We can get those examples. Dan can start on creating it. Then we can send it over a few to play around with and check it out. And then we can go from there and hopefully, that works well. And then if you do have any other ideas about how we could use it maybe more after we tried that first, Maria, you can get a bit of a better idea about how it works and what it's good at. And then, yeah, feel free to send over any questions or any suggestions at any point and we can just stop those up and then roll those out when it's appropriate. So yeah, do keep the brain, the cogs turning and let us know if anything comes up. Thank you. I think. 
+
+36:45 | Wesley
+And Ross, and Sam, how involved do you want to be in this at this stage? Did you want, do you want to be copied into stuff or do you just want to send the inquiries and then look at the end result? 
+
+36:56 | Samantha
+I love. 
+
+36:57 | Ross
+It. Okay. I was gonna go the opposite way, so I'll give you whatever information you need, but I mean, you're the training master, you've done this way longer than I have, so. 
+
+37:09 | Samantha
+Yeah, I'm happy to support, but I really like all this stuff, like, I really enjoy doing kind of like training and developing people and stuff like that's kind of, yeah. 
+
+37:17 | Wesley
+So, I'm happy to be involved as a. 
+
+37:19 | Samantha
+Yeah. 
+
+37:21 | Wesley
+We'll keep you copied in until you say, please don't send me more emails, okay? 
+
+37:27 | Jamie
+He. 
+
+37:29 | Samantha
+I'll just put you into my other folder. You can do that in three six five. Now. Can't you the spam one? Yeah. Sounds good. 
+
+37:39 | Wesley
+Good. Well, all, yeah. 
+
+37:43 | Samantha
+Yeah. 
+
+37:44 | Jamie
+Thanks very much. Very good. Call. Apologies for running over a little bit there. Hopefully, we haven't cut into any other meetings but thank you very much, and. 
+
+37:50 | Ross
+Releasing. 
+
+37:51 | Samantha
+thanks so much. Bye bye. 
+
+37:55 | Jamie
+Bye bye. 

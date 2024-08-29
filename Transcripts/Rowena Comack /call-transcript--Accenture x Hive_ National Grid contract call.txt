@@ -1,0 +1,268 @@
+Accenture x Hive: National Grid contract call
+
+Rowena Cormack with Accenture
+Recorded on Jul 24, 2024 via Microsoft Teams, 32m
+
+
+
+Participants
+
+Hive Learning
+Rowena Cormack
+
+Accenture
+Jigar Lalan
+Arshia Patel, Team Lead
+
+Other
+Phone Caller #1
+
+
+
+Transcript
+
+0:02 | Jigar
+how are you? I am doing good, Rowena. How are you? 
+
+0:06 | Rowena
+That's good. Thank you. And I appreciate you letting me move this call around. I had, I was busy out a customer this morning and I realised the trouble time was going to clash a little bit. So I appreciate that. I might have had a difficult conversation on the move. 
+
+0:22 | Jigar
+No, no, absolutely. No problem. I believe one of my colleagues was supposed to join as well. Give me a quick 10 seconds if you don't mind please. 
+
+0:31 | Rowena
+Yeah, of course. 
+
+0:57 | Jigar
+Okay. So all right now, I do also have my colleague call Asia. So Asia has just joined our team, Rowena. Okay. She has just recently joined our team. She's just almost two months old. Okay? And she's just in the transition to understand. So once when I start taking over the bigger role on zophia's absence, okay? I'm sure you have worked with Sophia prior to this, right? 
+
+1:21 | Rowena
+Yes, I did. Yeah, just for a short amount of time when I took over. And, yeah, nice to have you join us as I think, we met in the last call. So hopefully… you'll start getting up speed on things. 
+
+1:36 | Jigar
+Yeah, super. Okay. All right. Let's because I'm just on a way tight schedule, right? I wanna go back to that call for the next two hours. 
+
+1:46 | Rowena
+Well, I appreciate you slotting me in. We'll make sure that it's productive and quick. 
+
+1:51 | Jigar
+Okay. Super. Not sure. Did you, did you get a chance to have a look at my e-mail which I sent you, I believe I sent you during last week or week prior to that, I believe. 
+
+2:04 | Rowena
+Yes. Yeah. It was just almost two weeks ago and I wanted to talk it through, which is why I haven't send a full response yet because I wanted to have this conversation first and thank you for sharing all of the feedback I think is really helpful for us to understand. So then we can work forward and create some solutions, correct? Before we kind of dive into that. Is it possible for you to just update me on like where you're at with the conversations and who you've been speaking to at national grid. About it just so that we're on the same page. I think we're having quite a lot of conversations with the team at the moment about lots of different things. So I want to make sure that, yeah, we're, on the same page? 
+
+2:44 | Jigar
+No, no. So, so my conversation is now stuck only because we, my connect with you was spending, right? I've been connecting with the same team of my performance and development lead. Okay? So it's the same team I've been connecting with them right now. Okay? I just had a call yesterday with them, right? And then they want to know and update on update, you know, what's the final verdict from? Or, you know, I said, okay, you know what I have called today, right? And let me see what is I talking about? Okay? Or how we are, how we are ensuring that the engagement is going for the third year as well. Okay. That's the conversation I had, I just have to update them on basis our conversation, what, we have right now, okay? 
+
+3:30 | Rowena
+Is that with Kathleen and was it Gene? 
+
+3:34 | Jigar
+It's it's Kathleen, Catherine, and then Janine. 
+
+3:41 | Rowena
+That's great. This is just that joined a conversation with us yesterday and I just wanted to make sure that I was aware of. 
+
+3:50 | Jigar
+You, what conversation was that? 
+
+3:52 | Rowena
+Just a partnership conversation where we were talking about some of the tools that we've created, showcasing them to the wider team. I'm talking about where we can work together in future. So I just wanted to join the dots because that was nothing to do with pricing. It was more just to do like the, to provide to national grid. So thank you for sharing the overview. I think there is something we can do to come work to a conclusion. And I just wanted to talk it through on a call so that we can see what feels like is the best option. If I look at your e-mail we could kind of work through the points, if that's okay? 
+
+4:35 | Jigar
+Yeah, absolutely. No problem. You want to share. Share the screen? I'm okay with that as well. Do you want me to do that? I can do that as well? 
+
+4:41 | Rowena
+Yeah, I can share the screen. I've just got your e-mail if that's. 
+
+4:44 | Jigar
+but that's the same e-mail I was talking about, you know, to see it. Okay? Let me share it. I opened it as well… and tell me if you are able to see this? 
+
+4:54 | Rowena
+Yes, yeah. 
+
+4:55 | Jigar
+Okay. All right. So again, you know, during my conversation a couple of weeks back with the team, you know, see somewhere, they love the idea of this new edition of the 1,000 licenses, right? And, and, but, again, they are still in, they like the idea, but then they are still not sure about it very honestly because that's the feeling I got completely because even if you see historically even for you too, they have not completely adopted six for three licenses. Yeah. Okay. Now, I would want to, you know, discuss on that point also at the same time but coming back. Okay. So somewhere, they liked this idea, they were not happy, right? The, the second concerns, the concerns, what these guys had was they were not happy about the five percent additional, you know, inflation cost while I spoke about it, right? But they were pretty not happy, you know, because on honestly, they do not have the budget. They do not have a single Penny over and above the existing budget which they have, which they have gotten approval from their business lead, right? Even after fighting it for almost three months, right? Because, they were getting a reduced budget and then finally got, they got this approved as is budget. That's the conversation I had. Okay. Again, you know, their prime target right now is to ensure the adoption of the current licenses needs to be completed, which I really don't see will happen, but broadly, you know, we should be, I believe 70 to 80 percent we would be able to cover this year. I believe that, okay, this is my broader resumption during our conversation. And I a, I would love to reconcile those numbers with you as well. Okay? 
+
+6:47 | Rowena
+Yeah, we can definitely pick that up. And, I right, we're working off the forecast, of cohorts and number of users forecast in each of those cohorts. Which is why we think we should get to the 650. I'll double check with grace who manages the customer success side of things, whether we've had any updates on numbers and when, what we think we'll get to, but I think when we last spoke about it with the national grid team, they were assuming they might get that level of take up. So if things have changed on their side, that's fine. And we'll look into that. 
+
+7:22 | Jigar
+Yeah, absolutely. Because broadly what I understood, at least what I could, you know, take out from that conversation with them was adoption would be approximately to 80 percent for this year. We at least what I could understand it if it goes up, you know, we squeeze the, you know, everything which has been put across. Now. I completely understand that piece. Okay. So see broadly, you know, when I spoke with them, I could definitely get a feeling Rowena that somewhere that this interest was there. Yeah. And I said, okay, is that, what is it that, you know, they were not happy about? And that's what these guys, you know, spoke about all these points which I've written down it completely in my e-mail okay, tell me how can we create this engagement or, you know, and… push the engagement for 30 year as well? 
+
+8:22 | Rowena
+Yeah. And I think, yeah, that's something that we can definitely look at and I think there are some options that I've had a chance to review since you sent this e-mail over. So I can happy to talk through those which kind of align with your proposed solutions. So we can have a little bit of a conversation around that to see if there's somewhere that we can come to a good conclusion on. So in terms of those options, I think when it comes to option one providing a 1,000 licenses at the same price of 137,000, I think that's probably the one which we'd be less open to exploring and having conversations with because that's not something that I think I'll be able to get signed off with our team, but I think what we could do is try and explore the options two and three and see where we land with something like that. So, I think in terms of being able to carry forward licenses, that might be something that I can do. It becomes a little bit complicated because of the way that we tend to do our licenses. They will work annually. 
+
+9:31 | Jigar
+Yeah, no, please continue. Then I have a question for you. Yeah, please go ahead. 
+
+9:35 | Rowena
+Yeah, it just becomes a little bit complicated just because of the way that we do it. So we tend to have the licenses and reset them annually because it's nice and clean cut. And then we know exactly how many licenses we've used that year with the role over, it becomes a little bit Gary, I'm working out how those cohorts run and we get those extra licenses can be a little bit complex but. 
+
+9:57 | Jigar
+It. 
+
+9:58 | Rowena
+might be possible for us to work something else that kind of fits. 
+
+10:02 | Jigar
+Yeah. 10, can I ask my question if you're in mind please? 
+
+10:06 | Rowena
+Yes. And then I've got one more thing to add on that one and then, yeah, yeah. 
+
+10:11 | Jigar
+Just, yeah. So so on the licenses, okay, help me, how do you count a license? Do you count a license when it is initiated? Or do you count a license when it is over the adoption of a license? 
+
+10:29 | Rowena
+So we count your license when it's initiated. So once someone is invited to join Hive, that does tend to mark as license used, we natural grid, we have very high levels of registration. So actually the invited versus registered, is not hugely different because of the high levels of registration for each of those groups. So that's how the licenses are assigned to. 
+
+10:57 | Jigar
+Are been assigned? Okay. I have a different question on the same adoption piece. Is there any concept of rollover types? Let me explain. Let me give you an example, you know, so that you understand this a little better. Okay. I have for say 2024 Jan to december, if I've taken 650 licenses. Okay. Right. And say, suppose, if I, for 2025 also I take 650 licenses. Okay? Now, I might have adopted it, say 600 licenses in the year 2024 but my remaining 50 license has already been initiated, say in the month of november but got completed in Jan or feb 2025. Let's take an example of it. Okay? So would that remaining 50 would be accounted within 2024 which will complete my 650 or it will be accounted in 2020? Five's procurement of licenses. You get, you got my question, right? Rowena? 
+
+11:58 | Rowena
+Yes. I do have the question. I just, I'm not 100 percent clear on the dates to might just have to mention those. 
+
+12:05 | Jigar
+I'll repeat that. I'll repeat that. No problem at all. So for 2024 Jan to december. Okay. We procured 650 licenses. Yeah, clear till now. Okay. We, we, until november we consumed or we adopted 600 licenses. So remaining are 50 with me till now? Yeah. Okay. For the remaining 50, our learners started their course or started the license adoption in the month of december? Okay? December 2024 okay. But they completed that course? They completed that course in the month of feb 2025. Yeah. Okay. So would that 50 would be accounted within the year two 2024 license? Or will this go over and we consume from the year three 2025 licenses? 
+
+13:06 | Rowena
+Yeah. Okay. I understand the question. So typically, if we were following the standard contractual approach, they will be used in 2024 and then they would also be used in 2025 because they're carried forward in both years. I think where there's instances like that, we can play on a case by case basis where we say, okay, well, those 50 licenses that started in december, maybe we just count them for use, in 2025 and have those reset for 2025. I think, it can just get a little, the lines can get very blurry when we start doing that because then it's like, well, at what point are we allowed to roll over licenses? Typically, we don't actually have any clauses about rolling over licenses within our contracts. It's like the licenses are annual user licenses and they reset each year with the contract because it's clean cut and it's easy to manage. 
+
+14:12 | Jigar
+So, so if I have to just ask you a simple question there, that is say if we are doing a program, right? Like your future, our future leaders program is for every six months, if I'm not mistaken, right? These are six months program, right? See, if I initiate it in september, right? And it will get over in february, right? But still those say there are 100 100 licenses I'm using in september, right? 100 delegates been enrolled for that. So, irrespective the company in 2025 right? Irrespective of that, okay, the consumption will go in, go from the 2024 agreement. Yeah, that's what, because I remember that's what you have told earlier also that the dates initiated, it's the day for that particular year it's been accounted. 
+
+15:00 | Rowena
+Okay. So, yeah. 
+
+15:01 | Jigar
+Just understanding. 
+
+15:02 | Rowena
+Your question? Yeah, that, so the license starts being counted from the date that is initiated but continues to be counted until the end of its usage. So for instance, in, that example, if you initiate the license in september and then the, those individuals have access until february, what we do as part of the contract now is those licenses will be used in 2024 and 2025 because we give the opportunity to reset them once at the start of the contract year. So in this case, first of, so it depends on how you use the licenses in the year. So if they're used in both years, then that would typically count what we have done in the past is because national grid are an existing client of ours and, you know, we've worked really closely with them. We've said, okay, we know your type on licenses. So this group that extends over just into january will either take them off a bit early to save you the licenses or give you like a few weeks good will just extension and we just manage it on a case by case basis. And. 
+
+16:16 | Jigar
+No, because what is not giving me clarity is… if. 
+
+16:26 | Jigar
+see, I hear contradictory statements, okay. Please. And, and correct me if I'm if my understanding is not right? Okay. Firstly, first, the, you know, you said there are no, it is accounted the day it's been initiated. Okay? So for 2024, right? If I have 650 licenses, if I start in september, right? Then it is, it should be accounted within the 650 licenses of 2024. Okay. But I have also again renewed if in case I renew it, right? I have renewed it for 2025 also for 650 licenses. Okay? Let's these are two scenarios. It's sorry, it's a single scenario with two different contracts. So in the month of september, I have enrolled 100 delegates for they finish the course. They, they start the course in september. So out of the 2024 contract of 650 licenses, this 100 is adopted clear till now, right? Yes. Yeah. Okay. Now, my 650 100 percent adoption for 2024 is clear. Okay. Now, once they finish in february 2025 they will finish the course in february 2025 correct? Would that 100 delegates would also be deducted from the 2025 licenses procured? 
+
+17:49 | Rowena
+Yes, it was. So that's what I mix? 
+
+17:52 | Jigar
+Why, why would it happen twice? It's my question? 
+
+17:56 | Rowena
+Is because we count the way that we do it here at Hive, is we look at, the annual user licenses. So if someone is on the platform in that year, they count as using a license. So for instance, in that scenario of 100 delegates joining in september, they're using a license in the annual year. And then again, when the contract resets in january, we can take off anyone who doesn't need it anymore. But it does count as using a license because they're on the platform. 
+
+18:31 | Jigar
+But I see, Robin I completely understand, right? What you're trying to make a point here, tell me what is the validity of this license? Is there a validity of this license? 
+
+18:41 | Rowena
+He, is annual user licenses running in the contractual year they couldn't have? 
+
+18:47 | Jigar
+Actual year? Okay. So, so typically, even if I have to launch in september where my agreement is from Jan to december. So even if I have to launch in september, I launch 100 delegates in september, complete in feb, right? That means you hundreds have been adopted within 650 of 2024 and then 100 is 100 licenses are adopted in 2025 so it's a double counting. I don't know, I see for me, it's not making sense, right? Why would one double count this? Because I'm paying twice. I'm paying twice for same license for same user, I'm paying? 
+
+19:25 | Rowena
+Yes. 
+
+19:26 | Jigar
+I see that is, I don't know it is absolutely not making calculative sense to me. He doesn't. 
+
+19:34 | Rowena
+our team, but the, just, the way that we run our licenses across most of our programs is annual user licenses. Sometimes we account for large numbers over a longer period of time. And then they, so for instance, got one customer whereas two year contract and they have a 1,500 and they don't reset over that period. So there are different ways in which we can manage that, but it's normally, the annual user license model… it's unless you manage the cohorts and you do the pricing for each cohort separately, where they run from their contract. Or yeah, it's just a typical annual user license model. 
+
+20:20 | Jigar
+So, so let me ask you another question. If I start a cohort in June, technically, if I start in June first, that means, and the course duration is until this until november thirtieth six month duration, right? Do you say that then they will have the validity of that license is only for another one more month, which is december 2024 is what your, this is what I'm able to understand from all the previous conversation we had right now? 
+
+20:55 | Rowena
+Yes. So the way it currently is set up is that, yeah, that licence, will you get all you get the opportunity to resend them at the start of the contractual year? So then you can say, right? Okay. And those people will reassign, I can take it away and talk to our team about how we can manage it. But it's that proves quite complicated to manage it according to cohorts when they're not in their own individual like contract with the start date there. It's. 
+
+21:25 | Jigar
+see then what we will have to do as a winner? 
+
+21:28 | Rowena
+Yes. Mm. 
+
+21:28 | Jigar
+Hmm. See again, sorry, I'm interrupting you, but then, you know, there is something which is actually not making sense to me here. Okay? Which is the way the licenses have been accounted, and a single user has been charged twice for taking one single course, which is not mathematical making sense to me. But let me share something with you. And, and then I want your support here. Give me a second. Okay. Give me a second. I'm just pulling that data off. 
+
+22:24 | Jigar
+I'm sharing my screen again. Okay? 
+
+22:31 | Jigar
+Tell me if you're able to see this? Yes. Okay. See, I was just, I was just trying to understand know what are the codes which have been done till now? Okay? And then how we are planning this? Okay? I, I'll talk about first line leaders. This is a three month course. Is, is my understanding, correct? Yes, future leaders, it's for 12 months. Yeah. Okay. Right now, technically, if I want it to be utilized within the same year, contractual year, then Jan is the only place where I will have to place the, where I should place it to place the delegates. 
+
+23:20 | Rowena
+Yeah. 
+
+23:20 | Jigar
+Yeah. But then the, and that's my entire problem. You know, because that is not giving us flexibility point number one, point number two. And that's where, I guess that's one of the biggest concern Kathleen has raised that, why is this? If and then they have asked me double check? You know, if that is the case, then seriously, something is wrong there. Even I agree with that. You know, that it cannot work that we then, you know, we will be charged twice for the same delegate. I'm sure you even Rowena, you would not love to give it, give double the cost, right? So I cross checking the numbers here, right? I will just, sorry. Let me finish. I'm so sorry. So see future leaders, if you should say, Jan, we had a quote, for 56 delegates. Immediately in march, we had cohort five for 51 delegates. We, this is all forecasted numbers again, do not quote me for these numbers. These all forecasted numbers. Okay. What I'm trying to understand here is see now, I'll give you look at my sell which I've highlighted which is this one, 157. This is where we were trying to understand that when it goes in Jan, your 101 which happened in may 2023 plus 56 in Jan 2024 which is equal to 157 is accounted as a license adopted for which you understand, my question there, right? Is that's where, you know, I was trying to understand, this is not the right calculation. This is a very, this is a, very, different calculation. I've never seen in my life. Okay, that okay could be, but this is where my concern and Kathleen concern is that, this is not the right way. Okay. We will have to come to a conclusion. How do we, how do we fix this right? To ensure that the adoption is done in the right manner? 
+
+25:15 | Rowena
+Okay. I'll take it away with our legal team. The standard way that we do this is according to annual user licenses. It's just the way that we run it across all of our programmes. But I can speak to our legal team to see what's possible in terms of how we build in the cohort driven approach, and see how we can factor that in. It might mean that we have to look at pricing in a slightly different way and break it down just on a cost per head model instead of a… like services, and line item way, natural bridge open to kind of bundling all of that cost into a cost per head model where we run it just one license cost per head, which would be a higher number. So for instance, at the moment it costs natural grade 212 pounds ahead for each of their licenses with all the other fees included like the service, the platform fees, the sso, and all of that. If we bundled everything into a single per head fee, and then ran it according to when the programs started and each license lasts a year from the start at, do you think they would be more receptive to that? And I can run it past our legal team and our commercial lead? 
+
+26:44 | Jigar
+Yes, please do that because see, they, I'm sure even you would want the same. They want a simple understanding and calculation of, okay, if I have, if we have agreed for year 2024 for 650 licenses, right? Then anything which goes within the 2024 even if it's the last day of 2024, it should be accounted within the same contract field a year agreement. Okay? 
+
+27:10 | Rowena
+That's. 
+
+27:11 | Jigar
+where that's where, you know, they were raising a concern and they were a little confused. I don't know why is this? So I said, okay, even, I heard it for the first time, let me talk to Rowena to understand this little more deeper. 
+
+27:22 | Rowena
+Yeah. I think it's just natural grid use it in a slightly different way from some of our other clients. So it's reflecting our kind of standard annual user license approach. But maybe that's not the best fit for natural grid. So, let me see if I can have a conversation with the team around that. I think when it comes to some of your options outlined below that I think where we can be more flexible as if they are agreeing to a longer term agreement. Do you know what their appetite is for extending beyond one year? If we can come to a good conclusion on how we manage these licenses? Obviously bearing in mind that? 
+
+28:06 | Jigar
+Sure. See, you know, when I was just talking to, you know, these, the team out there… the budget, what they have from year one and two is as of now, they have fought and got it the same. But, what they foresee that this would be reduced next year for sure. Okay. This is what they are foreseeing it. Even even I also force because through other conversations through other leadership team, I could also make that conversation, you know, somewhere clearly understandable… going beyond one 37 K is absolutely not acceptable for them. Point number one, the only way, the only way what I feel is either we agree with, you know, providing this 1,000 licenses with, you know, with one 37 K else, you know, again, the point number two is again depending on how we are able to track it, that's more important point on point number two. Okay. Right. Winwin situation, what I feel for everyone, that is inclusive Hive, inclusive national grid, right? I think the point number three, it's more on point number one and three three. See, I can go and try convincing. But again, if not, do not kill me for it, Rowena. Okay. But I'll try my best to convince them for 149 K, if we include all, you know, include complete access to all gen AI tools. 
+
+29:48 | Rowena
+Huh. Yeah. 
+
+29:50 | Jigar
+That will also increase. See. I look at it this way that, you know, this would be a good situation for hi, also, you know, in that way you will have… more adoption of this tool or utilization of this tool to be, you know, logged into to understand, you know, how the tool is performing and also. 
+
+30:10 | Rowena
+I'll take it, wait and see what we can do. I'll probably these types of pricing things we'll need running past our CEO who leads on the pricing. So let me see what I can do and we'll come back to you with some more details. 
+
+30:26 | Jigar
+Okay. And, and just one last request, if not… a support rather, can we circle back this Friday? 
+
+30:47 | Rowena
+I will try and get something over to you by tomorrow. I'm on annual leave on Friday, but I will see if I can send a follow up tomorrow I. 
+
+30:57 | Jigar
+Are you, are you available next week, Monday or you? 
+
+31:00 | Rowena
+Yeah. Okay. 
+
+31:02 | Jigar
+Okay. So, so… okay, help me to get an answer tomorrow itself, if possible before 12 noon, right? Because I have a call with them, post that post 12 noon. I have a call exactly at 12 30. Okay? So if you can help me to get an answer before 12, I would really appreciate that for a reason so that, I can at least keep them posted that where we are right now. Okay, that is point number one, point number two. If you, if we can set up a call tomorrow again, you know, once you have an answer, I would be more than happy to do so. 
+
+31:41 | Rowena
+And, and sorry, is your call tomorrow at 12 30 or is it or Friday at 12 30? 
+
+31:48 | Jigar
+Thursday? 
+
+31:52 | Rowena
+I will try and get some time with Laura. I'll see you tomorrow morning and then try and get an update over to you by perfect tomorrow. 
+
+32:02 | Jigar
+Perfect. I'm actively available on my teams. You can keep pinging me and I would be able to answer that is. 
+
+32:10 | Rowena
+Yes. Okay. Let me, let me see what I can do and I'll send you an update on teams. 
+
+32:15 | Jigar
+Sure. Okay. Sounds good. Thanks a lot. All right. Talk to you soon. Cheers. Bye bye. 
+
+32:20 | Rowena
+Thank you. Bye. 
+
+32:21 | Jigar
+Bye bye. 
