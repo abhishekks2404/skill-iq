@@ -74,17 +74,23 @@ def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description
             }
         
         prompt = f'''
-            Transcript: {Transcript}\n
-            Sale_deal_stages_description: {Sale_deal_stages_description}\n
-            Skill_levels_description: {skill_levels_description}\n
+                Transcript: {Transcript}
+                Sale_deal_stages_description: {Sale_deal_stages_description}
+                Skill_levels_description: {skill_levels_description}
 
-            The given Transcript is transcription of Sales audio call. Sale_deal_stages_description is description of various stages of Sales deal. Skill_levels_description is description of various levels of skill.
-            Please assess the transcript and identify Sales Deal Stage level based on the deal_stages_description , and identify Skills level based on the Skill_levels_description.
-            Just provide me a only json with structure. No other text should be present in the output.
+                Understand the Sales Deal Stage and Skill Level description properly then proceed ahead.
 
-            As an output please provide me a only json with structure
-            {json_file}
-            '''
+                The provided transcript is from a sales audio call. The `Sale_deal_stages_description` outlines the various stages of a sales deal, while the `Skill_levels_description` details different levels of skills. Your task is to thoroughly analyze both the deal stages and skill levels descriptions and accurately match the transcript to the most suitable deal stage and skill level.
+
+                Please identify:
+                1. The appropriate sales deal stage based on the `Sale_deal_stages_description`.
+                2. The appropriate skill level based on the `Skill_levels_description`.
+
+                Return the result in a structured JSON format as follows:
+                {json_file}
+
+                Ensure that the output is consistent and repeatable for the same transcript.
+                '''
 
         # Making a request to the OpenAI API
         response = openai.ChatCompletion.create(
@@ -92,7 +98,8 @@ def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": prompt}
-            ]
+            ],
+            temperature=0,
         )
 
         # Extracting the text from the response
@@ -128,6 +135,32 @@ def get_question_df_from_file(stage_level,skill_level):
 
     
     return questions
+
+def get_stage_level_description(stage_level):
+    stage_level = stage_level.strip()
+    path_file = "Skill_Framework.xlsx"
+    df = pd.read_excel(path_file, sheet_name="stage level")
+    description = df.loc[df['Stage'] == stage_level, 'Stage Description']
+    
+    if not description.empty:
+        description = {stage_level : description.iloc[0]}
+        return description
+    else:
+        return "Stage level not found."
+    
+
+def get_skill_level_description(skill_level):
+    skill_level = skill_level.strip()
+    path_file = "Skill_Framework.xlsx"
+    df = pd.read_excel(path_file, sheet_name="Skill Levels")
+
+    description = df.loc[df['Level'] == stage_level, 'Description']
+
+    if not description.empty:
+        return description.iloc[0]
+    else:
+        return "Skill level not found."
+    
 
 
 
@@ -167,7 +200,7 @@ def AudioCall_Assessment_Skill_Level_Score(Transcript,QuestionSet,skills_list,Sk
             Skill_level_description : {Skill_level_description}\n
             Deal_stage_description : {Deal_stage_description }\n
             The given Transcript is transcription of Sales audio call, 
-            assess the  transcript based on the Scoring_instructions for each question in QuestionSet. Provide a score between 1 and 4 for each question output.
+            assess the  transcript based on the Scoring_instructions for each question in QuestionSet. Provide a score between 1 and 4 for each question output. This is sensitive so provide it with best accuracy.
             In output give final Average score calculating average of all scores.
             Evaluate the  transcript to identify Demonstrated skills by sales agent from skills_list and identify skills need to improve and identify new skills to learn from skills_list. while evaluation of transcript consider Provided Deal_stage_description skill_level_description and  each question in QuestionSet 
             In output provide demonstrated skill, Skills which needs to improve and new skills needed to learn to perform job well without explaination.
@@ -184,7 +217,8 @@ def AudioCall_Assessment_Skill_Level_Score(Transcript,QuestionSet,skills_list,Sk
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": prompt}
-            ]
+            ],
+            temperature=0,
         )
 
         # Extracting the text from the response
@@ -200,48 +234,15 @@ def AudioCall_Assessment_Skill_Level_Score(Transcript,QuestionSet,skills_list,Sk
         return None
 
 
-
-def recommended_skills(output4,skills_list1):
-    try:
-        
-        prompt = (
-            f"output4: {output4}\n"    
-            f"skills_list : {skills_list1 }\n"
-            ""
-            "The given Transcript is transcription of Sales audio call "
-            "Please Evaluate the  transcript to identify Demonstrated skills by sales agent from skills_list and to identify skills need to improve and identify new skills to learn from skills_list. while evaluation of transcript consider Provided Deal_stage_description, skill_level_description and  each question in QuestionSet  "
-            "In output please give only  list of demonstrated skill in Transcript without explanation"
-            "In output please give only list of recommended Skills which need to improve and new skills needed to learn to perform job well without explaination"
-        )
-        
-        # Making a request to the OpenAI API
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",  # or another model version, check OpenAI's API documentation for the latest models
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant."},
-                {"role": "user", "content": prompt}
-            ]
-        )
-        
-        # Extracting the text from the response
-        result = response.choices[0].message['content'].strip()
-
-        return result
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return None
-
-
-
 Sale_deal_stages_description = {
-    "Excall Scheduled": "Initial discovery call organized with a lead/MQL to scope out their pain-points/requirements and an opportunity is defined. Sometimes the deal can be qualified at this stage and moves directly to 10% and other times further scoping and qualification is required.",
-    "Scoping": "Potential opportunity identified either through research on a high potential lead (New Biz) or through account planning and the identification of new up-sell/cross-sell/expansion opportunities (Partnerships). At this stage, the deal begins to be fully qualified before it can move to the next stage of the funnel.",
+    "Excall Scheduled": "At this stage, the sales rep successfully schedules an initial discovery call with the lead. This call is intended to delve deeper into the lead's specific needs, challenges, and goals. The conversation focuses on understanding the lead’s requirements and setting the stage for potential solutions. Advancement criteria include having the call scheduled with the appropriate stakeholders and a clear agenda for the discussion.",
+    "Scoping": "During the discovery call, the sales rep identifies a tangible opportunity that aligns with the lead's needs. This stage involves discussing specific use cases, potential solutions, and initial scoping of what the deal could involve. The sales rep gathers detailed information about the lead’s requirements and starts to shape a potential offer. Advancement to the next stage depends on the lead’s clear interest in moving forward and sufficient details being gathered to define the opportunity",
     "Opportunity Identified": "A tangible opportunity is identified in conversations with the prospect/customer and the lead is qualified as an SQL.",
-    "Proposal Shared": "Opportunity is articulated in more detail in a written proposal shared with the client.",
-    "Feedback from Client": "Response from the client on the proposal, and a basis from which to enter into contract negotiations is established.",
-    "Negotiating": "Client and company work through details of the deal including pricing and scope.",
-    "Contracting": "Contract sent to client for review.",
-    "Closed (Won)": "Contract is signed by the client."
+    "Proposal Shared": "The sales rep creates and sends a formal proposal based on the discussions during the scoping stage. The proposal outlines how the solution will meet the lead’s needs, including pricing, timelines, and specific deliverables. This stage focuses on providing the lead with a clear understanding of the offering and setting expectations for the deal. Advancement occurs when the proposal is sent and acknowledged, with the lead indicating they are reviewing it.",
+    "Feedback from Client": "The lead provides feedback on the proposal, which might include requests for modifications, clarifications, or additional information. This stage involves fine-tuning the proposal to ensure it aligns with the lead’s expectations and needs. The sales rep works closely with the lead to address any concerns or adjustments needed before finalizing the deal. Advancement to the next stage depends on the client’s continued interest and a clear path towards agreement.",
+    "Negotiating": "The sales rep and client engage in detailed negotiations to finalize the deal. This includes discussing pricing, contract terms, implementation timelines, and any other specifics that need to be agreed upon. The goal is to reach a mutual understanding and agreement on all critical aspects of the deal. Advancement from this stage occurs when both parties agree on the terms and are ready to proceed to contract signing.",
+    "Contracting": "The finalized contract is sent to the client for review and signature. This stage focuses on ensuring that all agreed-upon terms are documented and that the client is ready to formalize the agreement. The sales rep follows up to confirm receipt and address any final questions before signing. Advancement occurs when the contract is signed by both parties, making the deal official.",
+    "Closed (Won)": "The deal is successfully closed, with the client signing the contract and officially becoming a customer. The focus now shifts to onboarding and implementation. The sales rep confirms the contract signing and coordinates with the relevant teams to begin delivering the agreed-upon services. This stage marks the completion of the sales process and the beginning of the client relationship."
 }
 
 skill_levels_description = {
@@ -301,11 +302,6 @@ skill_levels_description = {
     }
 }
 
-
-Deal_stage_description= {
-     "Scoping": "Potential opportunity identified either through research on a high potential lead (New Biz) or through account planning and the identification of new up-sell/cross-sell/expansion opportunities (Partnerships). At this stage, the deal begins to be fully qualified before it can move to the next stage of the funnel."
-}
-
 skills_list = [
     "Advanced Metrics Analysis",
     "Strategic Influence",
@@ -324,26 +320,6 @@ skills_list = [
     "Problem-Solving Abilities"
 ]
 
-skills_list1 = [
-    "Data Analysis",
-    "Qualification Strategy Refinement",
-    "Targeting Optimization",
-    "Impact Assessment of Economic Buyers",
-    "Tailored Sales Approaches",
-    "Stakeholder Decision Criteria Evaluation",
-    "Sales Tactics Analysis",
-    "Complex Problem-Solving",
-    "Team Collaboration and Leadership",
-    "Champion Engagement Strategy",
-    "Competitive Landscape Evaluation",
-    "Counter-Strategy Development",
-    "Market Research",
-    "Upsell/Cross-sell Identification",
-    "Customer Relationship Management"
-]
-
-
-
 Skill_level_description= {
     "Specialist": {
         "Metrics": "Analyzes and discusses advanced metrics to drive qualification discussions and forecast outcomes.",
@@ -355,15 +331,6 @@ Skill_level_description= {
         "Competition": "Conducts in-depth comparisons and positions products against competitors during qualification discussions."
     }
 }
-
-
-
-
-# names = get_folders_in_directory()
-
-# Dropdown menu to select Audio Call
-
-
 
 if st.session_state.panel:
 
@@ -396,9 +363,11 @@ if st.session_state.panel:
                     print("deal level : ",deal_level)
                     if deal_level:
                         deal_stage_level = deal_level['deal_stage_level']
+                        single_stage_level_description = get_stage_level_description(deal_stage_level)
+
                         skill_level = deal_level['skill_level']
                         question_set = get_question_df_from_file(deal_stage_level,skill_level)
-                        skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name,question_set,skills_list,Skill_level_description,Deal_stage_description)
+                        skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name,question_set,skills_list,Skill_level_description,single_stage_level_description)
                         # print("deal_stage_level :",deal_stage_level)
                         # print("skill_level :",skill_level)
                         print(skill_metrics)
@@ -441,14 +410,10 @@ if st.session_state.panel:
         spider2 = create_spider_chart(final_averages,"Competency Performance Over Time")
         spider_grade = create_spider_chart(grade_wise_data_for_spider(deal_levels), "Grade-wise Competency Performance")
         bar_chart = create_advancement_chart(averages)
-
-        
         st.write("Transcript Data : ",deal_levels)
         st.write("Average Metrics Score : ",averages)
 
         col1, col2 = st.columns(2)
-
-
 
         with col1:
             st.plotly_chart(spider)
@@ -456,7 +421,5 @@ if st.session_state.panel:
         with col2:
             st.plotly_chart(bar_chart)
             st.plotly_chart(spider_grade)
-        
-        # st.write(skills_metrics)
-        # print(deal_levels)
+
 
