@@ -8,7 +8,8 @@ import chardet
 import re
 import json
 import collections
-
+from datetime import datetime
+import base64
 
 from sales_iq_graph import create_advancement_chart,create_spider_chart, grade_wise_data_for_spider
 # Load the .env file
@@ -19,20 +20,39 @@ if "panel" not in st.session_state:
 
 st.set_page_config(page_title="SalesIQ", layout='wide')
 st.markdown("<h1 style='text-align: center; color: grey;'>Sales IQ</h1>", unsafe_allow_html=True)
+column1, column2 = st.columns(2)
 
-input_key = st.text_input("Enter your OpenAI API key:", type="password")
+with column1:
+    name = st.text_input("Enter your name:")
+
+with column2:
+    input_key = st.text_input("Enter your OpenAI API key:", type="password")
+
 button = st.button("Set API Key")
-if input_key and button :
+if input_key and button and name:
     openai.api_key = input_key    
     st.session_state.panel = True
 
 if not st.session_state.panel:
-    st.error("Please enter your OpenAI API key.")
+    st.error("Please enter your Name and OpenAI API key.")
 
 
 # Get the API key from the .env file
 # openai_api_key = os.getenv('OPENAI_API_KEY')
 # openai.api_key =openai_api_key
+
+def download_csv(file_path, url_label_name):
+    with open(file_path, "rb") as file:
+        csv_data = file.read()
+
+    b64 = base64.b64encode(csv_data).decode()
+
+# Create download link
+    file_name = "data.csv"  # The name of the downloaded file
+    href = f'<a href="data:file/csv;base64,{b64}" download="{file_name}">{url_label_name}</a>'
+
+    return href
+
 
 def generate_progress_data(json_data):
     # Define the keys we are interested in
@@ -62,6 +82,24 @@ def get_files_in_directory(selected_folder):
     files = [name for name in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, name))]
     return files
 
+def store_data_in_csv(name,overall_data,average_data,grade_wise_data):
+    if os.path.exists('data.csv'):
+        df = pd.read_csv('data.csv')
+    else:
+        df = pd.DataFrame(columns=['Name','Datetime','Overall_Data', 'Average_Data', 'Grade_Wise_Data'])
+
+    datetime_now = datetime.now()
+    new_row = pd.DataFrame({
+        'Name': [name],
+        'Datetime': [datetime_now],
+        'Overall_Data': [overall_data],
+        'Average_Data': [average_data],
+        'Grade_Wise_Data': [grade_wise_data]
+    })
+    df = pd.concat([df, new_row], ignore_index=True)
+    csv = df.to_csv('data.csv', index=False)
+    return csv
+    
 
 def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description,skill_levels_description):
     try:
@@ -370,30 +408,21 @@ Skill_level_description= {
 }
 
 if st.session_state.panel:
-
     st.success("Key Successfully Entered")
-   
     uploaded_files = st.file_uploader("Upload Audio Transcripts", type="txt", accept_multiple_files=True)
-
     button1 = st.button("Get Insights for transcripts")
-
     if button1:
-        # file_names_list = get_files_in_directory(Audio_call)
-        #transcription = transcribe_audio(file_path)
-
-        # st.write(file_names_list)
         content = {}
         deal_levels = {}
         skills_metrics = {}
         with st.spinner('Loading Insights...'):
-        
             for index, uploaded_file in enumerate(uploaded_files, start=1):
                 try:
                     raw_data = uploaded_file.read()
                     result = chardet.detect(raw_data)
                     encoding = result['encoding']
 
-                    uploaded_file.seek(0)  # Reset file pointer to the beginning
+                    uploaded_file.seek(0)  
                     content_name = uploaded_file.read().decode(encoding)
 
                     # Debugging print statements
@@ -412,6 +441,8 @@ if st.session_state.panel:
                     skill_level = deal_level['skill_level']
                     question_set = get_question_df_from_file(deal_stage_level, skill_level)
                     skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name, question_set, skills_list, Skill_level_description, single_stage_level_description)
+
+                    st.success(f"Processed for Transcript {index}")
                     
                     key = f'transcript_{index}'
                     deal_levels[key] = deal_level 
@@ -425,21 +456,25 @@ if st.session_state.panel:
                 except UnicodeDecodeError:
                     st.warning(f"Skipping non-text file: {uploaded_file.name}")
 
-
         averages = get_average_metrics(deal_levels)
-        
-        # Average = json.loads(averages)
-
         specific_json = generate_progress_data(deal_levels)
-
         final_averages = {"Transcript" : averages}
-
         spider = create_spider_chart(specific_json,"Transcript-wise Competency Performance")
         spider2 = create_spider_chart(final_averages,"Competency Performance Over Time")
-        spider_grade = create_spider_chart(grade_wise_data_for_spider(deal_levels), "Grade-wise Competency Performance")
+
+        grade_wise_data = grade_wise_data_for_spider(deal_levels)
+        spider_grade = create_spider_chart(grade_wise_data, "Grade-wise Competency Performance")
         bar_chart = create_advancement_chart(averages)
         st.write("Transcript Data : ",deal_levels)
         st.write("Average Metrics Score : ",averages)
+
+        try:
+            csv_file = store_data_in_csv(name,deal_levels,averages,grade_wise_data)
+            st.success("Data stored in CSV successfully.")
+            file_path = 'data.csv'
+            st.markdown(download_csv(file_path,"Download CSV file"), unsafe_allow_html=True)
+        except Exception as e:
+            st.error(f"An error occurred while storing data in CSV: {e}")
 
         col1, col2 = st.columns(2)
 
