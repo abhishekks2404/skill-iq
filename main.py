@@ -355,36 +355,39 @@ if st.session_state.panel:
                     raw_data = uploaded_file.read()
                     result = chardet.detect(raw_data)
                     encoding = result['encoding']
-                    
+
                     uploaded_file.seek(0)  # Reset file pointer to the beginning
                     content_name = uploaded_file.read().decode(encoding)
 
-                    deal_level = AudioCall_Assessment_Deal_StageLevel(content_name,Sale_deal_stages_description,skill_levels_description) 
-                    print("deal level : ",deal_level)
-                    if deal_level:
-                        deal_stage_level = deal_level['deal_stage_level']
-                        single_stage_level_description = get_stage_level_description(deal_stage_level)
+                    # Debugging print statements
+                    print(f"Processing file {index}: {content_name[:100]}")
 
-                        skill_level = deal_level['skill_level']
-                        question_set = get_question_df_from_file(deal_stage_level,skill_level)
-                        skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name,question_set,skills_list,Skill_level_description,single_stage_level_description)
-                        # print("deal_stage_level :",deal_stage_level)
-                        # print("skill_level :",skill_level)
-                        print(skill_metrics)
+                    deal_level = AudioCall_Assessment_Deal_StageLevel(content_name, Sale_deal_stages_description, skill_levels_description)
+                    print(f"deal level for file {index}: {deal_level}")
 
+                    if not deal_level:
+                        st.warning(f"Failed to determine deal level for file {index}. Skipping.")
+                        continue
+
+                    deal_stage_level = deal_level['deal_stage_level']
+                    single_stage_level_description = get_stage_level_description(deal_stage_level)
+
+                    skill_level = deal_level['skill_level']
+                    question_set = get_question_df_from_file(deal_stage_level, skill_level)
+                    skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name, question_set, skills_list, Skill_level_description, single_stage_level_description)
+                    
                     key = f'transcript_{index}'
                     deal_levels[key] = deal_level 
                     skills_metrics[key] = skill_metrics
-                    # transcript_Num = deal_levels[key]
-                    # transcript_Num.update(skill_metrics)
+
                     for key in deal_levels.keys():
                         if key in skills_metrics:
                             deal_levels[key].update(skills_metrics[key])
 
-                    # print(deal_levels)
                     content[key] = content_name
                 except UnicodeDecodeError:
-                    st.warning(f"Skipping non-text file: {file_name}")
+                    st.warning(f"Skipping non-text file: {uploaded_file.name}")
+
 
         fields_to_average = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']
         
