@@ -85,7 +85,7 @@ def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description
                 Please identify:
                 1. The appropriate sales deal stage based on the `Sale_deal_stages_description`.
                 2. The appropriate skill level based on the `Skill_levels_description`.
-
+                Output should have only json in it. DO not mention any other text.
                 Return the result in a structured JSON format as follows:
                 {json_file}
 
@@ -104,11 +104,21 @@ def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description
 
         # Extracting the text from the response
         result = response.choices[0].message['content'].strip()
-        # print(result)
-        result = result.replace('```json', '').replace('```', '')
-        json_data = json.loads(result)
+        # print("\033[32mResult:", result, "\033[0m")         # print(result)
+        # result = result.replace('```json', '').replace('```', '')
+        # json_data = json.loads(result)
 
-        return json_data
+        match = re.search(r'```json(.*?)```', result, re.DOTALL)
+
+        if match:
+            result = match.group(1).strip()
+            json_data = json.loads(result)
+            print("Fetched Stage Level and Skill Level")
+            return json_data
+
+        else:
+            result = ""
+
 
     except Exception as e:
         print(f"An error occurred: {e}")
@@ -119,7 +129,7 @@ def get_question_df_from_file(stage_level,skill_level):
     stage_level = stage_level.strip()
     skill_level = skill_level.strip()
     
-    print("inside the function : ",stage_level,skill_level)
+    # print("Inside the function : ",stage_level,skill_level)
     path_file = "Skill_Framework.xlsx"
     df = pd.read_excel(path_file, sheet_name="Skills Framework")
     filtered_df = df[(df['Stage'] == stage_level) & (df['Skill Level'] == skill_level)]
@@ -132,9 +142,25 @@ def get_question_df_from_file(stage_level,skill_level):
         ai_assessment = row["AI Assessment"]
         question = f"{meddpic} : {ai_assessment}"
         questions.append(question)
-
     
     return questions
+
+def get_average_metrics(deal_levels):
+    fields_to_average = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']
+        
+    averages = {field: 0 for field in fields_to_average}
+    transcript_count = len(deal_levels)
+
+    # Sum up the values for each field across all transcripts
+    for transcript in deal_levels.values():
+        for field in fields_to_average:
+            averages[field] += int(transcript[field])
+
+    # Calculate the average for each field
+    for field in averages:
+        averages[field] /= transcript_count
+    
+    return averages
 
 def get_stage_level_description(stage_level):
     stage_level = stage_level.strip()
@@ -223,8 +249,19 @@ def AudioCall_Assessment_Skill_Level_Score(Transcript,QuestionSet,skills_list,Sk
 
         # Extracting the text from the response
         result = response.choices[0].message['content'].strip()
-        result = result.replace('```json', '').replace('```', '')
-        json_data = json.loads(result)
+        # result = result.replace('```json', '').replace('```', '')
+        # json_data = json.loads(result)
+
+        match = re.search(r'```json(.*?)```', result, re.DOTALL)
+
+        if match:
+            result = match.group(1).strip()
+            json_data = json.loads(result)
+            print("Fetched Metrics and Skills.")
+            return json_data
+
+        else:
+            result = ""
 
         # print(json_data)
         return json_data
@@ -360,10 +397,10 @@ if st.session_state.panel:
                     content_name = uploaded_file.read().decode(encoding)
 
                     # Debugging print statements
-                    print(f"Processing file {index}: {content_name[:100]}")
+                    print(f"Processing file {index}")
 
                     deal_level = AudioCall_Assessment_Deal_StageLevel(content_name, Sale_deal_stages_description, skill_levels_description)
-                    print(f"deal level for file {index}: {deal_level}")
+                    # print(f"deal level for file {index}: {deal_level}")
 
                     if not deal_level:
                         st.warning(f"Failed to determine deal level for file {index}. Skipping.")
@@ -389,19 +426,7 @@ if st.session_state.panel:
                     st.warning(f"Skipping non-text file: {uploaded_file.name}")
 
 
-        fields_to_average = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']
-        
-        averages = {field: 0 for field in fields_to_average}
-        transcript_count = len(deal_levels)
-
-        # Sum up the values for each field across all transcripts
-        for transcript in deal_levels.values():
-            for field in fields_to_average:
-                averages[field] += int(transcript[field])
-
-        # Calculate the average for each field
-        for field in averages:
-            averages[field] /= transcript_count
+        averages = get_average_metrics(deal_levels)
         
         # Average = json.loads(averages)
 
