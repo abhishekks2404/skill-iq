@@ -139,16 +139,16 @@ def store_data_in_csv(name,overall_data,average_data,grade_wise_data,file_names,
     if os.path.exists('data.csv'):
         df = pd.read_csv('data.csv')
     else:
-        df = pd.DataFrame(columns=['Name','Datetime','File_Names','Overall_Data', 'Average_Data', 'Grade_Wise_Data','Summary','Recommendation'])
+        df = pd.DataFrame(columns=['Name','Datetime','File_Names','How did you perform in the call?', 'Your Performance Trend across Calls (Avg)', 'Your Performance Across Sales Stages (Avg)','Summary','Recommendation'])
 
     datetime_now = datetime.now()
     new_row = pd.DataFrame({
         'Name': [name],
         'Datetime': [datetime_now],
         'File_Names': [file_names],
-        'Overall_Data': [overall_data],
-        'Average_Data': [average_data],
-        'Grade_Wise_Data': [grade_wise_data],
+        'How did you perform in the call?': [overall_data],
+        'Your Performance Trend across Calls (Avg)': [average_data],
+        'Your Performance Across Sales Stages (Avg)': [grade_wise_data],
         'Summary': [summary],
         'Recommendation': [recommendation]
     })
