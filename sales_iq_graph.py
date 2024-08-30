@@ -70,7 +70,7 @@ def create_spider_chart(progress_dict,graph_title):
             r=ideal_values,
             theta=categories,
             fill='toself',
-            name='Ideal Performance',
+            name='Expected Performance',
             line=dict(color='rgba(144, 238, 144, 0.8)'),
             fillcolor='rgba(144, 238, 144, 0.3)'
         ))

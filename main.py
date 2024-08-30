@@ -9,6 +9,7 @@ import re
 import json
 import collections
 from datetime import datetime
+import asyncio
 import base64
 
 from sales_iq_graph import create_advancement_chart,create_spider_chart, grade_wise_data_for_spider
@@ -41,27 +42,79 @@ if not st.session_state.panel:
 # openai_api_key = os.getenv('OPENAI_API_KEY')
 # openai.api_key =openai_api_key
 
+def get_recommendations(transcript):
+    prompt = f'''
+    Transcript: {transcript}
+    Based on the provided Transcript analysis of the sales rep's performance, generate a list of recommended training programs or modules that address the identified skills gaps and areas for improvement. The recommendations should be tailored to the specific deficiencies noted in the analysis and should include:
+ 
+        1. Training Modules: Recommend specific training modules or courses that align with the identified skills gaps and new skills. Include brief descriptions of each module, explaining how it will help address the deficiencies.
+        2. Prioritization: Suggest a prioritization order for the training, starting with the most critical gaps that need immediate attention.
+        3. Actionable Steps: Provide actionable steps for the sales rep to follow in their training journey, 
+        including any practice exercises, resources, or additional reading that could reinforce the training.
+        
+        Output:
+        
+        A prioritized list of recommended training modules with descriptions.
+        What new skills they will learn with corresponding training resources.
+        Actionable steps for the sales rep to enhance their skills and close the identified gaps.
+        Provide this in maximum 300 words.
+        '''
+    response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",  # or another model version, check OpenAI's API documentation for the latest models
+            messages=[
+                {"role": "system", "content": "You are a recommendation provider assistant."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0,
+        )
+
+        # Extracting the text from the response
+    result = response.choices[0].message['content'].strip()
+    return result
+
+
+async def get_chat_completion(messages):
+    response = await openai.ChatCompletion.acreate(
+        model="gpt-3.5-turbo",
+        messages=messages
+    )
+    return response['choices'][0]['message']['content']
+
+async def summary(json, key):
+    full_text = "\n".join([i[key] for k,i in json.items()])
+    messages = [
+        {"role": "system", "content": SUMMARISATION_PROMPT},
+        {"role": "user", "content": full_text}
+    ]
+    print("start")
+    response = await get_chat_completion(messages)
+    
+    return response,key
+
+
+SUMMARISATION_PROMPT = """
+Could you please provide a concise and comprehensive summary of the given text? 
+The summary should capture the main points and key details of the text while conveying the author's intended meaning accurately.
+Please ensure that the summary is well-organized and easy to read, with clear headings and subheadings to guide the reader through each section.
+The length of the summary should be appropriate to capture the main points and key details of the text, 
+without including unnecessary information or becoming overly long.
+also only give the summary, without giving addition info like
+**Summary**: the summary says.....etc"""
+
 def download_csv(file_path, url_label_name):
     with open(file_path, "rb") as file:
         csv_data = file.read()
-
     b64 = base64.b64encode(csv_data).decode()
-
-# Create download link
     file_name = "data.csv"  # The name of the downloaded file
     href = f'<a href="data:file/csv;base64,{b64}" download="{file_name}">{url_label_name}</a>'
 
     return href
 
-
 def generate_progress_data(json_data):
-    # Define the keys we are interested in
-    keys = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process']
- 
+    keys = ['Decision Criteria', 'Economic Buyer', 'Metrics', 'Competition', 'Champion', 'Identify Pain', 'Decision Process'] 
     progress_data = {}
     for i, (transcript_key, transcript_values) in enumerate(json_data.items(), start=1):
         progress_key = f'Transcript {i}'
-        # Map the values directly from the transcript to the progress data
         progress_data[progress_key] = {key: int(transcript_values[key]) for key in keys}
  
     return progress_data
@@ -82,19 +135,22 @@ def get_files_in_directory(selected_folder):
     files = [name for name in os.listdir(directory_path) if os.path.isfile(os.path.join(directory_path, name))]
     return files
 
-def store_data_in_csv(name,overall_data,average_data,grade_wise_data):
+def store_data_in_csv(name,overall_data,average_data,grade_wise_data,file_names,summary,recommendation):
     if os.path.exists('data.csv'):
         df = pd.read_csv('data.csv')
     else:
-        df = pd.DataFrame(columns=['Name','Datetime','Overall_Data', 'Average_Data', 'Grade_Wise_Data'])
+        df = pd.DataFrame(columns=['Name','Datetime','File_Names','Overall_Data', 'Average_Data', 'Grade_Wise_Data','Summary','Recommendation'])
 
     datetime_now = datetime.now()
     new_row = pd.DataFrame({
         'Name': [name],
         'Datetime': [datetime_now],
+        'File_Names': [file_names],
         'Overall_Data': [overall_data],
         'Average_Data': [average_data],
-        'Grade_Wise_Data': [grade_wise_data]
+        'Grade_Wise_Data': [grade_wise_data],
+        'Summary': [summary],
+        'Recommendation': [recommendation]
     })
     df = pd.concat([df, new_row], ignore_index=True)
     csv = df.to_csv('data.csv', index=False)
@@ -103,7 +159,6 @@ def store_data_in_csv(name,overall_data,average_data,grade_wise_data):
 
 def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description,skill_levels_description):
     try:
-        
         
         json_file = {
             'deal_stage_level': 'Sales level should be mentioned here','deal_stage_explanation' : 'Provide short explanation for the score of deal_stage_level',
@@ -153,10 +208,8 @@ def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description
             json_data = json.loads(result)
             print("Fetched Stage Level and Skill Level")
             return json_data
-
         else:
             result = ""
-
 
     except Exception as e:
         print(f"An error occurred: {e}")
@@ -415,6 +468,10 @@ if st.session_state.panel:
         content = {}
         deal_levels = {}
         skills_metrics = {}
+        
+        final_recommendations = ""
+        file_names = [uploaded_file.name for uploaded_file in uploaded_files]
+
         with st.spinner('Loading Insights...'):
             for index, uploaded_file in enumerate(uploaded_files, start=1):
                 try:
@@ -459,22 +516,16 @@ if st.session_state.panel:
         averages = get_average_metrics(deal_levels)
         specific_json = generate_progress_data(deal_levels)
         final_averages = {"Transcript" : averages}
-        spider = create_spider_chart(specific_json,"Transcript-wise Competency Performance")
-        spider2 = create_spider_chart(final_averages,"Competency Performance Over Time")
+        spider = create_spider_chart(specific_json,"How did you perform in the call?")
+        spider2 = create_spider_chart(final_averages,"Your Performance Trend across Calls (Avg)")
 
         grade_wise_data = grade_wise_data_for_spider(deal_levels)
-        spider_grade = create_spider_chart(grade_wise_data, "Grade-wise Competency Performance")
+        spider_grade = create_spider_chart(grade_wise_data, "Your Performance Across Sales Stages (Avg)")
         bar_chart = create_advancement_chart(averages)
         st.write("Transcript Data : ",deal_levels)
         st.write("Average Metrics Score : ",averages)
 
-        try:
-            csv_file = store_data_in_csv(name,deal_levels,averages,grade_wise_data)
-            st.success("Data stored in CSV successfully.")
-            file_path = 'data.csv'
-            st.markdown(download_csv(file_path,"Download CSV file"), unsafe_allow_html=True)
-        except Exception as e:
-            st.error(f"An error occurred while storing data in CSV: {e}")
+        
 
         col1, col2 = st.columns(2)
 
@@ -484,5 +535,41 @@ if st.session_state.panel:
         with col2:
             st.plotly_chart(bar_chart)
             st.plotly_chart(spider_grade)
+
+        with st.spinner("Generating Summary...."):
+            async def main(json, summary_list):
+                tasks = [summary(json, item) for item in summary_list]
+                responses= await asyncio.gather(*tasks)
+                summary_responses = ""
+                st.markdown("### Summary:")
+                for res,key in responses:
+                    key = key.replace("_explanation","").replace("_"," ")
+                    text = f"**{key}** {res}"
+                    st.markdown(text, unsafe_allow_html=True)
+
+                    summary_responses = f"{summary_responses} \n {text}"
+                
+                summary_responses = f"### Summary: \n {summary_responses}"
+                return summary_responses    
+                
+                
+                    
+            summary_list = ["deal_stage_explanation","skill_stage_explanation","Metrics_explanation", "Economic Buyer_explanation","Decision Criteria_explanation","Decision Process_explanation","Identify Pain_explanation","Champion_explanation","Competition_explanation"]
+            summary = asyncio.run(main(deal_levels,summary_list))
+            print(summary)
+
+        with st.spinner("Generating Recommendations...."):
+            recommendations = get_recommendations(deal_levels)
+            recommendations = f"### Recommendations : \n {recommendations}"
+            final_recommendations = recommendations
+            st.markdown(recommendations)
+
+        try:
+            csv_file = store_data_in_csv(name,deal_levels,averages,grade_wise_data,file_names,summary,final_recommendations)
+            st.success("Data stored in CSV successfully.")
+            file_path = 'data.csv'
+            st.markdown(download_csv(file_path,"Download CSV file"), unsafe_allow_html=True)
+        except Exception as e:
+            st.error(f"An error occurred while storing data in CSV: {e}")
 
 
