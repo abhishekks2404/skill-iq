@@ -519,8 +519,6 @@ if st.session_state.panel:
         st.write("Transcript Data : ",deal_levels)
         st.write("Average Metrics Score : ",averages)
 
-        
-
         col1, col2 = st.columns(2)
 
         with col1:
