@@ -86,7 +86,6 @@ async def summary(json, key):
         {"role": "system", "content": SUMMARISATION_PROMPT},
         {"role": "user", "content": full_text}
     ]
-    print("start")
     response = await get_chat_completion(messages)
     
     return response,key
@@ -197,7 +196,7 @@ def AudioCall_Assessment_Deal_StageLevel(Transcript,Sale_deal_stages_description
 
         # Extracting the text from the response
         result = response.choices[0].message['content'].strip()
-        # print("\033[32mResult:", result, "\033[0m")         # print(result)
+        # print(result)
         # result = result.replace('```json', '').replace('```', '')
         # json_data = json.loads(result)
 
@@ -266,20 +265,24 @@ def get_stage_level_description(stage_level):
         return "Stage level not found."
     
 
-def get_skill_level_description(skill_level):
+def get_skill_level_description(stage_level,skill_level):
+    stage_level = stage_level.strip()
     skill_level = skill_level.strip()
     path_file = "Skill_Framework.xlsx"
-    df = pd.read_excel(path_file, sheet_name="Skill Levels")
-
-    description = df.loc[df['Level'] == stage_level, 'Description']
-
-    if not description.empty:
-        return description.iloc[0]
-    else:
-        return "Skill level not found."
+    df = pd.read_excel(path_file, sheet_name="Skills Framework")
     
+    filtered_df = df[(df['Stage'] == stage_level) & (df['Skill Level'] == skill_level)]
 
+    questions = {}
 
+    for index, row in filtered_df.iterrows():
+        meddpic = row["MEDDPIC Component"]
+        competency = row["Competency"]
+        question = f"{meddpic} : {competency}"
+        questions[meddpic] = competency
+        # questions.append(question)
+    
+    return { skill_level : questions }
 
 def AudioCall_Assessment_Skill_Level_Score(Transcript,QuestionSet,skills_list,Skill_level_description,Deal_stage_description):
     try:
@@ -328,9 +331,8 @@ def AudioCall_Assessment_Skill_Level_Score(Transcript,QuestionSet,skills_list,Sk
 
         '''
         
-        # Making a request to the OpenAI API
         response = openai.ChatCompletion.create(
-            model="gpt-4-turbo",  # or another model version, check OpenAI's API documentation for the latest models
+            model="gpt-4-turbo", 
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": prompt}
@@ -448,18 +450,6 @@ skills_list = [
     "Problem-Solving Abilities"
 ]
 
-Skill_level_description= {
-    "Specialist": {
-        "Metrics": "Analyzes and discusses advanced metrics to drive qualification discussions and forecast outcomes.",
-        "Economic Buyer": "Engages economic buyers with strategies that influence their buying decisions.",
-        "Decision Criteria": "Integrates complex decision criteria into qualification discussions.",
-        "Decision Process": "Manages and steers the decision process to ensure proper qualification.",
-        "Identify Pain": "Identifies underlying or unexpressed customer pains through insightful questioning.",
-        "Champion": "Develops deep relationships with champions to leverage their influence effectively.",
-        "Competition": "Conducts in-depth comparisons and positions products against competitors during qualification discussions."
-    }
-}
-
 if st.session_state.panel:
     st.success("Key Successfully Entered")
     uploaded_files = st.file_uploader("Upload Audio Transcripts", type="txt", accept_multiple_files=True)
@@ -493,11 +483,15 @@ if st.session_state.panel:
                         continue
 
                     deal_stage_level = deal_level['deal_stage_level']
+                    skill_level = deal_level['skill_level']
                     single_stage_level_description = get_stage_level_description(deal_stage_level)
+
+                    single_skill_level_description = get_skill_level_description(deal_stage_level, skill_level)
+                    print(f"single_skill_level_description: {single_skill_level_description}")
 
                     skill_level = deal_level['skill_level']
                     question_set = get_question_df_from_file(deal_stage_level, skill_level)
-                    skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name, question_set, skills_list, Skill_level_description, single_stage_level_description)
+                    skill_metrics = AudioCall_Assessment_Skill_Level_Score(content_name, question_set, skills_list, single_skill_level_description, single_stage_level_description)
 
                     st.success(f"Processed for Transcript {index}")
                     
@@ -556,7 +550,6 @@ if st.session_state.panel:
                     
             summary_list = ["deal_stage_explanation","skill_stage_explanation","Metrics_explanation", "Economic Buyer_explanation","Decision Criteria_explanation","Decision Process_explanation","Identify Pain_explanation","Champion_explanation","Competition_explanation"]
             summary = asyncio.run(main(deal_levels,summary_list))
-            print(summary)
 
         with st.spinner("Generating Recommendations...."):
             recommendations = get_recommendations(deal_levels)
